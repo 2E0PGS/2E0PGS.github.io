@@ -3,4 +3,4 @@ title: M3PGS / 2E0PGS personal website
 description: Ham radio, Programming, Data Networks, Electronics, FOSS, GNU/Linux, Trance and Ale.
 
 # Build options.
-theme: jekyll-theme-primer
+remote_theme: mmistakes/jekyll-theme-basically-basic
