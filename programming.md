@@ -1,6 +1,6 @@
 ---
 title: Programming
-My programming projects
+description: My programming projects
 nav: true
 ---
 
@@ -36,7 +36,9 @@ Simple tool for Windows that notifies user when:
 #### Open Fusion LED Controller:
 
 [Repo](https://bitbucket.org/2E0PGS/open-fusion-led-controller-main)
+
 [Download](https://bitbucket.org/2E0PGS/open-fusion-led-controller-arduino)
+
 Open Source universal LED Strip light controller based on Arduino.
 
 ### NodeJS:
