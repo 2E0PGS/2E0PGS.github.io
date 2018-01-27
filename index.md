@@ -5,7 +5,7 @@ description: Homepage
 
 ![Banner](http://m3pgs.weebly.com/uploads/8/1/6/2/8162774/header_images/1411236150.jpg)
 
-# Welcome to my website.
+# Welcome to my website
 
 ### Contents:
 
