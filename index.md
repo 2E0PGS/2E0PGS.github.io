@@ -3,7 +3,7 @@ title: Home
 description: Homepage
 ---
 
-[test]() | [test2]() | [test3]() | [test4]() | [test5]()
+{% include nav.md %}
 
 ![Banner](http://m3pgs.weebly.com/uploads/8/1/6/2/8162774/header_images/1411236150.jpg)
 
