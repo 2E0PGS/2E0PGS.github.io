@@ -7,9 +7,7 @@ description: Homepage
 
 # Welcome to my website.
 
-##### Ham radio, Programming, Data Networks, Electronics, FOSS, GNU/Linux, Trance and Ale.
-
-#### Contents:
+### Contents:
 
 {% for page in site.pages %}
 {% if page.nav == true %}- [{{ page.title }}]({{ page.url | absolute_url }}){% endif %}
