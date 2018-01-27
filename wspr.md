@@ -3,6 +3,10 @@ title: WSPR
 description: Weak Signal Propagation Reporter
 ---
 
-![Banner](http://m3pgs.weebly.com/uploads/8/1/6/2/8162774/header_images/1411236150.jpg)
+{% include social.md %}
+
+{% include nav.md %}
+
+{% include banner.md %}
 
 # WSPR
