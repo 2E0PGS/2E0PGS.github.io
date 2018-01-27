@@ -1,6 +1,6 @@
 # General options.
-title: M3PGS / 2E0PGS personal website.
+title: M3PGS / 2E0PGS personal website
 description: Ham radio, Programming, Data Networks, Electronics, FOSS, GNU/Linux, Trance and Ale.
 
 # Build options.
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
