@@ -8,6 +8,13 @@ nav: true
 
 # Ham Radio
 
+### Sub Pages:
+
+* [HSMM-MESH](https://2e0pgs.github.io/hsmm_mesh.html)
+* [HSMM-MESH Help Page](https://2e0pgs.github.io/hsmm_mesh_help.html)
+* [WSPR](https://2e0pgs.github.io/wspr.html)
+* [APRS](https://2e0pgs.github.io/aprs.html)
+
 ### General info:
 
 Call sign: 2E0PGS / M3PGS

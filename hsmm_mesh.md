@@ -1,7 +1,6 @@
 ---
-title: HSMM Mesh
+title: HSMM-MESH
 description: Ham Radio Mesh Networking
-nav: true
 ---
 
 ![Banner](http://m3pgs.weebly.com/uploads/8/1/6/2/8162774/header_images/1411236150.jpg)
@@ -37,3 +36,32 @@ I highly suggest visiting their website for more info and reading up on what HSM
 	* Chat Server with video: OFFLINE
 	* IP Cam: ONLINE
 	* SIP Phone: 2011, 2013
+
+### G7NSY-BULLET
+
+* Status: ONLINE
+* Device: Ubiquiti Bullet M2
+* Antenna: Beam vertial polarization pointing to MX0NBC-BULLET
+* Services:
+	* Weather Station: ONLINE
+	* OpenWebSDR: ONLINE
+	* GB3ZZ DATV Stream: ONLINE
+	* SIP Phone: 2021
+
+### G8KUW-1
+
+* Status: ONLINE
+* Device: Linksys WRT54G
+* Antenna: Beam vertial polarization pointing to 2E0PGS-BULLET
+* Services:
+	* MeshChat: ONLINE
+
+### MX0NBC-BULLET
+
+* Status: ONLINE
+* Device: Ubiquiti Bullet M2
+* Antenna: Beam vertial polarization pointing to G7NSY-BULLET
+* Services:
+	* IP Cam1: OFFLINE
+	* IP Cam2: OFFLINE
+	* SIP Phone: TBA
