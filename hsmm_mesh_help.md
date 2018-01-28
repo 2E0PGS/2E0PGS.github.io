@@ -27,6 +27,6 @@ Basic Internet, Node and LAN VLAN Setup, image curtiousy of AE5CA who has a grea
 * [Arden Software](https://www.aredn.org/content/software)
 * [Air OS](http://setuprouter.com/router/ubiquiti/airos-airgrid-m5hp/login.htm)
 * [Putty Download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (or get Putty on Linux in Ubuntu repos)
-* [Bullet Jtag Connector](https://community.ubnt.com/t5/Bullet-Radio-Modules/Bullet-connector-J10/td-p/11089)
-* [un-brick a Bullet M2](https://community.ubnt.com/t5/airOS-SDK-Custom-Development/AirMAX-Device-Firmware-Recovery-Procedure/td-p/1499583)
+* [Bullet J10 Serial Connector](https://community.ubnt.com/t5/Bullet-Radio-Modules/Bullet-connector-J10/td-p/11089)
+* [Un-brick a Bullet M2](https://community.ubnt.com/t5/airOS-SDK-Custom-Development/AirMAX-Device-Firmware-Recovery-Procedure/td-p/1499583)
 * [Firmware Recovery via TFTP](https://help.ubnt.com/hc/en-us/articles/204911324-airMAX-How-to-reset-your-device-with-TFTP-firmware-recovery)

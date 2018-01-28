@@ -11,6 +11,10 @@ description: Ham Radio Mesh Networking
 
 # HSMM-MESH
 
+### Sub Pages:
+
+* [HSMM-MESH Help](https://2e0pgs.github.io/hsmm_mesh_help.html)
+
 Bristol-Hamnet is a WI-FI mesh network for hamradio operators.
 
 The Bristol-Hamnet is based on the "Broadband-Hamnet" aka "HSMM-MESH" which was brought about by Americans. Some people in the UK have setup nodes for HSMM-MESH but there is none in Bristol, so we plan to change that.
@@ -38,7 +42,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 	* Overham_IRC: OFFLINE
 	* IRC: OFFLINE
 	* Chat Server with video: OFFLINE
-	* IP Cam: ONLINE
+	* IP Cam: OFFLINE
 	* SIP Phone: 2011, 2013
 
 ### G7NSY-BULLET
@@ -47,9 +51,9 @@ I highly suggest visiting their website for more info and reading up on what HSM
 * Device: Ubiquiti Bullet M2
 * Antenna: Beam vertial polarization pointing to MX0NBC-BULLET
 * Services:
-	* Weather Station: ONLINE
-	* OpenWebSDR: ONLINE
-	* GB3ZZ DATV Stream: ONLINE
+	* Weather Station: OFFLINE
+	* OpenWebSDR: OFFLINE
+	* GB3ZZ DATV Stream: OFFLINE
 	* SIP Phone: 2021
 
 ### G8KUW-1
