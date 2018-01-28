@@ -15,7 +15,7 @@ nav: true
 ### Sub Pages:
 
 * [HSMM-MESH](https://2e0pgs.github.io/hsmm_mesh.html)
-* [HSMM-MESH Help](https://2e0pgs.github.io/hsmm_mesh_help.html)
+	* [HSMM-MESH Help](https://2e0pgs.github.io/hsmm_mesh_help.html)
 * [WSPR](https://2e0pgs.github.io/wspr.html)
 * [APRS](https://2e0pgs.github.io/aprs.html)
 
