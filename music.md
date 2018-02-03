@@ -41,17 +41,17 @@ Mostly classic trance as it's my favorite genre for many reasons.
 Don't just listen to the beginning as most trance tracks have a "lead in" or a "build up". The track can change vastly over a period.
 Anyway I recommend listening via a decent HI-FI system or using headphones with good all round coverage of bass and high end.
 
-#### Playlist URL:
+Playlist URL:
 
 ### Psychedelic Trance
 
 Most of my psy trance interest is from Goa Trance. Which originates from Goa in India. Psychedelic drug use, ancient Asian musical instruments and religious practices of deep meditation!
 
-#### Playlist URL:
+Playlist URL:
 
 ### Techno
 
-#### Playlist URL:
+Playlist URL:
 
 ### House
 
@@ -62,44 +62,44 @@ House music is probably my second favorite genre for many reasons.
 * Very relaxing it can help you meditate and repair without actually meditating.
 * Has cross over with some early techno tracks.
 
-#### Playlist URL:
+Playlist URL:
 
 ### Lounge / Chill / Down Tempo
 
-#### Playlist URL:
+Playlist URL:
 
 ### IDM (electronic music that emerged in the early 1990s)
 
-#### Playlist URL:
+Playlist URL:
 
 ### Synth Pop (short for synthesizer pop prominent in the late 1970s)
 
-#### Playlist URL:
+Playlist URL:
 
 ### OST (Original Sound Track, mostly focusing on game sound tracks)
 
 Producers for computer game OST's have just as much influence as full fledged music producers. They just often choose to only produce for computer games since it fits with their style of music. You can find some of the most interesting music this way as the music often portrays a theme or setting of an area in the game. For example dark spooky level or boss level with loads of action.
 
-#### Playlist URL:
+Playlist URL:
 
 ### ​New Wave (rock music popular in late 1970s and the 1980s with ties to mid-1970s punk rock)
 
-#### Playlist URL:
+Playlist URL:
 
 ### Drum and Bass
 
 Most of my tastes in DnB come from the 90s where you get that classic synth, deep complex relaxing synth pads and drum machines such as the 909 or 808. The only other decent DnB time frame was a couple years around 2009 where there was a modern DnB scene reappearing. However that soon diminished and only a few decent tracks came of it.
 
-#### Playlist URL:
+Playlist URL:
 
 ### Progressive Rock
 
-#### Playlist URL:
+Playlist URL:
 
 ### Fusion Jazz
 
-#### Playlist URL:
+Playlist URL:
 
 ### Soul, Jazz, Funk
 
-#### Playlist URL: [Spotify](https://open.spotify.com/user/2e0pgs/playlist/7haGM4NznXqTCBOXwolHZq)
+Playlist URL: [Spotify](https://open.spotify.com/user/2e0pgs/playlist/7haGM4NznXqTCBOXwolHZq)

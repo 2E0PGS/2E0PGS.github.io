@@ -11,7 +11,7 @@ description: Ham Radio Mesh Networking
 
 # HSMM-MESH
 
-### Sub Pages:
+### Sub Pages
 
 * [HSMM-MESH Help](https://2e0pgs.github.io/hsmm_mesh_help.html)
 
@@ -31,7 +31,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 >In its current form it is built using the Linksys WRT54G/GL/GS wireless routers and operates on channels 1-6 of the 2.4GHz ISM band, which overlaps with the upper portion of the 13cm amateur radio band. Other platforms and bands include several types of Ubiquiti equipment in the 900MHz, 2.4GHz and 5.7GHz band. Adidtional features let signals come in on one band and leave on another without additional configuration. All mesh nodes on all bands exchange data so long as they are within range.
 
-### Node locations:
+### Node locations
 
 #### 2E0PGS-BULLET
 

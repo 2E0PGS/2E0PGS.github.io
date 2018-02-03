@@ -10,19 +10,19 @@ nav: true
 
 {% include banner.md %}
 
-# Programming {}
+# Programming
 
 Here are links to some programs that made and released into the public domain under GNU General Public Licence: [http://opensource.org/licenses/GPL-3.0](http://opensource.org/licenses/GPL-3.0)
 
-### Desktop Programs:
+### Desktop Programs
 
-#### Power Failure Logger Program:
+#### Power Failure Logger Program
 
 [Repo](https://bitbucket.org/2E0PGS/power-failure-logger-program/overview) - [Download](https://bitbucket.org/2E0PGS/power-failure-logger-program/downloads)
 
 Simple program for logging power failures on a laptop. Saves logs to text file including time and date. GUI interface showing time of last failure and current power status. Logs when power is restored also.
 
-#### Key Lock Notifier:
+#### Key Lock Notifier
 
 [Repo](https://bitbucket.org/2E0PGS/key-lock-notifier/overview) - [Download](https://bitbucket.org/2E0PGS/key-lock-notifier/downloads)
 
@@ -31,15 +31,15 @@ Simple tool for Windows that notifies user when:
 * Number Lock Disabled
 * Insert Key Enabled using sounds and/or pop-up balloon or toast notifications.
 
-### Arduino:
+### Arduino
 
-#### Open Fusion LED Controller:
+#### Open Fusion LED Controller
 
 [Repo](https://bitbucket.org/2E0PGS/open-fusion-led-controller-main) - [Download](https://bitbucket.org/2E0PGS/open-fusion-led-controller-arduino)
 
 Open Source universal LED Strip light controller based on Arduino.
 
-### NodeJS:
+### NodeJS
 
 #### Discord-Terminal
 
@@ -59,17 +59,17 @@ RocketChat-Terminal allows you to access RocketChat and enables you to chat in y
 
 Peregrine is a simple bot for DiscordApp the new gamer chat program that replaces Skype and TeamSpeak. This bot is designed to post Twitter Tweets from a feed right into the DiscordApp chat. It is designed to work with twitter users how ever it can work with keywords or more (with a little tinkering).
 
-### JavaScript:
+### JavaScript
 
-#### Tab Count Chrome:
+#### Tab Count Chrome
 
 [Repo](https://bitbucket.org/2E0PGS/tabcountchrome)
 
 A browser extension for Google Chrome which displays a count of tabs you have open. Also displays tab count per a Chrome window.
 
-### CSS:
+### CSS
 
-#### Userstyles:
+#### Userstyles
 
 [Repo](https://bitbucket.org/2E0PGS/userstyles/overview) - [Download](https://userstyles.org/users/358475)
 

@@ -12,14 +12,14 @@ nav: true
 
 # Ham Radio
 
-### Sub Pages:
+### Sub Pages
 
 * [HSMM-MESH](https://2e0pgs.github.io/hsmm_mesh.html)
 * [HSMM-MESH Help](https://2e0pgs.github.io/hsmm_mesh_help.html)
 * [WSPR](https://2e0pgs.github.io/wspr.html)
 * [APRS](https://2e0pgs.github.io/aprs.html)
 
-### General info:
+### General info
 
 Call sign: 2E0PGS / M3PGS
 
@@ -33,7 +33,7 @@ Member of RSGB (Radio Society Of Great Britain)
 
 Licensed since March 2010
 
-### Radios:
+### Radios
 
 * ICOM IC-E208
 * Yaesu FT-840
@@ -45,5 +45,5 @@ Licensed since March 2010
 * RIGblaster plus
 * RTL-SDR
 
-### Contactable via:
+### Contactable via
 GB3BS, ﻿GB7BS﻿, GB3ZB, GB3WR, GB3BC, GB3AA, GB7AA and calling channels VHF, UHF, HF

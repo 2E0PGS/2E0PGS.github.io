@@ -11,7 +11,7 @@ description: Homepage
 
 # Welcome to my website
 
-### About:
+### About
 
 _Fun fact: this website is written using Markdown a lightweight markup language with plain text formatting syntax. The Markdown source files then get rendered into HTML via [Jekyll](https://github.com/jekyll/jekyll) on Github._
 

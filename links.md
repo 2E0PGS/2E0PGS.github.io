@@ -12,7 +12,8 @@ nav: true
 
 # Links
 
-### Personal Links:
+### Personal Links
+
 * [QRZ Page M3PGS](www.qrz.com/db/M3PGS)
 * [QRZ Page 2E0PGS](www.qrz.com/db/2E0PGS)
 * [My Github Repo](https://github.com/2E0PGS/)
@@ -24,7 +25,8 @@ nav: true
 * [My YouTube Channel](https://www.youtube.com/channel/UC4IVhv2NEz8Piceh4ot91og)
 * [My Minds.com profile](https://www.minds.com/2E0PGS)
 
-### Other Links:
+### Other Links
+
 * [NBARC (North Bristol Amateur Radio Club)](www.nbarc.org.uk)
 * [Westrally](www.westrally.org.uk)
 * [RSGB](www.rsgb.org)
