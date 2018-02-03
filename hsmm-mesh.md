@@ -13,7 +13,7 @@ description: Ham Radio Mesh Networking
 
 ### Sub Pages
 
-* [HSMM-MESH Help](https://2e0pgs.github.io/hsmm_mesh_help.html)
+* [HSMM-MESH Help](https://2e0pgs.github.io/hsmm-mesh-help.html)
 
 Bristol-Hamnet is a WI-FI mesh network for hamradio operators.
 
