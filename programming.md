@@ -27,9 +27,12 @@ Simple program for logging power failures on a laptop. Saves logs to text file i
 [Repo](https://bitbucket.org/2E0PGS/key-lock-notifier/overview) - [Download](https://bitbucket.org/2E0PGS/key-lock-notifier/downloads)
 
 Simple tool for Windows that notifies user when:
-* Caps Lock Enabled
-* Number Lock Disabled
-* Insert Key Enabled using sounds and/or pop-up balloon or toast notifications.
+
+* Caps Lock is Enabled.
+* Number Lock is Disabled.
+* Insert Key is Enabled.
+
+Using sounds and/or pop-up balloon aka toast notifications.
 
 ### Arduino
 
@@ -63,7 +66,7 @@ Peregrine is a simple bot for DiscordApp the new gamer chat program that replace
 
 #### Tab Count Chrome
 
-[Repo](https://bitbucket.org/2E0PGS/tabcountchrome)
+[Repo](https://bitbucket.org/2E0PGS/tab-count-chrome)
 
 A browser extension for Google Chrome which displays a count of tabs you have open. Also displays tab count per a Chrome window.
 
