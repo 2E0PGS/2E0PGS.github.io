@@ -12,7 +12,7 @@ nav: true
 
 # Music
 
-## Sub Pages
+### Sub Pages
 
 * [My audio setup](https://2e0pgs.github.io/audio-setup.html)
 
@@ -32,7 +32,7 @@ Appreciate feedback if you enjoy the music.
 
 I used to listen to tonnes of internet radio which helped me gain roots in world music. Alot of German and Ibiza electronic internet radio stations. Either trance, techno or chill / lounge mostly.
 
-## Trance
+### Trance
 
 Mostly classic trance as it's my favorite genre for many reasons.
 
