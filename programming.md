@@ -14,7 +14,7 @@ nav: true
 
 Here are links to some programs that made and released into the public domain under GNU General Public Licence: [http://opensource.org/licenses/GPL-3.0](http://opensource.org/licenses/GPL-3.0)
 
-### C#
+### C Sharp
 
 #### Power Failure Logger Program
 
