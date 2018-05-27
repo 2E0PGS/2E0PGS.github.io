@@ -1,7 +1,7 @@
 ---
 title: Audio setup
 description: My audio setup
-nav: true
+nav: false
 ---
 
 {% include social.md %}
