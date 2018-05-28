@@ -3,11 +3,7 @@ title: HSMM-MESH
 description: Ham Radio Mesh Networking
 ---
 
-{% include social.md %}
-
-{% include nav.md %}
-
-{% include banner.md %}
+{% include main-template.md %}
 
 # HSMM-MESH
 

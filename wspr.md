@@ -3,11 +3,7 @@ title: WSPR
 description: Weak Signal Propagation Reporter
 ---
 
-{% include social.md %}
-
-{% include nav.md %}
-
-{% include banner.md %}
+{% include main-template.md %}
 
 # WSPR
 

@@ -4,11 +4,7 @@ description: Amateur Radio
 nav: true
 ---
 
-{% include social.md %}
-
-{% include nav.md %}
-
-{% include banner.md %}
+{% include main-template.md %}
 
 # Ham Radio
 

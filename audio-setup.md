@@ -4,11 +4,7 @@ description: My audio setup
 nav: false
 ---
 
-{% include social.md %}
-
-{% include nav.md %}
-
-{% include banner.md %}
+{% include main-template.md %}
 
 # Audio Setup
 

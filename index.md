@@ -3,11 +3,7 @@ title: Home
 description: Homepage
 ---
 
-{% include social.md %}
-
-{% include nav.md %}
-
-{% include banner.md %}
+{% include main-template.md %}
 
 # Welcome to my website
 

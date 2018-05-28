@@ -4,11 +4,7 @@ description: My programming projects
 nav: true
 ---
 
-{% include social.md %}
-
-{% include nav.md %}
-
-{% include banner.md %}
+{% include main-template.md %}
 
 # Programming
 
