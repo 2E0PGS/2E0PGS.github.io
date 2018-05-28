@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Override some of the base theme CSS */
+
+.wrapper {
+	/* max-width: 900px; */
+}
+
+section {
+	margin-top: 0px;
+	/* max-width: 900px; */
+}
+
+section #title {
+	margin: 0 0 0px 0;
+}
