@@ -25,4 +25,6 @@ I also operate a APRS I-Gate which runs on a Raspberry PI B+ with a SDR dongle. 
 
 I used to have my WX (Weather) Station on APRS but currently my Weather Station is broken.
 
-You can see my nodes on this map view of Bristol via [aprs.fi](https://aprs.fi/#!mt=roadmap&z=11&lat=51.4829&lng=-2.6549&timerange=3600)
+You can see my nodes on this map view of Bristol via [aprs.fi](https://aprs.fi/#!mt=roadmap&z=11&lat=51.4829&lng=-2.6549&timerange=3600) or via the below embedded map:
+
+{% include aprs-fi-map.html %}
