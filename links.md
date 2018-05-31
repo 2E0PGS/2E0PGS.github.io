@@ -10,8 +10,8 @@ nav: true
 
 ### Personal Links
 
-* [QRZ Page M3PGS](www.qrz.com/db/M3PGS)
-* [QRZ Page 2E0PGS](www.qrz.com/db/2E0PGS)
+* [QRZ Page M3PGS](https://www.qrz.com/db/M3PGS)
+* [QRZ Page 2E0PGS](https://www.qrz.com/db/2E0PGS)
 * [My Github Repo](https://github.com/2E0PGS/)
 * [My Github Gists](https://gist.github.com/2E0PGS)
 * [My Bitbucket Repo](https://bitbucket.org/2E0PGS/)
@@ -23,13 +23,13 @@ nav: true
 
 ### Other Links
 
-* [NBARC (North Bristol Amateur Radio Club)](www.nbarc.org.uk)
-* [Westrally](www.westrally.org.uk)
-* [RSGB](www.rsgb.org)
-* [G8YMM](www.g8ymm.org.uk)
-* [M6JBR - 2E0JCC](www.2e0jcc.weebly.com)
+* [NBARC (North Bristol Amateur Radio Club)](http://www.nbarc.org.uk)
+* [Westrally](http://www.westrally.org.uk)
+* [RSGB](http://www.rsgb.org)
+* [G8YMM](http://www.g8ymm.org.uk)
+* [M6JBR - 2E0JCC](http://www.2e0jcc.weebly.com)
 * [M6KVM - 2E0EOL](http://www.daybologic.co.uk)
 * [G7NSY](http://g7nsy.uk/wordpress/)
-* [GB3BS](www.gb3bs.com)
+* [GB3BS](http://www.gb3bs.com)
 * [THE FRYS HILL REPEATER GROUP](http://www.gb3fh.eclipse.co.uk/index_files/Page266.htm)
-* [DMR-UK](www.dmruk.net)
+* [DMR-UK](http://www.dmruk.net)
