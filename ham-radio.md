@@ -10,10 +10,10 @@ nav: true
 
 ### Sub Pages
 
-* [HSMM-MESH](https://2e0pgs.github.io/hsmm-mesh.html)
-* [HSMM-MESH Help](https://2e0pgs.github.io/hsmm-mesh-help.html)
-* [WSPR](https://2e0pgs.github.io/wspr.html)
-* [APRS](https://2e0pgs.github.io/aprs.html)
+* [HSMM-MESH](/hsmm-mesh.html)
+* [HSMM-MESH Help](/hsmm-mesh-help.html)
+* [WSPR](/wspr.html)
+* [APRS](/aprs.html)
 
 ### General info
 
