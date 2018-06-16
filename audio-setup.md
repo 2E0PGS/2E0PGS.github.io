@@ -40,9 +40,15 @@ I love the automatic function of this deck. It means I wont wear out my stylus i
 
 Great quality audio. Nice bass and treble response.
 
-### PC DAC
+### DAC
 
 Realtek ALC887
+
+This is the DAC in my main personal desktop and it's fantastic for a motherboard built in HD audio.
+
+[FiiO E10K](https://www.headfonia.com/fiio-e10k-classic-reborn/)
+
+I mainly use this DAC on the PC at work and it fixes all the PC PSU line noise problems I was having before. The lower end bass on this is a bit better than the Realtek ALC887 I recon as it manages to shake my headphones just that bit extra. I don't however use the bass-boost mode but I do use the high-gain switch.
 
 ### Ear-Canal headphones
 
