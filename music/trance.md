@@ -1,6 +1,6 @@
 ---
 title: Trance
-description: My favourite trance tracks.
+description: My favourite trance albums/singles
 nav: false
 ---
 
@@ -19,7 +19,7 @@ Mostly classic trance as it's my favorite genre for many reasons.
 Don't just listen to the beginning as most trance tracks have a "lead in" or a "build up". The track can change vastly over a period.
 Anyway I recommend listening via a decent HI-FI system or using headphones with good all round coverage of bass and high end.
 
-## List of my favorite tracks
+## List of my favorite albums/singles
 
 * Sasha - Xpander (Original)
 * Bedrock - Heaven Scent (Original Mix)
