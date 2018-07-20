@@ -1,12 +1,12 @@
 ---
-title: Contact Me
-description: Ways you can contact me
+title: Contact
+description: Contact me
 nav: true
 ---
 
 {% include main-template.md %}
 
-# Contact Me
+# Contact me
 
 * My old websites contact form: [contact-me.html](http://m3pgs.weebly.com/contact-me.html)
 * I am always on IRC and I can be found in [#NBARC](http://nbarc.weebly.com/irc.html) IRC channel on freenode which I manage.
