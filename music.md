@@ -10,7 +10,8 @@ nav: true
 
 ### Sub Pages
 
-* [My audio setup](/audio-setup.html)
+* [My audio setup](/music/audio-setup.html)
+* [Trance](/music/trance.html)
 
 Music is a key part of my life. I have a vast musical taste but I know where my interests are. I think it's important for people to know what genres they like instead of just saying "I like everything". This relates to more philosophy in life than just ones musical interests.
 
