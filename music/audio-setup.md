@@ -56,10 +56,18 @@ I mainly use this DAC on the PC at work and it fixes all the PC PSU line noise p
 
 Great quality however the bass is lacking unless it's snug in the ear. Drives well of the phones DAC. The trebel response is brilliant.
 
+### Bluetooth speaker
+
+[KitSound Miami](https://mcd.kitsound.co.uk/product/details/35929/KitSound/Miami_Wireless_Speaker_Tesco_Exclusive/Wired_Speakers/)
+
+Great bass for such a small device. Long battery life that lasts roughly a soild day of playback. Stero speakers, micro USB support and AUX input. Cost me £30 from Tesco UK and I would purchase a Kitsound bluetooth speaker again if I ever loose this one. Compares to more expensive Bose and MiniRig portable speakers.
+
 ### Headphones
 
 todo
 
-### Minidisk player
+### MiniDisk player
 
-todo
+[Sony Walkman MZ-R410](http://www.minidisc.org/part_Sony_MZ-R410.html) and [Sony Walkman MZ-E62](http://www.minidisc.org/part_Sony_MZ-E60.html)
+
+Both are great portable MiniDisk players. I have used the MZ-E62 alot more however since it has the remote control and great bass. However only the MZ-R410 has a record facility so that's what I mainly use it for. One for recording and one for playback essentially. Both take AA batteries which saves on buying expensive Li-ion replacements when batteries wear out, this is something later models are subject too.
