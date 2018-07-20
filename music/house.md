@@ -15,7 +15,7 @@ House music is probably my second favorite genre for many reasons.
 * Very relaxing it can help you meditate and repair without actually meditating.
 * Has cross over with some early techno tracks.
 
-## List of my favorite albums/singles
+### List of my favorite albums/singles
 
 * Way Out West - Tuesday Maybe
 * Mr. G - Daily Prayer
