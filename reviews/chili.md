@@ -20,6 +20,10 @@ One of my favourite sauces for flavoring. Such a lovely flavor from this chili.
 
 It's not for me since theres roasted onions in it. However it works in a sauce to add complexity to the base.
 
+[Psycho Juice - Roasted Garlic Ghost Pepper](https://www.amazon.co.uk/gp/product/B00O6TP6FA) (7/10 heat level)
+
+Full of flavour and nice chunky thick sauce. Makes a great pizza dip. Not overly garicy incase your worried about that.
+
 [Psycho Juice - 70% Ghost Pepper](https://www.amazon.co.uk/Psycho-Juice-70-Ghost-Pepper/dp/B005MSE5KG)
 
 [Psycho Juice - 70% Scorpion Pepper](https://www.amazon.co.uk/Psycho-Juice-70-Scorpion-Pepper/dp/B00EZMNZMY) (8/10 heat level)
@@ -40,7 +44,7 @@ My favorite gerkins/pickles. Lovely heat level just don't eat too many at once o
 
 [Dave's Gourmet - Ultimate Insanity](https://www.amazon.co.uk/gp/product/B001C316QG) (7/10 heat level)
 
-[Dave's Gourmet - Naga Jolokia Ghost Pepper](https://www.amazon.co.uk/Daves-Gourmet-Jolokia-Ghost-Pepper/dp/B001PQTYN2)  (7/10 heat level)
+[Dave's Gourmet - Naga Jolokia Ghost Pepper](https://www.amazon.co.uk/Daves-Gourmet-Jolokia-Ghost-Pepper/dp/B001PQTYN2)  (8/10 heat level)
 
 [Ginger Beards Preserves - Fermented Scotch Sriracha](https://www.gingerbeardspreserves.co.uk/product/fermented-scotch-sriracha/) (7/10 heat level)
 
