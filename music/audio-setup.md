@@ -42,7 +42,7 @@ Great quality audio. Nice bass and treble response.
 
 ### DAC
 
-Realtek ALC887
+[Realtek ALC887]()
 
 This is the DAC in my main personal desktop and it's fantastic for a motherboard built in HD audio.
 
@@ -68,6 +68,10 @@ todo
 
 ### MiniDisk player
 
-[Sony Walkman MZ-R410](http://www.minidisc.org/part_Sony_MZ-R410.html) and [Sony Walkman MZ-E62](http://www.minidisc.org/part_Sony_MZ-E60.html)
+[Sony Walkman MZ-R410](http://www.minidisc.org/part_Sony_MZ-R410.html)
 
-Both are great portable MiniDisk players. I have used the MZ-E62 alot more however since it has the remote control and great bass. However only the MZ-R410 has a record facility so that's what I mainly use it for. One for recording and one for playback essentially. Both take AA batteries which saves on buying expensive Li-ion replacements when batteries wear out, this is something later models are subject too.
+The MZ-R410 has a record facility so that's what I mainly use it for. Takes a single AA battery.
+
+[Sony Walkman MZ-E62](http://www.minidisc.org/part_Sony_MZ-E60.html)
+
+I use the MZ-E62 more since it has the remote control and great bass boost. Takes a single AA battery.
