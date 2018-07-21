@@ -31,6 +31,8 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 #### 2E0PGS-BULLET
 
+<iframe allowtransparency="true" frameborder="0" scrolling="no" style="width: 100%; height: 250px; margin-top: 10px; margin-bottom: 10px;" src="www.weebly.com/weebly/apps/generateMap.php?map=google&amp;elementid=967026316251769322&amp;ineditor=0&amp;control=3&amp;width=auto&amp;height=250px&amp;overviewmap=0&amp;scalecontrol=0&amp;typecontrol=0&amp;zoom=15&amp;long=-2.542444&amp;lat=51.519795&amp;domain=www&amp;point=1&amp;align=1&amp;reseller=false"></iframe>
+
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
 * Antenna: Beam vertial polarization pointing to G8KUW-1
@@ -41,7 +43,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 	* IP Cam: OFFLINE
 	* SIP Phone: 2011, 2013
 
-### G7NSY-BULLET
+#### G7NSY-BULLET
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
@@ -52,7 +54,9 @@ I highly suggest visiting their website for more info and reading up on what HSM
 	* GB3ZZ DATV Stream: OFFLINE
 	* SIP Phone: 2021
 
-### G8KUW-1
+#### G8KUW-1
+
+<iframe allowtransparency="true" frameborder="0" scrolling="no" style="width: 100%; height: 250px; margin-top: 10px; margin-bottom: 10px;" src="www.weebly.com/weebly/apps/generateMap.php?map=google&amp;elementid=583054723277680798&amp;ineditor=0&amp;control=3&amp;width=auto&amp;height=250px&amp;overviewmap=0&amp;scalecontrol=0&amp;typecontrol=0&amp;zoom=15&amp;long=-2.545431&amp;lat=51.517974&amp;domain=www&amp;point=1&amp;align=1&amp;reseller=false"></iframe>
 
 * Status: ONLINE
 * Device: Linksys WRT54G
@@ -60,7 +64,9 @@ I highly suggest visiting their website for more info and reading up on what HSM
 * Services:
 	* MeshChat: ONLINE
 
-### MX0NBC-BULLET
+#### MX0NBC-BULLET
+
+<iframe allowtransparency="true" frameborder="0" scrolling="no" style="width: 100%; height: 250px; margin-top: 10px; margin-bottom: 10px;" src="www.weebly.com/weebly/apps/generateMap.php?map=google&amp;elementid=803732343694773912&amp;ineditor=0&amp;control=3&amp;width=auto&amp;height=250px&amp;overviewmap=0&amp;scalecontrol=0&amp;typecontrol=0&amp;zoom=15&amp;long=-2.580307&amp;lat=51.501493&amp;domain=www&amp;point=1&amp;align=1&amp;reseller=false"></iframe>
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
