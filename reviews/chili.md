@@ -22,7 +22,7 @@ It's not for me since theres roasted onions in it. However it works in a sauce t
 
 [Psycho Juice - Roasted Garlic Ghost Pepper](https://www.amazon.co.uk/gp/product/B00O6TP6FA) (7/10 heat level)
 
-Full of flavour and nice chunky thick sauce. Makes a great pizza dip. Not overly garicy incase your worried about that.
+Full of flavour and nice chunky thick sauce. Makes a great pizza dip. Not overly garlicy incase your worried about that.
 
 [Psycho Juice - 70% Ghost Pepper](https://www.amazon.co.uk/Psycho-Juice-70-Ghost-Pepper/dp/B005MSE5KG)
 
@@ -34,11 +34,19 @@ My favorite gerkins/pickles. Lovely heat level just don't eat too many at once o
 
 [The Chili Alchemist - The Smoke Potion](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
 
+Not very hot and uses "liquid smoke", this causes it too taste chemically.
+
 [The Chili Alchemist - The Smoke Potion Magnum Opus](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
+
+Same story as "The Smoke Potion" but a little hotter.
 
 [The Chili Alchemist - The Red King](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
 
+Decent wine smell and flavour. No fake flavoring in this one.
+
 [The Chili Alchemist - The Everlasting Flame](https://www.amazon.co.uk/Chilli-Alchemist-Philosophers-Magnum-Everlasting/dp/B01ELY0OHO) (5/10 heat level)
+
+Decent fresh lime flavour.
 
 [Da' Bomb! Ground Zero](https://www.amazon.co.uk/gp/product/B001BIXK70) (9/10 heat level)
 
