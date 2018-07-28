@@ -8,6 +8,6 @@ nav: false
 
 # ​New Wave (rock music popular in late 1970s and the 1980s with ties to mid-1970s punk rock)
 
-### List of my favorite albums/singles
+### List of my favourite albums/singles
 
 *

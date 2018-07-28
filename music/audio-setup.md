@@ -14,7 +14,7 @@ This is a list of my current main HI-FI system setup. It does change now and the
 
 Aiwa SX NV-150 "twin duct three way bass reflex speaker system"
 
-Decent speakers with a strong bass. Suprising quality when I have compared them to much more expensive kevlar speakers. However I would still like to upgraded them at some point.
+Decent speakers with a strong bass. Surprising quality when I have compared them to much more expensive kevlar speakers. However I would still like to upgraded them at some point.
 
 ### Amplifier
 
@@ -48,19 +48,19 @@ This is the DAC in my main personal desktop and it's fantastic for a motherboard
 
 [FiiO E10K](https://www.headfonia.com/fiio-e10k-classic-reborn/)
 
-I mainly use this DAC on the PC at work and it fixes all the PC PSU line noise problems I was having before. The lower end bass on this is a bit better than the Realtek ALC887 I recon as it manages to shake my headphones just that bit extra. I don't however use the bass-boost mode but I do use the high-gain switch.
+I mainly use this DAC on the PC at work and it fixes all the PC PSU line noise problems I was having before. The lower end bass on this is a bit better than the Realtek ALC887 I reckon as it manages to shake my headphones just that bit extra. I don't however use the bass-boost mode but I do use the high-gain switch.
 
 ### Ear-Canal headphones
 
 [Sennheiser CX 475](https://www.stuff.tv/sennheiser/cx-475/review)
 
-Great quality however the bass is lacking unless it's snug in the ear. Drives well of the phones DAC. The trebel response is brilliant.
+Great quality however the bass is lacking unless it's snug in the ear. Drives well of the phones DAC. The treble response is brilliant.
 
 ### Bluetooth speaker
 
 [KitSound Miami](https://mcd.kitsound.co.uk/product/details/35929/KitSound/Miami_Wireless_Speaker_Tesco_Exclusive/Wired_Speakers/)
 
-Great bass for such a small device. Long battery life that lasts roughly a soild day of playback. Stero speakers, micro USB support and AUX input. Cost me £30 from Tesco UK and I would purchase a Kitsound bluetooth speaker again if I ever loose this one. Compares to more expensive Bose and MiniRig portable speakers.
+Great bass for such a small device. Long battery life that lasts roughly a solid day of playback. Stereo speakers, micro USB support and AUX input. Cost me £30 from Tesco UK and I would purchase a Kitsound bluetooth speaker again if I ever loose this one. Compares to more expensive Bose and MiniRig portable speakers.
 
 ### Headphones
 

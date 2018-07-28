@@ -8,6 +8,6 @@ nav: false
 
 # Downtempo
 
-### List of my favorite albums/singles
+### List of my favourite albums/singles
 
 * Yagya ‎– The Inescapable Decay Of My Heart

@@ -32,8 +32,8 @@ Music is a key part of my life. I have a vast musical taste but I know where my 
 
 These are not in any kind of order. Some will get populated before others as this is a new section of my website.
 
-However I must say Trance has to be my all time favorite and most influencing genre! It is so incredibly complex and diverse!
+However I must say Trance has to be my all time favourite and most influencing genre! It is so incredibly complex and diverse!
 
 Appreciate feedback if you enjoy the music.
 
-I used to listen to tonnes of internet radio which helped me gain roots in world music. Alot of German and Ibiza electronic internet radio stations. Either trance, techno or chill / lounge mostly.
+I used to listen to tonnes of internet radio which helped me gain roots in world music. A lot of German and Ibiza electronic internet radio stations. Either trance, techno or chill / lounge mostly.

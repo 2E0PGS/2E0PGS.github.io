@@ -25,7 +25,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 >​​Broadband-Hamnet™ (formerly called HSMM-Mesh™) is a high speed, self discovering, self configuring, fault tolerant, wireless computer network that can run for days from a fully charged car battery, or indefinitely with the addition of a modest solar array or other supplemental power source. The focus is on emergency communications.
 
->In its current form it is built using the Linksys WRT54G/GL/GS wireless routers and operates on channels 1-6 of the 2.4GHz ISM band, which overlaps with the upper portion of the 13cm amateur radio band. Other platforms and bands include several types of Ubiquiti equipment in the 900MHz, 2.4GHz and 5.7GHz band. Adidtional features let signals come in on one band and leave on another without additional configuration. All mesh nodes on all bands exchange data so long as they are within range.
+>In its current form it is built using the Linksys WRT54G/GL/GS wireless routers and operates on channels 1-6 of the 2.4GHz ISM band, which overlaps with the upper portion of the 13cm amateur radio band. Other platforms and bands include several types of Ubiquiti equipment in the 900MHz, 2.4GHz and 5.7GHz band. Additional features let signals come in on one band and leave on another without additional configuration. All mesh nodes on all bands exchange data so long as they are within range.
 
 ### Node locations
 
@@ -33,7 +33,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
-* Antenna: Beam vertial polarization pointing to G8KUW-1
+* Antenna: Beam vertical polarization pointing to G8KUW-1
 * Services:
 	* Overham_IRC: OFFLINE
 	* IRC: OFFLINE
@@ -45,7 +45,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
-* Antenna: Beam vertial polarization pointing to MX0NBC-BULLET
+* Antenna: Beam vertical polarization pointing to MX0NBC-BULLET
 * Services:
 	* Weather Station: OFFLINE
 	* OpenWebSDR: OFFLINE
@@ -56,7 +56,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 * Status: ONLINE
 * Device: Linksys WRT54G
-* Antenna: Beam vertial polarization pointing to 2E0PGS-BULLET
+* Antenna: Beam vertical polarization pointing to 2E0PGS-BULLET
 * Services:
 	* MeshChat: ONLINE
 
@@ -64,7 +64,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
-* Antenna: Beam vertial polarization pointing to G7NSY-BULLET
+* Antenna: Beam vertical polarization pointing to G7NSY-BULLET
 * Services:
 	* IP Cam1: OFFLINE
 	* IP Cam2: OFFLINE

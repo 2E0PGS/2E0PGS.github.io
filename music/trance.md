@@ -8,18 +8,18 @@ nav: false
 
 # Trance
 
-Mostly classic trance as it's my favorite genre for many reasons.
+Mostly classic trance as it's my favourite genre for many reasons.
 
 * Complex synthesizer sequences.
 * Has that classic synth and drum machine sound.
 * Nostalgia from tracks of my youth.
-* All the tracks are unique due to custom built hardware and custom patches with physical hardware. Modern trance cannot compare because everyone is using the same DAW (Digial Audio Workstation), the same VST plugins (Virtual Instruments) and following the same tutorial on YouTube...
+* All the tracks are unique due to custom built hardware and custom patches with physical hardware. Modern trance cannot compare because everyone is using the same DAW (Digital Audio Workstation), the same VST plugins (Virtual Instruments) and following the same tutorial on YouTube...
 * ​It's called trance because it puts you into a deep trance state! Altered consciousness!​
 
 Don't just listen to the beginning as most trance tracks have a "lead in" or a "build up". The track can change vastly over a period.
 Anyway I recommend listening via a decent HI-FI system or using headphones with good all round coverage of bass and high end.
 
-### List of my favorite albums/singles
+### List of my favourite albums/singles
 
 * Sasha - Xpander (Original)
 * Bedrock - Heaven Scent (Original Mix)

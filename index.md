@@ -15,6 +15,6 @@ This site has recently been written as an experiment to see if I can supersede m
 
 Anyway here you will find a collection of topics which evolve around my hobbies. Mostly Computers, Music and Electronics.
 
-Alot of the content here at the moment revolves around Ham Radio but I plan to expand this site to support more content around my other hobbies.
+A lot of the content here at the moment revolves around Ham Radio but I plan to expand this site to support more content around my other hobbies.
 
 I plan to add a blog to this [Jekyll](https://github.com/jekyll/jekyll) site so I can post tips and tricks I have come across into simple blog posts which can be indexed via search engines. I am not one of those people who like to blog about my life story. However I will share useful tips on any topic I see fit.

@@ -8,14 +8,14 @@ nav: false
 
 # House
 
-House music is probably my second favorite genre for many reasons.
+House music is probably my second favourite genre for many reasons.
 
 * Deep rhythmic beats that vibrate your soul.
 * Has that classic drum machine sound.
 * Very relaxing it can help you meditate and repair without actually meditating.
 * Has cross over with some early techno tracks.
 
-### List of my favorite albums/singles
+### List of my favourite albums/singles
 
 * Way Out West - Tuesday Maybe
 * Mr. G - Daily Prayer

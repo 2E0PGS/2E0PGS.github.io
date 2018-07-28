@@ -1,12 +1,12 @@
 ---
-title: Chili
+title: Chilli
 description: Reviews of extreme hot sauces
 nav: false
 ---
 
 {% include main-template.md %}
 
-# Chili
+# Chilli
 
 ## Sauces
 
@@ -14,11 +14,11 @@ nav: false
 
 [Psycho Juice 70% - Red Savina](https://www.amazon.co.uk/Psycho-Juice-70-Red-Savina/dp/B005MSZG22)
 
-One of my favourite sauces for flavoring. Such a lovely flavor from this chili.
+One of my favourite sauces for flavouring. Such a lovely flavour from this chilli.
 
 [Psycho Juice - Chipotle Ghost Pepper](https://www.amazon.co.uk/Psycho-Juice-Chipotle-Ghost-Pepper/dp/B008CRD9HE)
 
-It's not for me since theres roasted onions in it. However it works in a sauce to add complexity to the base.
+It's not for me since there’s roasted onions in it. However it works in a sauce to add complexity to the base.
 
 [Psycho Juice - Roasted Garlic Ghost Pepper](https://www.amazon.co.uk/gp/product/B00O6TP6FA) (7/10 heat level)
 
@@ -30,21 +30,21 @@ Full of flavour and nice chunky thick sauce. Makes a great pizza dip. Not overly
 
 [Psycho Pickles - Ghost Pepper](https://www.amazon.co.uk/gp/product/B00ND6PYCW) (7/10 heat level)
 
-My favorite gerkins/pickles. Lovely heat level just don't eat too many at once or you will pay for it tomorrow. Sweet fresh small gerkins.
+My favourite gherkins/pickles. Lovely heat level just don't eat too many at once or you will pay for it tomorrow. Sweet fresh small gherkins.
 
-[The Chili Alchemist - The Smoke Potion](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
+[The Chilli Alchemist - The Smoke Potion](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
 
 Not very hot and uses "liquid smoke", this causes it too taste chemically.
 
-[The Chili Alchemist - The Smoke Potion Magnum Opus](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
+[The Chilli Alchemist - The Smoke Potion Magnum Opus](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
 
 Same story as "The Smoke Potion" but a little hotter.
 
-[The Chili Alchemist - The Red King](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
+[The Chilli Alchemist - The Red King](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
 
-Decent wine smell and flavour. No fake flavoring in this one.
+Decent wine smell and flavour. No fake flavouring in this one.
 
-[The Chili Alchemist - The Everlasting Flame](https://www.amazon.co.uk/Chilli-Alchemist-Philosophers-Magnum-Everlasting/dp/B01ELY0OHO) (5/10 heat level)
+[The Chilli Alchemist - The Everlasting Flame](https://www.amazon.co.uk/Chilli-Alchemist-Philosophers-Magnum-Everlasting/dp/B01ELY0OHO) (5/10 heat level)
 
 Decent fresh lime flavour.
 
@@ -64,28 +64,28 @@ Quite a chunky and thick sauce. Not overly hot but that's expected. Makes a grea
 
 [Ginger Beards Preserves - Moor Ghost Pepper Fusion](https://www.gingerbeardspreserves.co.uk/product/moor-ghost-pepper-fusion/) (8/10 heat level)
 
-This is a damn excellent hot sauce. Made with real natural ingredients no fake flavouring. Seriously hot with serious flavour. This is a craft chili sauce made with craft beer! Two of my favourite things! Smokey, spicy and chunky.
+This is a damn excellent hot sauce. Made with real natural ingredients no fake flavouring. Seriously hot with serious flavour. This is a craft chilli sauce made with craft beer! Two of my favourite things! Smoky, spicy and chunky.
 
-[The Chili Peper Company - El Diablo](http://www.chileseeds.co.uk/products/el-diablo-hot-chilli-sauce-775.php)
+[The Chilli Pepper Company - El Diablo](http://www.chileseeds.co.uk/products/el-diablo-hot-chilli-sauce-775.php)
 
-Very hot sauce great in any noodle dish or chili con carne. A few spices like pepper.
+Very hot sauce great in any noodle dish or chilli-con-carne. A few spices like pepper.
 
-[The Chili Peper Company - The Beast](http://www.chileseeds.co.uk/products/the-beast-hot-chilli-sauce-30.php)
+[The Chilli Pepper Company - The Beast](http://www.chileseeds.co.uk/products/the-beast-hot-chilli-sauce-30.php)
 
-Qutie a sweet sauce but good for sausages or other meats as a dip.
+Quite a sweet sauce but good for sausages or other meats as a dip.
 
 ## Extracts
 
 [Mad Dog - 44 Magnum 4 Million Scovilles](https://www.amazon.co.uk/Mad-Dog-Million-Scovilles-Extract/dp/B00170SKRC) (9/10 heat level)
 
-You don't need any more concentrated extract that this! A few drops into a chip dip or chili con carne helps heat it right up. However I believe I have built up a tollerance to extracts over the years as before just two drops in chili con carne could cause me to nearly puke. Now I can use 4-6 and not really notice it.
+You don't need any more concentrated extract that this! A few drops into a chip dip or chilli-con-carne helps heat it right up. However I believe I have built up a tolerance to extracts over the years as before just two drops in chilli-con-carne could cause me to nearly puke. Now I can use 4-6 and not really notice it.
 
 ## Peppers
 
 [Carolina Reaper]() (10/10 heat level)
 
-This gave me some shooting ear pain when eating half of one raw. No other chili product has done that to me yet! Seriously hot and not to be messed with. However I can add two into a chili con carne or noodles and be fine eating it. It does sit in your gut though. This is also an extremely floral chili, tastes a bit like eating perfume.
+This gave me some shooting ear pain when eating half of one raw. No other chilli product has done that to me yet! Seriously hot and not to be messed with. However I can add two into a chilli-con-carne or noodles and be fine eating it. It does sit in your gut though. This is also an extremely floral chilli, tastes a bit like eating perfume.
 
 [Komodo Dragon]() (9/10 heat level)
 
-This one is more ediable raw than a Carolina Reaper. I eat most of one before but it does really heat up slowly after the fact. Whole mouth will be on fire. Lovely floral notes and not too overpowering.
+This one is more edible raw than a Carolina Reaper. I eat most of one before but it does really heat up slowly after the fact. Whole mouth will be on fire. Lovely floral notes and not too overpowering.

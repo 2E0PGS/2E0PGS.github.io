@@ -10,7 +10,7 @@ nav: false
 
 Most of my psy trance interest is from Goa Trance. Which originates from Goa in India. Psychedelic drug use, ancient Asian musical instruments and religious practices of deep meditation!
 
-### List of my favorite albums/singles
+### List of my favourite albums/singles
 
 * Yarn - Under The Giant Hat (Under The Giant Hat)
 * Entheogenic - Astral Cave
