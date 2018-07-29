@@ -8,7 +8,7 @@ nav: false
 
 # Techno
 
-### List of my favourite albums/singles
+## List of my favourite albums/singles
 
 * ​Altern 8 - E-Vapor-8
 * ​Outlander - Vamp - R&S Records Classics

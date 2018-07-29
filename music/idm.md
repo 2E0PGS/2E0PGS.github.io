@@ -8,7 +8,7 @@ nav: false
 
 # IDM (electronic music that emerged in the early 1990s)
 
-### List of my favourite albums/singles
+## List of my favourite albums/singles
 
 * Gas - Gas 0095
 * Orb - The Orb's Adventures Beyond The Ultraworld

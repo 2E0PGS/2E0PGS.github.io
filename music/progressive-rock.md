@@ -8,6 +8,6 @@ nav: false
 
 # Progressive Rock
 
-### List of my favourite albums/singles
+## List of my favourite albums/singles
 
 *

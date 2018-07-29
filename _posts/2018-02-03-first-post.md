@@ -5,4 +5,4 @@ layout: post
 
 # First post
 
-#### Testing blog style posts on Jekyll!
+## Testing blog style posts on Jekyll!

@@ -8,6 +8,6 @@ nav: false
 
 # Fusion Jazz
 
-### List of my favourite albums/singles
+## List of my favourite albums/singles
 
 *
