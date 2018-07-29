@@ -10,13 +10,13 @@ nav: false
 
 ## Sauces
 
-[Psycho Juice - 70% Habanero](https://www.amazon.co.uk/Dr-Burnoriums-Psycho-Juice-Habanero/dp/B005NNN6W8)
+[Psycho Juice - 70% Habanero](https://www.amazon.co.uk/Dr-Burnoriums-Psycho-Juice-Habanero/dp/B005NNN6W8) (5/10 heat level)
 
-[Psycho Juice 70% - Red Savina](https://www.amazon.co.uk/Psycho-Juice-70-Red-Savina/dp/B005MSZG22)
+[Psycho Juice 70% - Red Savina](https://www.amazon.co.uk/Psycho-Juice-70-Red-Savina/dp/B005MSZG22) (5/10 heat level)
 
 One of my favourite sauces for flavouring. Such a lovely flavour from this chilli.
 
-[Psycho Juice - Chipotle Ghost Pepper](https://www.amazon.co.uk/Psycho-Juice-Chipotle-Ghost-Pepper/dp/B008CRD9HE)
+[Psycho Juice - Chipotle Ghost Pepper](https://www.amazon.co.uk/Psycho-Juice-Chipotle-Ghost-Pepper/dp/B008CRD9HE) (7/10 heat level)
 
 It's not for me since there’s roasted onions in it. However it works in a sauce to add complexity to the base.
 
@@ -25,6 +25,14 @@ It's not for me since there’s roasted onions in it. However it works in a sauc
 Full of flavour and nice chunky thick sauce. Makes a great pizza dip. Not overly garlicy incase your worried about that.
 
 [Psycho Juice - 70% Ghost Pepper](https://www.amazon.co.uk/Psycho-Juice-70-Ghost-Pepper/dp/B005MSE5KG)
+
+[Psycho Juice - Extreme Ghost Pepper](https://www.amazon.co.uk/gp/product/B008CRSEUG/) (8/10 heat level)
+
+When a company that's called Psycho Juice say something is extreme they really mean it. This is damn hot sauce. A spoonful of this had my face melting. Similar heat level to Dave's Gourmet Ghost Pepper Sauce but a lot slower building heat.
+
+[Psycho Juice - Mustard Ghost Pepper](https://www.amazon.co.uk/Psycho-Juice-Mustard-Ghost-Pepper/dp/B008CRN9SS/) (6/10 heat level)
+
+This is a lovely flavourful sauce. Makes a great pizza dip instead of using honey mustard. Not overly extreme heat either. I Recommend it if you like honey mustard and chilli sauces.
 
 [Psycho Juice - 70% Scorpion Pepper](https://www.amazon.co.uk/Psycho-Juice-70-Scorpion-Pepper/dp/B00EZMNZMY) (8/10 heat level)
 
@@ -89,3 +97,15 @@ This gave me some shooting ear pain when eating half of one raw. No other chilli
 [Komodo Dragon]() (9/10 heat level)
 
 This one is more edible raw than a Carolina Reaper. I eat most of one before but it does really heat up slowly after the fact. Whole mouth will be on fire. Lovely floral notes and not too overpowering.
+
+## Powders
+
+[East End Chilli Powder Extra Hot](https://www.amazon.co.uk/East-End-Chilli-Powder-Extra/dp/B00DJ6COO2/) (5/10 heat level)
+
+Great for adding some back end burning spice to any chilli dish or curry. Pretty hot for what you can find in a supermarket.
+
+## Oils
+
+[Lee Kum Kee Chiu Chow Chilli Oil](https://www.amazon.co.uk/Lee-Kum-Kee-Chiu-Chilli/dp/B00TZT65BK)
+
+Has a bit of a dry chilli taste. Goes best with Cantonese dim sum. Haven’t used it on much else. I think I have had better chilli oils in Cantonese restaurants.
