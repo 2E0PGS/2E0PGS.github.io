@@ -7,7 +7,7 @@ description: Ham Radio Mesh Networking
 
 # HSMM-MESH
 
-### Sub Pages
+## Sub Pages
 
 * [HSMM-MESH Help](/hsmm-mesh-help.html)
 
@@ -21,15 +21,15 @@ I highly suggest visiting their website for more info and reading up on what HSM
 
 [​Facebook Group](​​https://www.facebook.com/groups/BristolHAMNET)
 
-### What is HSMM-MESH?
+## What is HSMM-MESH?
 
 >​​Broadband-Hamnet™ (formerly called HSMM-Mesh™) is a high speed, self discovering, self configuring, fault tolerant, wireless computer network that can run for days from a fully charged car battery, or indefinitely with the addition of a modest solar array or other supplemental power source. The focus is on emergency communications.
 
 >In its current form it is built using the Linksys WRT54G/GL/GS wireless routers and operates on channels 1-6 of the 2.4GHz ISM band, which overlaps with the upper portion of the 13cm amateur radio band. Other platforms and bands include several types of Ubiquiti equipment in the 900MHz, 2.4GHz and 5.7GHz band. Additional features let signals come in on one band and leave on another without additional configuration. All mesh nodes on all bands exchange data so long as they are within range.
 
-### Node locations
+## Node locations
 
-#### 2E0PGS-BULLET
+### 2E0PGS-BULLET
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
@@ -41,7 +41,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 	* IP Cam: OFFLINE
 	* SIP Phone: 2011, 2013
 
-#### G7NSY-BULLET
+### G7NSY-BULLET
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2
@@ -52,7 +52,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 	* GB3ZZ DATV Stream: OFFLINE
 	* SIP Phone: 2021
 
-#### G8KUW-1
+### G8KUW-1
 
 * Status: ONLINE
 * Device: Linksys WRT54G
@@ -60,7 +60,7 @@ I highly suggest visiting their website for more info and reading up on what HSM
 * Services:
 	* MeshChat: ONLINE
 
-#### MX0NBC-BULLET
+### MX0NBC-BULLET
 
 * Status: ONLINE
 * Device: Ubiquiti Bullet M2

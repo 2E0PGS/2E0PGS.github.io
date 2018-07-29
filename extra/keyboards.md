@@ -8,9 +8,9 @@ nav: false
 
 # Keyboards
 
-### Mechanical
+## Mechanical
 
-#### Razer BlackWidow Chroma (Original) (Razer Green Switches)
+### Razer BlackWidow Chroma (Original) (Razer Green Switches)
 
 * [My documentation on it's feature set](https://github.com/2E0PGS/razer-blackwidow-chroma-features)
 
@@ -21,12 +21,12 @@ I own two of these and they're great keyboards for Linux users thanks to the fol
 
 This keyboard has a great feel for typists. Highly recommended.
 
-#### Razer BlackWidow (Original) (Cherry MX Blue Switches)
+### Razer BlackWidow (Original) (Cherry MX Blue Switches)
 
 It's unfortunately a US layout that I own, this prevents me from liking it as much as I want to. Besides that it's a great keyboard and it compares almost identical to the Razer Green Switches. This version does not have any back lighting either so it's not great for illuminating custom hot keys.
 
-### Membrane
+## Membrane
 
-#### Apple Keyboard
+### Apple Keyboard
 
 Great chicklet style keys which allow for fast typing because it's pretty effortless to press and easy to glide your hands across the key caps.

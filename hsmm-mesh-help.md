@@ -7,7 +7,7 @@ description: Ham Radio Mesh Networking
 
 # HSMM-MESH Help Page
 
-### Ubiquity Device VLAN Guide
+## Ubiquity Device VLAN Guide
 
 ​I personally suggest HP Switches if you can get a hold of them however another option is the cheap Netgear GS108e or GS105e available on Amazon. The HP Switches have a more logical configuration panel which can make it a little easier. Ensure you get a "802.1Q" compatible "managed" switch! 802.1Q meaning the switch supports VLAN Tagging.
 
@@ -15,7 +15,7 @@ Basic Internet, Node and LAN VLAN Setup, image curiosity of AE5CA who has a grea
 
 ![VlanGuide](http://m3pgs.weebly.com/uploads/8/1/6/2/8162774/screenshot-from-2017-07-15-18-40-26_orig.png)
 
-### Ubiquity Device Unbrick Links
+## Ubiquity Device Unbrick Links
 
 ​I recently had to unbrick someone’s Bullet M2 so here are the links I used to get the necessary information on how to perform this recovery. I also have prior knowledge of firmware flashing and unbricking but you can find all the info you need in the links below if you end up in this station:
 
