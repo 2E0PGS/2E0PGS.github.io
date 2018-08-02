@@ -1,6 +1,6 @@
 ---
 title: OST
-description: My favourite OST albums/singles
+description: My favourite OST albums, singles or performances
 nav: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Psy Trance
-description: My favourite psy trance albums/singles
+description: My favourite psy trance albums, singles or performances
 nav: false
 ---
 

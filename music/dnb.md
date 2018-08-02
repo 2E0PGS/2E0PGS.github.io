@@ -1,6 +1,6 @@
 ---
 title: Drum and Bass
-description: My favourite drum and bass albums/singles
+description: My favourite drum and bass albums, singles or performances
 nav: false
 ---
 

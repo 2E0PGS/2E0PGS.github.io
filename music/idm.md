@@ -1,6 +1,6 @@
 ---
 title: IDM
-description: My favourite IDM albums/singles
+description: My favourite IDM albums, singles or performances
 nav: false
 ---
 

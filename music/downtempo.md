@@ -1,6 +1,6 @@
 ---
 title: Downtempo
-description: My favourite downtempo albums/singles
+description: My favourite downtempo albums, singles or performances
 nav: false
 ---
 

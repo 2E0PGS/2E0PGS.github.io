@@ -1,6 +1,6 @@
 ---
 title: Fusion Jazz
-description: My favourite fusion jazz albums/singles
+description: My favourite fusion jazz albums, singles or performances
 nav: false
 ---
 

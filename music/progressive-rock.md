@@ -1,6 +1,6 @@
 ---
 title: Progressive Rock
-description: My favourite progressive rock albums/singles
+description: My favourite progressive rock albums, singles or performances
 nav: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: House
-description: My favourite house albums/singles
+description: My favourite house albums, singles or performances
 nav: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Techno
-description: My favourite techno albums/singles
+description: My favourite techno albums, singles or performances
 nav: false
 ---
 

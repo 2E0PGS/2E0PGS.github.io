@@ -1,6 +1,6 @@
 ---
 title: Trance
-description: My favourite trance albums/singles
+description: My favourite trance albums, singles or performances
 nav: false
 ---
 
