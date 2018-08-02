@@ -24,7 +24,7 @@ I will list some great YouTube finds of people sharing their synth session creat
 * LudusPinsky - Synthy craft
 * Adam Holzman - Moog Solo - Steven Wilson Band
 * Ralph Baumgartl - Live Synth Jam with Female Soul Vocals (Minioog Voyager, Minibrute, Haken Continuum, Strymon FX)
-* Ralph Baumgartl - Ambient & Berlin School Live Synth Jam | Roli Seaboard RISE, Roland JD-Xi, Korg Volca Keys
+* Ralph Baumgartl - Ambient & Berlin School Live Synth Jam Roli Seaboard RISE, Roland JD-Xi, Korg Volca Keys
 * Ronald Jenkees - Throwing Fire
 * Ronald Jenkees - A fun beat from outer space (an experimental improv jam)
 * Ronald Jenkees - stay crunchy
