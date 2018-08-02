@@ -10,7 +10,7 @@ nav: false
 
 Producers for computer game OST's have just as much influence as full fledged music producers. They just often choose to only produce for computer games since it fits with their style of music. You can find some of the most interesting music this way as the music often portrays a theme or setting of an area in the game. For example dark spooky level or boss level with loads of action.
 
-## List of my favourite albums/singles
+## List of my favourite albums, singles or performances
 
 * ​Unreal Tournament '99 GOTY Soundtrack - Skyward Fire
 * ​Unreal Tournament '99 GOTY Soundtrack - Nether Animal

@@ -8,6 +8,12 @@ nav: false
 
 # Downtempo
 
-## List of my favourite albums/singles
+This also includes chill, ambient and lounge genres.
 
-* Yagya ‎– The Inescapable Decay Of My Heart
+## List of my favourite albums, singles or performances
+
+* Yagya - The Inescapable Decay Of My Heart
+* Yagya - Sleepygirls
+* Evan Marc & Steve Hillage - Dreamtime Submersible
+* Enigma - The Rivers Of Belief
+* Enya - Caribbean Blue

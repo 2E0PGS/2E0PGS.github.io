@@ -19,7 +19,7 @@ Mostly classic trance as it's my favourite genre for many reasons.
 Don't just listen to the beginning as most trance tracks have a "lead in" or a "build up". The track can change vastly over a period.
 Anyway I recommend listening via a decent HI-FI system or using headphones with good all round coverage of bass and high end.
 
-## List of my favourite albums/singles
+## List of my favourite albums, singles or performances
 
 * Sasha - Xpander (Original)
 * Bedrock - Heaven Scent (Original Mix)

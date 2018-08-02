@@ -15,7 +15,7 @@ nav: true
 * [Fusion Jazz](/music/fusion-jazz.html)
 * [House](/music/house.html)
 * [IDM](/music/idm.html)
-* [Downtempo](/music/downtempo.html)
+* [Downtempo](/music/downtempo.html) (This also includes chill, ambient and lounge genres.)
 * [New Wave](/music/new-wave.html)
 * [OST](/music/ost.html)
 * [Progressive Rock](/music/progressive-rock.html)
