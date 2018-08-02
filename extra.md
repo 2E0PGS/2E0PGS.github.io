@@ -17,3 +17,4 @@ nav: true
 * [Noodles](/extra/noodles.html)
 * [Tapes](/extra/tapes.html)
 * [XKCD](/extra/xkcd.html)
+* [Tea](/extra/tea.html)
