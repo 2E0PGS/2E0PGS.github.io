@@ -10,8 +10,8 @@ nav: true
 
 ## Personal Links
 
-* [QRZ Page M3PGS](https://www.qrz.com/db/M3PGS)
-* [QRZ Page 2E0PGS](https://www.qrz.com/db/2E0PGS)
+* [My QRZ Page M3PGS](https://www.qrz.com/db/M3PGS)
+* [My QRZ Page 2E0PGS](https://www.qrz.com/db/2E0PGS)
 * [My Github Repo](https://github.com/2E0PGS/)
 * [My Github Gists](https://gist.github.com/2E0PGS)
 * [My Bitbucket Repo](https://bitbucket.org/2E0PGS/)
@@ -20,6 +20,7 @@ nav: true
 * [My Facebook](https://www.facebook.com/2e0pgs)
 * [My YouTube Channel](https://www.youtube.com/channel/UC4IVhv2NEz8Piceh4ot91og)
 * [My Minds.com profile](https://www.minds.com/2E0PGS)
+* [My blog](https://2e0pgs.github.io/blog/)
 
 ## Other Links
 

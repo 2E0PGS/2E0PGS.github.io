@@ -13,7 +13,7 @@ nav: true
 * [Keyboards](/extra/keyboards.html)
 * [Trains](/extra/trains.html)
 * [Chilli](/extra/chilli.html)
-* [Alcohol](/extra/alcohol.html)
+* [YouTube](/extra/youtube.html)
 * [Noodles](/extra/noodles.html)
 * [Tapes](/extra/tapes.html)
 * [XKCD](/extra/xkcd.html)
