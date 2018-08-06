@@ -1,12 +1,12 @@
 ---
-title: Progressive Rock
+title: Progressive rock
 description: My favourite progressive rock albums, singles or performances
 nav: false
 ---
 
 {% include main-template.md %}
 
-# Progressive Rock
+# Progressive rock
 
 ## List of my favourite albums, singles or performances
 

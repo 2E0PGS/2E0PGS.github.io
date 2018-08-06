@@ -1,12 +1,12 @@
 ---
-title: Synth Pop
+title: Synth pop
 description: My favourite synth pop albums, singles or performances
 nav: false
 ---
 
 {% include main-template.md %}
 
-# Synth Pop (short for synthesizer pop prominent in the late 1970s)
+# Synth pop (short for synthesizer pop prominent in the late 1970s)
 
 ## List of my favourite albums, singles or performances
 

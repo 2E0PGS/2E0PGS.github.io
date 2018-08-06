@@ -8,7 +8,7 @@ nav: true
 
 # Extra
 
-## Sub Pages
+## Sub pages
 
 * [Keyboards](/extra/keyboards.html)
 * [Trains](/extra/trains.html)

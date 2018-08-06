@@ -8,7 +8,7 @@ nav: true
 
 # Links
 
-## Personal Links
+## Personal links
 
 * [My QRZ Page M3PGS](https://www.qrz.com/db/M3PGS)
 * [My QRZ Page 2E0PGS](https://www.qrz.com/db/2E0PGS)
@@ -22,7 +22,7 @@ nav: true
 * [My Minds.com profile](https://www.minds.com/2E0PGS)
 * [My blog](https://2e0pgs.github.io/blog/)
 
-## Other Links
+## Other links
 
 * [NBARC (North Bristol Amateur Radio Club)](http://www.nbarc.org.uk)
 * [Westrally](http://www.westrally.org.uk)

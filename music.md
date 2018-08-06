@@ -8,7 +8,7 @@ nav: true
 
 # Music
 
-## Sub Pages
+## Sub pages
 
 * [My audio setup](/music/audio-setup.html)
 * [Drum and Bass](/music/dnb.html)

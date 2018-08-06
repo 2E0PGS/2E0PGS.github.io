@@ -1,14 +1,14 @@
 ---
-title: Ham Radio
-description: Amateur Radio
+title: Ham radio
+description: Amateur radio
 nav: true
 ---
 
 {% include main-template.md %}
 
-# Ham Radio
+# Ham radio
 
-## Sub Pages
+## Sub pages
 
 * [HSMM-MESH](/hsmm-mesh.html)
 * [HSMM-MESH Help](/hsmm-mesh-help.html)

@@ -1,14 +1,14 @@
 ---
-title: Psy Trance
+title: Psychedelic trance
 description: My favourite psy trance albums, singles or performances
 nav: false
 ---
 
 {% include main-template.md %}
 
-# Psychedelic Trance
+# Psychedelic trance
 
-Most of my psy trance interest is from Goa Trance. Which originates from Goa in India. Psychedelic drug use, ancient Asian musical instruments and religious practices of deep meditation!
+Most of my psychedelic trance interest is from Goa trance. Which originates from Goa in India. Psychedelic drug use, ancient Asian musical instruments and religious practices of deep meditation!
 
 ## List of my favourite albums, singles or performances
 

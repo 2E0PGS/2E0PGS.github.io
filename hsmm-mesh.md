@@ -7,7 +7,7 @@ description: Ham Radio Mesh Networking
 
 # HSMM-MESH
 
-## Sub Pages
+## Sub pages
 
 * [HSMM-MESH Help](/hsmm-mesh-help.html)
 

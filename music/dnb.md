@@ -1,12 +1,12 @@
 ---
-title: Drum and Bass
+title: Drum and bass
 description: My favourite drum and bass albums, singles or performances
 nav: false
 ---
 
 {% include main-template.md %}
 
-# Drum and Bass
+# Drum and bass
 
 Most of my tastes in DnB come from the 90s where you get that classic synth, deep complex relaxing synth pads and drum machines such as the 909 or 808. The only other decent DnB time frame was a couple years around 2009 where there was a modern DnB scene reappearing. However that soon diminished and only a few decent tracks came of it.
 

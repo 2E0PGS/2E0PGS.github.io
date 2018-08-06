@@ -1,6 +1,6 @@
 ---
 title: Tea
-description: Cuppa Tea Time
+description: Cuppa tea time
 nav: false
 ---
 

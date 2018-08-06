@@ -1,12 +1,12 @@
 ---
-title: Fusion Jazz
+title: Fusion jazz
 description: My favourite fusion jazz albums, singles or performances
 nav: false
 ---
 
 {% include main-template.md %}
 
-# Fusion Jazz
+# Fusion jazz
 
 ## List of my favourite albums, singles or performances
 

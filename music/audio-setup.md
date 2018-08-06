@@ -6,7 +6,7 @@ nav: false
 
 {% include main-template.md %}
 
-# Audio Setup
+# Audio setup
 
 This is a list of my current main HI-FI system setup. It does change now and then and I will try to keep this page updated to reflect that. I have also included a few portable audio devices in the list.
 
