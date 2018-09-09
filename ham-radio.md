@@ -17,29 +17,31 @@ nav: true
 
 ## General info
 
-Call sign: 2E0PGS / M3PGS
+* Call sign: 2E0PGS/M3PGS
+* QTH: Bristol, UK
+* DMR-ID: 2351480, 2351481
+* Member of NBARC (North Bristol Amateur Radio Club)
+* Member of RSGB (Radio Society Of Great Britain)
+* Licensed since March 2010
 
-QTH: Bristol, UK
+## Radio gear I own and use
 
-DMR-ID: 2351480
-
-Member of NBARC (North Bristol Amateur Radio Club)
-
-Member of RSGB (Radio Society Of Great Britain)
-
-Licensed since March 2010
-
-## Radios
-
-* ICOM IC-E208
-* Yaesu FT-840
-* Yaesu FT-60
-* Yaesu VX-7R
-* ​Motorola DP 3600
-* Puxing PX-2R
-* Baofeng UV-5R
+* Icom IC-7100 (HF/VHF/UHF)
+* Icom IC-E208 (VHF/UHF)
+* Yaesu FT-840 (HF)
+* Yaesu FT-60 (VHF/UHF)
+* Yaesu VX-7R (VHF/UHF/6M)
+* ​Motorola DP 3600 (UHF)
+* Puxing PX-2R (VHF/UHF)
+* Baofeng UV-5R x2 (VHF/UHF)
 * RIGblaster plus
-* RTL-SDR
+* RTL-SDR x2 (HF/VHF/UHF)
+
+## Radio gear I have used before
+
+* Yaesu FT-1XD (VHF/UHF)
+* Yaesu FT-101E (HF)
+* Yaesu FT-101B (HF)
 
 ## Contactable via
-GB3BS, ﻿GB7BS﻿, GB3ZB, GB3WR, GB3BC, GB3AA, GB7AA and calling channels VHF, UHF, HF
+GB3BS, GB3ZB, GB3WR, GB3BC and REF001 C
