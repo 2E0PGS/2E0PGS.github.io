@@ -12,6 +12,8 @@ nav: false
 
 [British Rail Class 66](https://en.wikipedia.org/wiki/British_Rail_Class_66)
 
+[British Rail Class 37](https://en.wikipedia.org/wiki/British_Rail_Class_37)
+
 [British Rail Class 43](https://en.wikipedia.org/wiki/British_Rail_Class_43_(HST)) (HST)
 
 [British Rail Class 165](https://en.wikipedia.org/wiki/British_Rail_Class_165) (Turbo)

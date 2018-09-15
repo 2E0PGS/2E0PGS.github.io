@@ -94,6 +94,12 @@ A script to download VK Albums into one folder to save time of manually download
 
 Shell script to download a specified Imgur gallery.
 
+### Minecraft Server Manager (MSN)
+
+A shell script to manage Minecraft servers.
+
+[Repo](https://bitbucket.org/2E0PGS/minecraft-server-manager)
+
 ## HTML
 
 ### 2E0PGS.github.io

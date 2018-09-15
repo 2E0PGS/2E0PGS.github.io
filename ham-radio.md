@@ -10,10 +10,12 @@ nav: true
 
 ## Sub pages
 
-* [HSMM-MESH](/hsmm-mesh.html)
-* [HSMM-MESH Help](/hsmm-mesh-help.html)
-* [WSPR](/wspr.html)
-* [APRS](/aprs.html)
+* [HSMM-MESH](/ham-radio/hsmm-mesh.html)
+* [HSMM-MESH Help](/ham-radio/hsmm-mesh-help.html)
+* [WSPR](/ham-radio/wspr.html)
+* [APRS](/ham-radio/aprs.html)
+* [IC-7100](/ham-radio/ic-7100.html)
+* [DVAP](/ham-radio/dvap.html)
 
 ## General info
 
@@ -44,4 +46,9 @@ nav: true
 * Yaesu FT-101B (HF)
 
 ## Contactable via
-GB3BS, GB3ZB, GB3WR, GB3BC and REF001 C
+
+* GB3BS, GB3ZB, GB3WR, GB3BC and REF001 C
+
+## Logbook
+
+* [Logbook Repository](https://bitbucket.org/2E0PGS/ham-radio-logbook)
