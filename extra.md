@@ -18,3 +18,4 @@ nav: true
 * [Tapes](/extra/tapes.html)
 * [XKCD](/extra/xkcd.html)
 * [Tea](/extra/tea.html)
+* [Awesome FOSS](/extra/awesome-foss.html)
