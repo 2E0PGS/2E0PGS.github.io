@@ -39,6 +39,7 @@ nav: true
 * Baofeng UV-5R x2 (VHF/UHF)
 * RIGblaster plus
 * RTL-SDR x3 (HF/VHF/UHF)
+* Ettus Research USPR1 (2x RX daughter boards) x2 (UHF)
 
 ## Radio gear I have used before
 
