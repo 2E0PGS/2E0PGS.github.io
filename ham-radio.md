@@ -16,6 +16,7 @@ nav: true
 * [APRS](/ham-radio/aprs.html)
 * [IC-7100](/ham-radio/ic-7100.html)
 * [DVAP](/ham-radio/dvap.html)
+* [Data mode audio samples](/ham-radio/data-mode-audio-samples.html)
 
 ## General info
 
@@ -37,7 +38,7 @@ nav: true
 * Puxing PX-2R (VHF/UHF)
 * Baofeng UV-5R x2 (VHF/UHF)
 * RIGblaster plus
-* RTL-SDR x2 (HF/VHF/UHF)
+* RTL-SDR x3 (HF/VHF/UHF)
 
 ## Radio gear I have used before
 

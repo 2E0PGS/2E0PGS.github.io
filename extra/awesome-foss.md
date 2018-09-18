@@ -43,13 +43,21 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [youtube-dl](https://github.com/rg3/youtube-dl)
 * [RetroArch](http://www.retroarch.com/)
 * [Polychromatic](https://github.com/polychromatic/polychromatic)
-* hexchat
-* transmission
-* mpv
-* virualbox
-* pcsx2
+* [hexchat]
+* [transmission]
+* [mpv]
+* [virualbox]
+* [pcsx2]
+* [tmux]
+* [vim]
+* [thunderbird]
 
 ### Ham radio
 
 * [Chrip](https://chirp.danplanet.com/projects/chirp/wiki/Home)
 * [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
+* [Direwolf]
+* [MultimonNG]
+* [pi-star]
+* [MMDVM]
+* [dsd]
