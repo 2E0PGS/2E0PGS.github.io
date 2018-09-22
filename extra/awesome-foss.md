@@ -25,6 +25,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 * [Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
 * [Simple Mobile Tools](https://github.com/SimpleMobileTools)
+* [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler)
 
 ## Web apps
 
