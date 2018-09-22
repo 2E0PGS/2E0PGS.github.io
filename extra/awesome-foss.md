@@ -24,11 +24,20 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
 * [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 * [Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+* [Simple Mobile Tools](https://github.com/SimpleMobileTools)
 
 ## Web apps
 
 * [Draw.io](https://www.draw.io/)
 * [Jitsi Meet](https://meet.jit.si/)
+* [Libre.fm](https://libre.fm/)
+* [ListenBrainz](https://listenbrainz.org)
+
+## Browser extensions
+
+* [Go Back with Backspace](https://chrome.google.com/webstore/detail/go-back-with-backspace/eekailopagacbcdloonjhbiecobagjci)
+* [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
+* [Darkreader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
 ## Software
 
@@ -43,21 +52,22 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [youtube-dl](https://github.com/rg3/youtube-dl)
 * [RetroArch](http://www.retroarch.com/)
 * [Polychromatic](https://github.com/polychromatic/polychromatic)
-* [hexchat]
-* [transmission]
-* [mpv]
-* [virualbox]
-* [pcsx2]
-* [tmux]
-* [vim]
-* [thunderbird]
+* [hexchat](https://hexchat.github.io/)
+* [transmission](https://transmissionbt.com/)
+* [mpv](https://mpv.io/)
+* [VirtualBox](https://www.virtualbox.org/)
+* [pcsx2](https://pcsx2.net/)
+* [tmux](https://github.com/tmux/tmux/wiki)
+* [vim](https://www.vim.org/)
+* [thunderbird](https://www.thunderbird.net/en-US/)
+* [Syncthing](https://syncthing.net/)
 
 ### Ham radio
 
 * [Chrip](https://chirp.danplanet.com/projects/chirp/wiki/Home)
 * [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
-* [Direwolf]
-* [MultimonNG]
-* [pi-star]
-* [MMDVM]
-* [dsd]
+* [Direwolf](https://github.com/wb2osz/direwolf)
+* [MultimonNG](https://github.com/EliasOenal/multimon-ng/)
+* [pi-star](https://www.pistar.uk/)
+* [MMDVM](https://github.com/g4klx/MMDVM)
+* [dsd](https://github.com/szechyjs/dsd)

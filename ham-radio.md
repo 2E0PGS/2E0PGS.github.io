@@ -46,6 +46,8 @@ nav: true
 * Yaesu FT-1XD (VHF/UHF)
 * Yaesu FT-101E (HF)
 * Yaesu FT-101B (HF)
+* Yaesu DR-1X (VHF/UHF)
+* Yaesu HRI-200
 
 ## Contactable via
 

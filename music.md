@@ -38,3 +38,15 @@ However I must say Trance has to be my all time favourite and most influencing g
 Appreciate feedback if you enjoy the music.
 
 I used to listen to tonnes of internet radio which helped me gain roots in world music. A lot of German and Ibiza electronic internet radio stations. Either trance, techno or chill / lounge mostly.
+
+## Listening logs
+
+I recently decided to start "scrobbling" music. If you don't know what "scrobbling" is please read the following wikipedia page: [Last.fm](https://en.wikipedia.org/wiki/Last.fm). However "scrobbling" is basically just another term for logging your listening history.
+
+Below is a few websites I submit listening data to:
+
+* [Last.fm](https://www.last.fm/user/Kraftwerk765401)
+* [Libre.fm](https://libre.fm/user/2E0PGS)
+* [ListenBrainz](https://listenbrainz.org/user/2E0PGS)
+
+I will probably also export the data into my own repository at some point.
