@@ -22,6 +22,8 @@ nav: false
 
 [British Rail Class 150](https://en.wikipedia.org/wiki/British_Rail_Class_150) (Sprinter)
 
+[British Rail Class 220](https://en.wikipedia.org/wiki/British_Rail_Class_220) (Voyager)
+
 ## Steam engines
 
 [The Bristolian]() (Avon Valley Railway)
