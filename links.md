@@ -37,3 +37,4 @@ nav: true
 * [DMR-UK](http://www.dmruk.net)
 * [Chris Were](https://chriswere.neocities.org/)
 * [Stuxnode (Electricguy)](http://stuxnode.com/about)
+* [Martyn Hicks](http://www.martynhicks.uk/personal/html/streetlamps/streetlamps.html)

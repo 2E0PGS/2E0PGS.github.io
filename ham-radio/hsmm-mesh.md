@@ -27,6 +27,10 @@ I highly suggest visiting the [broadband-hamnet website](http://www.broadband-ha
 
 >In its current form it is built using the Linksys WRT54G/GL/GS wireless routers and operates on channels 1-6 of the 2.4GHz ISM band, which overlaps with the upper portion of the 13cm amateur radio band. Other platforms and bands include several types of Ubiquiti equipment in the 900MHz, 2.4GHz and 5.7GHz band. Additional features let signals come in on one band and leave on another without additional configuration. All mesh nodes on all bands exchange data so long as they are within range.
 
+## Mesh status page archives
+
+* [Mesh archive repository](https://bitbucket.org/2E0PGS/ham-radio-hsmm-mesh-archive)
+
 ## Node locations
 
 ### 2E0PGS-BULLET
