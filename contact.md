@@ -9,9 +9,17 @@ nav: true
 # Contact me
 
 * My old websites contact form: [contact-me.html](http://m3pgs.weebly.com/contact-me.html)
-* I am always on IRC and I can be found in [#NBARC](http://nbarc.weebly.com/irc.html) IRC channel on freenode which I manage.
 * On the ham radio frequencies discussed on the [Ham Radio](https://2e0pgs.github.io/hamradio.html) web page.
 * Via my PGP key: [pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x085248F9DA7395E4)
-* Via the below contact form powered by a FOSS project called [formspree.io](https://formspree.io/):
+* Via the below contact form powered by a FOSS project called [formspree.io](https://formspree.io/)
+
+# IRC
+
+* I am always on IRC and I can be found in [#NBARC](http://nbarc.weebly.com/irc.html) IRC channel on Freenode which I manage.
+* _2E0PGS (main home IRC client)
+* _2E0PGS-W (work IRC client)
+* _2E0PGS-M (mobile IRC client, often my phone)
+* _2E0PGS-B (Bouncer IRC client which is just IRSSI on a server over SSH)
+* _2E0PGS-V (Vector aka Matrix aka RIOT.IM IRC bridge)
 
 {% include contact-form.html %}
