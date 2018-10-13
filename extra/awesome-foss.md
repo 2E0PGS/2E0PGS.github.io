@@ -14,18 +14,47 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 ## Android apps
 
-* [APRSdroid](https://aprsdroid.org/)
-* [Calendar](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
-* [F-Droid](https://play.google.com/store/apps/details?id=org.fdroid.fdroid)
-* [Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery)
-* [GnuCash](https://play.google.com/store/apps/details?id=org.gnucash.android)
-* [NewPipe](https://play.google.com/store/apps/details?id=org.schabi.newpipe)
-* [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
-* [OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
-* [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
-* [Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
-* [Simple Mobile Tools](https://github.com/SimpleMobileTools)
-* [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler)
+[APRSdroid](https://aprsdroid.org/)
+
+Great APRS client for Android.
+
+[Calendar](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
+
+Simple calendar for Android.
+
+[F-Droid](https://play.google.com/store/apps/details?id=org.fdroid.fdroid)
+
+App store alternative to Google Play focusing on privacy and open source content.
+
+[Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery)
+
+Simple gallery for Android.
+
+[GnuCash](https://play.google.com/store/apps/details?id=org.gnucash.android)
+
+Manage your budgets with a clean but powerful app.
+
+[NewPipe](https://play.google.com/store/apps/details?id=org.schabi.newpipe)
+
+The best alternative to Google's Youtube app. Supports downloads and background play.
+
+[Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
+
+Camera app with extra functions and settings for inspiring photographers.
+
+[OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+
+One of the best VPN software technologies available.
+
+[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+
+Secure your SMS messages stored locally and have PGP based encryption when messaging other signal users.
+
+[Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+
+[Simple Mobile Tools](https://github.com/SimpleMobileTools)
+
+[Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler)
 
 ## Web apps
 
