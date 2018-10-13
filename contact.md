@@ -17,9 +17,10 @@ nav: true
 
 * I am always on IRC and I can be found in [#NBARC](http://nbarc.weebly.com/irc.html) IRC channel on Freenode which I manage.
 * _2E0PGS (main home IRC client)
-* _2E0PGS-W (work IRC client)
-* _2E0PGS-M (mobile IRC client, often my phone)
-* _2E0PGS-B (Bouncer IRC client which is just IRSSI on a server over SSH)
-* _2E0PGS-V (Vector aka Matrix aka RIOT.IM IRC bridge)
+* _2E0PGS-W (registered) (work IRC client)
+* _2E0PGS-M (registered) (mobile IRC client. Often my phone)
+* _2E0PGS-B (registered) (bouncer IRC client. IRSSI on a server over SSH)
+* _2E0PGS-V (registered) (Vector aka Matrix aka RIOT.IM IRC bridge) (not used currently)
+* M2E0PGS[m] (un-registered) (Vector aka Matrix aka RIOT.IM IRC bridge)
 
 {% include contact-form.html %}
