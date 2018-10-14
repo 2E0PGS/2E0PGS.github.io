@@ -14,19 +14,19 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 ## Android apps
 
-[APRSdroid](https://aprsdroid.org/)
+[APRSdroid](https://aprsdroid.org/) (dark theme)
 
 Great APRS client for Android.
 
-[Calendar](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
+[Calendar](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar) (dark theme)
 
 Simple calendar for Android.
 
-[F-Droid](https://play.google.com/store/apps/details?id=org.fdroid.fdroid)
+[F-Droid](https://play.google.com/store/apps/details?id=org.fdroid.fdroid) (dark theme)
 
 App store alternative to Google Play focusing on privacy and open source content.
 
-[Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery)
+[Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery) (dark theme)
 
 Simple gallery for Android.
 
@@ -34,7 +34,7 @@ Simple gallery for Android.
 
 Manage your budgets with a clean but powerful app.
 
-[NewPipe](https://play.google.com/store/apps/details?id=org.schabi.newpipe)
+[NewPipe](https://play.google.com/store/apps/details?id=org.schabi.newpipe) (dark theme)
 
 The best alternative to Google's Youtube app. Supports downloads and background play.
 
@@ -46,15 +46,45 @@ Camera app with extra functions and settings for inspiring photographers.
 
 One of the best VPN software technologies available.
 
-[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) (dark theme)
 
 Secure your SMS messages stored locally and have PGP based encryption when messaging other signal users.
 
-[Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+[Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual) (dark theme)
 
-[Simple Mobile Tools](https://github.com/SimpleMobileTools)
+Office survival manual with great detail.
 
-[Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler)
+[Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) (dark theme)
+
+A last.fm, libre.fm and ListenBrainz scrobbler client.
+
+[Music-Player](https://github.com/MaxFour/Music-Player) (dark theme)
+
+Lightweight music player with resume of playback after app close.
+
+[UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
+
+Run Debian or Ubuntu Linux on your Android phone for CLI or X11 apps.
+
+[Yaaic](https://github.com/pocmo/Yaaic) (dark theme)
+
+(Yet Another Android IRC Client) is my new favourite mobile IRC client.
+
+[Slide](https://github.com/ccrama/Slide) (dark theme)
+
+The best FOSS reddit client I have found for Android.
+
+[List My Apps](https://github.com/onyxbits/listmyaps)
+
+This program generates a list in TXT or Markdown of your installed apps. Useful for backup or sharing to a friend.
+
+[OctoDroid](https://github.com/slapperwan/gh4a) (dark theme)
+
+The best Github client for Android since it doesn't require you to sign-in for features that don't require it on the normal Github website.
+
+[Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) (dark theme)
+
+The most feature rich while being clear and simple to use open source Android file manager.
 
 ## Web apps
 
@@ -83,6 +113,7 @@ Secure your SMS messages stored locally and have PGP based encryption when messa
 * [RetroArch](http://www.retroarch.com/)
 * [Polychromatic](https://github.com/polychromatic/polychromatic)
 * [hexchat](https://hexchat.github.io/)
+* [IRSSI](https://github.com/irssi/irssi)
 * [transmission](https://transmissionbt.com/)
 * [mpv](https://mpv.io/)
 * [VirtualBox](https://www.virtualbox.org/)
