@@ -52,9 +52,21 @@ I mainly use this DAC on the PC at work and it fixes all the PC PSU line noise p
 
 ## Ear-Canal headphones
 
+[SONY MDR-EX085](https://theheadphonelist.com/headphone_review/sony-mdr-ex082-mdr-ex85/)
+
+I had a pair of these with my original Sony Walkman MP3 player. Be warned however once those broke I ordered a new pair which turned out to be fake. Anyway the originals were very good and offered a unique surround sound mode at the time. Coupled with the decent DAC on the MP3 player it was far greater quality than most phones could produce at the time. Let alone any iPod which still had the horrid non in earphones.
+
 [Sennheiser CX 475](https://www.stuff.tv/sennheiser/cx-475/review)
 
 Great quality however the bass is lacking unless it's snug in the ear. Drives well of the phones DAC. The treble response is brilliant.
+
+[Sony MDR-EX450AP](https://www.amazon.co.uk/gp/product/B00I3LV0B6)
+
+Quite a strong bass. Fits snugly in the ear if using the larger tips to aid bass response.
+
+[Anker Bluetooth Headphones, SoundBuds Slim](https://www.amazon.co.uk/gp/product/B01N6DC2ZE)
+
+Unfortunately these come with cheap nasty tips. I put my Sennheiser tips on them and now it's a decent bluetooth earphone. Not as much bass as the MDR-EX450AP but decent in general for the price.
 
 ## Bluetooth speaker
 
@@ -75,3 +87,7 @@ The MZ-R410 has a record facility so that's what I mainly use it for. Takes a si
 [Sony Walkman MZ-E62](http://www.minidisc.org/part_Sony_MZ-E60.html)
 
 I use the MZ-E62 more since it has the remote control and great bass boost. Takes a single AA battery.
+
+## MP3 player
+
+[Sony Walkman...]

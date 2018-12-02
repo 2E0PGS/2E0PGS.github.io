@@ -10,6 +10,8 @@ nav: false
 
 ## Sauces
 
+### Psycho Juice
+
 [Psycho Juice - 70% Habanero](https://www.amazon.co.uk/Dr-Burnoriums-Psycho-Juice-Habanero/dp/B005NNN6W8) (4/10 heat level)
 
 Decent flavour but lacks in heat. I use this one too quickly to warrant buying it all the time. However it adds lovely pepper flavour to any sauce base just a shame it's not sold in larger quantities and cheaper.
@@ -44,6 +46,8 @@ This sauce smells just like scorpion peppers right away. You know it's deadly. I
 
 My favourite gherkins/pickles. Lovely heat level just don't eat too many at once or you will pay for it tomorrow. Sweet fresh small gherkins.
 
+### The Chilli Alchemist
+
 [The Chilli Alchemist - The Smoke Potion](https://www.amazon.co.uk/gp/product/B01EN8GFOE) (4/10 heat level)
 
 Not very hot and uses "liquid smoke", this causes it too taste chemically.
@@ -60,9 +64,13 @@ Decent wine smell and flavour. No fake flavouring in this one.
 
 Decent fresh lime flavour. No fake flavouring in this one.
 
+### Pain Is Good/Original Juan
+
 [Da' Bomb! Ground Zero](https://www.amazon.co.uk/gp/product/B001BIXK70) (9/10 heat level)
 
 Not the best flavour however it certainly smells of pineapples. It's a wolf in sheep’s clothing though. This sauce looks innocent with it's low Scoville rating however it will burn a hole in your tongue so to speak. Use sparingly.
+
+### Dave's Gourmet
 
 [Dave's Gourmet - Ultimate Insanity](https://www.amazon.co.uk/gp/product/B001C316QG) (7/10 heat level)
 
@@ -71,6 +79,8 @@ I prefer Dave's Gourmet - Naga Jolokia Ghost Pepper instead as it has better fla
 [Dave's Gourmet - Naga Jolokia Ghost Pepper](https://www.amazon.co.uk/Daves-Gourmet-Jolokia-Ghost-Pepper/dp/B001PQTYN2)  (8/10 heat level)
 
 This stuff is instant needles and instant heat. Add this to any dip for a real heat kick. It's brutal stuff.
+
+### Ginger Beards Preserves
 
 [Ginger Beards Preserves - Fermented Scotch Sriracha](https://www.gingerbeardspreserves.co.uk/product/fermented-scotch-sriracha/) (7/10 heat level)
 
@@ -84,6 +94,8 @@ Quite a chunky and thick sauce. Not overly hot but that's expected. Makes a grea
 
 This is a damn excellent hot sauce. Made with real natural ingredients no fake flavouring. Seriously hot with serious flavour. This is a craft chilli sauce made with craft beer! Two of my favourite things! Smoky, spicy and chunky.
 
+### The Chilli Pepper Company
+
 [The Chilli Pepper Company - El Diablo](http://www.chileseeds.co.uk/products/el-diablo-hot-chilli-sauce-775.php)
 
 Very hot sauce great in any noodle dish or chilli-con-carne. A few spices like pepper.
@@ -92,9 +104,13 @@ Very hot sauce great in any noodle dish or chilli-con-carne. A few spices like p
 
 Quite a sweet sauce but good for sausages or other meats as a dip.
 
+### Morrisons
+
 [Morrisons Ghost Chilli Hot Sauce](https://groceries.morrisons.com/webshop/product/Morrisons-Ghost-Chilli-Hot-Sauce/383152011) (7/10 heat level)
 
 Pretty hot stuff for a supermarket hot sauce. Impressive ghost flavour. It kinda tastes like a mix of salad cream and hot sauce. Great for any salad cream lovers and it does go well on salads which already have mayonnaise on them.
+
+### ASDA
 
 [ASDA Jalapeño Chilli Sauce](https://groceries.asda.com/product/hot-chilli-sauces/asda-jalapeo-chilli-sauce/1000034965784) (1/10 heat level)
 
@@ -103,6 +119,56 @@ Terrible stuff and a awful gloopy syrupy consistency. I wouldn't use it on anyth
 [ASDA Habanero Chilli Sauce](https://groceries.asda.com/product/hot-chilli-sauces/asda-habanero-chilli-sauce/1000034965949) (2/10 heat level)
 
 Same story as the ASDA Jalapeño Chilli Sauce but slightly better flavour. I still wouldn't use this on anything. It's a syrupy sugar sauce that has a awful consistency.
+
+### Chilli Wizards
+
+[Chilli Wizards - Venom](https://www.amazon.co.uk/gp/product/B078SW875Z) (8/10 heat level)
+
+Very good value for money sauce. Sure it's not 80% reaper but it's surprisingly powerful still.
+
+[Chilli Wizards - Phantom](https://www.amazon.co.uk/gp/product/B078SW875Z) (7/10 heat level)
+
+Again they have another great value sauces here.
+
+### Daddy Cool
+
+[Jeepers Reapers Revenge](https://www.amazon.co.uk/gp/product/B014O6RIZA/) (8/10 heat level)
+
+You can taste the reaper and it's kicking strong. Great to see some lesser known names venturing into the sauce world.
+
+### FireFly Barbecue
+
+[Reavers - Ghost Chilli Buffalo Sauce](https://www.amazon.co.uk/dp/B01J4H3MEK/) (5/10 heat level)
+
+This is a very nice buffalo sauce. Creamy and has a salad cream smell. It's mostly butter and franks read hot but then they add some ghost chilli's to it for a kick. Not overly hot but lovely flavour and great for dipping chips into.
+
+[Reavers - Carolina Reaper Hot Sauce ](https://www.amazon.co.uk/dp/B01J4H3MEK/)
+
+[Reavers - Trinidad Scorpion Chipotle Sauce](https://www.amazon.co.uk/dp/B01J4H3MEK/) (7/10 heat level)
+
+Also a great chip dip but it's way hotter than the buffalo sauce they make. Has a lovely smokey taste perhaps roasted garlic. Great with smoked ham or chicken.
+
+### Skansk Chili
+
+[Skansk Chili - Organic Mango Habanero Hot Sauce](https://www.amazon.co.uk/dp/B07FJVLXTW/)
+
+Not very good value for money. Super small bottle.
+
+### South Devon Chilli Farm
+
+[Scorpion Chilli Sauce 50ml - Just Devon Chillies, No additives](https://www.amazon.co.uk/Scorpion-Chilli-Sauce-50ml-additives/dp/B01N8YKRJD) (7/10 heat level)
+
+Super punchy sauce and so pure. Literally just chilli, vinegar and salt. This gives the sauce a real natural and raw flavour which is refreshing to see when so many sauces now just add extracts for heat.
+
+Carolina Reaper Chilli Sauce 50ml - Just Devon Chillies, No additives (8/10 heat level)
+
+This is really pure hot lava. Warning add this to the top of some pizza and then cook it for a insanely hot pizza.
+
+### Unknown
+
+[The Hottest Fuckin' Sauce](https://www.hotsauceemporium.co.uk/shop/hot-chilli-sauces/39/the-hottest-fuckin-sauce/) (6/10 heat level)
+
+It's not that hot and I am quite disappointed in the marketing leading me to think otherwise. It seems to taste like it has extract in there too.
 
 ## Extracts
 
