@@ -49,10 +49,11 @@ nav: true
 * Yaesu FT-101B (HF)
 * Yaesu DR-1X (VHF/UHF)
 * Yaesu HRI-200
+* RCA AR-88 (HF)
 
 ## Contactable via
 
-* GB3BS, GB3ZB, GB3WR, GB3BC and REF001 C
+* GB3BS, GB3ZB, GB3WR, Zello, REF079 B and REF001 C
 
 ## Logbook
 

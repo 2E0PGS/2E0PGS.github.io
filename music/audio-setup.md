@@ -76,7 +76,7 @@ Great bass for such a small device. Long battery life that lasts roughly a solid
 
 ## Headphones
 
-todo
+[Beyerdynamic DT 990 PRO Studio Headphones](https://www.amazon.co.uk/gp/product/B0011UB9CQ)
 
 ## MiniDisk player
 
