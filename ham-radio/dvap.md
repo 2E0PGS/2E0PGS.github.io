@@ -15,21 +15,37 @@ I plan to test the output of these various hotspots to see how clean they are an
 
 Below are the spectrum analyser results. Not bad I am impressed, this is all without any external filtering.
 
-1KHz bandwidth spectrum analysis
+![jumbospot-01](/assets/images/ham-radio/dvap/jumbospot-01.jpeg)
 
-![jumbospot-spectrum-1khz](/assets/images/ham-radio/dvap/jumbospot-spectrum-1khz.jpeg)
+![jumbospot-02](/assets/images/ham-radio/dvap/jumbospot-02.jpeg)
 
-10KHz bandwidth spectrum analysis
+![jumbospot-03](/assets/images/ham-radio/dvap/jumbospot-03.jpeg)
 
-![jumbospot-spectrum-1khz](/assets/images/ham-radio/dvap/jumbospot-spectrum-10khz.jpeg)
+![jumbospot-04](/assets/images/ham-radio/dvap/jumbospot-04.jpeg)
 
-100KHz bandwidth spectrum analysis
+## MMDVM dual duplex
 
-![jumbospot-spectrum-1khz](/assets/images/ham-radio/dvap/jumbospot-spectrum-100khz.jpeg)
+![mmdvm-dual-01](/assets/images/ham-radio/dvap/mmdvm-dual-01.jpg)
 
-1000KHz bandwidth spectrum analysis
+![mmdvm-dual-02](/assets/images/ham-radio/dvap/mmdvm-dual-02.jpg)
 
-![jumbospot-spectrum-1khz](/assets/images/ham-radio/dvap/jumbospot-spectrum-1000khz.jpeg)
+![mmdvm-dual-03](/assets/images/ham-radio/dvap/mmdvm-dual-03.jpg)
+
+![mmdvm-dual-04](/assets/images/ham-radio/dvap/mmdvm-dual-04.jpg)
+
+![mmdvm-dual-05](/assets/images/ham-radio/dvap/mmdvm-dual-05.jpg)
+
+## DV mini USB dongle
+
+![dv-mini-01](/assets/images/ham-radio/dvap/dv-mini-01.jpg)
+
+![dv-mini-02](/assets/images/ham-radio/dvap/dv-mini-02.jpg)
+
+![dv-mini-03](/assets/images/ham-radio/dvap/dv-mini-03.jpg)
+
+![dv-mini-04](/assets/images/ham-radio/dvap/dv-mini-04.jpg)
+
+![dv-mini-05](/assets/images/ham-radio/dvap/dv-mini-05.jpg)
 
 TODO:
 * http://www.dv4mini.de/edv4mini.html

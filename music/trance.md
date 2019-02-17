@@ -78,3 +78,7 @@ Anyway I recommend listening via a decent HI-FI system or using headphones with 
 * Opus III - Mind Fruit
 * Armin van Buuren feat. Sharon den Adel - In And Out of Love
 * Armin van Buuren feat. Jennifer Rene - Fine Without You
+* Aly & Fila - Open To Close - Live @ Sound-Bar, Chicago, November 2018
+* Daniel Bruns - Eye-Trance 04
+* Paul van Dyk - Live @ Vandit Night, Casino, Berlin 15.12.2001
+* Sunscreem vs Push - Please Save Me (Original Mix)
