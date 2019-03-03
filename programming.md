@@ -96,9 +96,15 @@ Shell script to download a specified Imgur gallery.
 
 ### Minecraft Server Manager (MSN)
 
+[Repo](https://bitbucket.org/2E0PGS/minecraft-server-manager)
+
 A shell script to manage Minecraft servers.
 
-[Repo](https://bitbucket.org/2E0PGS/minecraft-server-manager)
+### APRS CLI
+
+[Repo](https://bitbucket.org/2E0PGS/aprs-cli)
+
+Simple CLI for APRS TCP. Written in bash. Requires netcat.
 
 ## HTML
 
@@ -107,3 +113,11 @@ A shell script to manage Minecraft servers.
 [Repo](https://github.com/2E0PGS/2E0PGS.github.io)
 
 My personal website written in Markdown. HTML rendered via Jekyll.
+
+## Python
+
+### RadLog
+
+[Repo](https://bitbucket.org/2E0PGS/radlog)
+
+Scrobbles TuneIn radio stations to Last.FM.
