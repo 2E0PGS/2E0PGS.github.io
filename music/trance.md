@@ -76,6 +76,7 @@ Anyway I recommend listening via a decent HI-FI system or using headphones with 
 * ​Energy 52 - Cafe Del Mar (Nalin & Kane Remix)
 * Underworld- Dark And Long (Dark Train)
 * Opus III - Mind Fruit
+* Jean-Michel Jarre - Oxygene 8
 * Armin van Buuren feat. Sharon den Adel - In And Out of Love
 * Armin van Buuren feat. Jennifer Rene - Fine Without You
 * Aly & Fila - Open To Close - Live @ Sound-Bar, Chicago, November 2018

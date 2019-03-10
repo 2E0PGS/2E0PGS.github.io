@@ -31,4 +31,4 @@ nav: false
 * Talk Talk - It´s My Life
 * Talk Talk - Life's What You Make It
 * Duran Duran - Greatest
-* Love On Your Side - The Thompson Twins
+* The Thompson Twins - Love On Your Side

@@ -12,6 +12,11 @@ nav: false
 
 * Gentle Giant - Octopus
 * Project RnL - Internet Releases (Full Album)
+* Genesis - Live Over Europe 2007
+* Genesis - Genesis [Full Remastered Album] (1983)
+* Genesis - Invisible Touch [Full Remastered Album] (1986)
+* Soft Machine - Bundles
+* Gong - Gazeuse!
 * Brand X - Unorthodox Behaviour
 * Brand X - Livestock
 * Brand X - Do they hurt

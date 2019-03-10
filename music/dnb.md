@@ -31,3 +31,8 @@ Most of my tastes in DnB come from the 90s where you get that classic synth, dee
 * Wax Doctor - Heat
 * Kirsty Hawkshaw - The Joy (Seba remix)
 * Calibre - What to Do in These Times
+* Peshay - Piano Tune
+* Source Direct - Complexities
+* Dub Fx - NO REST FOR THE WICKED' feat. CAde & Mahesh Vinayakram
+* Dub Fx - A little bit of Dub
+* Dub Fx - Theory Of Harmony
