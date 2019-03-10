@@ -20,4 +20,4 @@ nav: true
 * [Tea](/extra/tea.html) TODO
 * [Awesome FOSS](/extra/awesome-foss.html)
 * [Folding @ Home](/extra/folding-at-home.html)
-* [Playing Cards](/extra/playing-cards.html) TODO
+* [Playing Cards](/extra/playing-cards.html)

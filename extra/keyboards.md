@@ -30,3 +30,13 @@ It's unfortunately a US layout that I own, this prevents me from liking it as mu
 [Apple Keyboard]()
 
 Great chicklet style keys which allow for fast typing because it's pretty effortless to press and easy to glide your hands across the key caps. You do need to adjust the hid_apple drivers however if using on Linux with a UK ISO layout, it only takes 5mins to do.
+
+[Dell L20U]()
+
+[Compaq I101-P01]()
+
+[HP KU-0316 (USB)]()
+
+[HP KB-0316 (PS2)]()
+
+[Dell RT7D50]()
