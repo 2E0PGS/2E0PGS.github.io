@@ -58,3 +58,9 @@ nav: true
 ## Logbook
 
 * [Logbook Repository](https://bitbucket.org/2E0PGS/ham-radio-logbook)
+
+## Images
+
+### Handheld radios
+
+![handheld-radios](/assets/images/ham-radio/handheld-radios.jpg)
