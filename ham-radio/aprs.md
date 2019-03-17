@@ -25,7 +25,7 @@ I used to have my WX (Weather) Station on APRS but currently my Weather Station 
 
 I try to follow the recommended [guidelines](http://www.aprs.org/aprs11/SSIDs.txt) for SSID assignment.
 
-## Main callsign
+### Main callsign
 
 | SSID      | Static? | TX type | Message capability? | Description                    |
 |-----------|---------|---------|---------------------|--------------------------------|
