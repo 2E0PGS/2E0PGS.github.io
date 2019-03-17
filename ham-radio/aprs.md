@@ -23,12 +23,33 @@ I used to have my WX (Weather) Station on APRS but currently my Weather Station 
 
 ## SSIDs
 
-* 2E0PGS (main home base station radio)
-* 2E0PGS-5 (mobile with my backup phone)
-* 2E0PGS-7 (mobile with a hand held)
-* 2E0PGS-9 (mobile with my main phone)
-* 2E0PGS-10 (APRS I-Gate)
-* 2E0PGS-B (D-Star hotspot and DPRS I-Gate)
+I try to follow the recommended [guidelines](http://www.aprs.org/aprs11/SSIDs.txt) for SSID assignment.
+
+## Main callsign
+
+| SSID      | Static? | TX type | Message capability? | Description                    |
+|-----------|---------|---------|---------------------|--------------------------------|
+| 2E0PGS    | Yes     | DPRS    | Unknown             | Main home base station radio   |
+| 2E0PGS-5  | No      | TCPIP   | Send and recieve    | Mobile with my backup phone    |
+| 2E0PGS-7  | No      | DPRS    | Unknown             | Mobile with a hand held        |
+| 2E0PGS-8  | No      | FM      | None                | Mobile with AVRT5              |
+| 2E0PGS-9  | No      | TCPIP   | Send and recieve    | Mobile with my main phone      |
+| 2E0PGS-10 | Yes     | TCPIP   | Passthrough         | APRS I-Gate                    |
+| 2E0PGS-B  | Yes     | TCPIP   | Passthrough         | D-Star hotspot and DPRS I-Gate |
+| 2E0PGS-WX | Yes     | TCPIP   | None                | Home weather station           |
+
+### Secondary callsign
+
+| SSID     | Static? | TX type | Message capability? | Description            |
+|----------|---------|---------|---------------------|------------------------|
+| M3PGS-10 | Yes     | TCPIP   | Passthrough         | APRS I-Gate            |
+| M3PGS-WX | Yes     | TCPIP   | None                | Second weather station |
+
+### Other
+
+| SSID  | Static? | TX type | Message capability? | Description                                        |
+|-------|---------|---------|---------------------|----------------------------------------------------|
+| GB3AC | Yes     | TCPIP   | None                | UHF FM voice repeater http://www.sgrepeaters.co.uk |
 
 You can see my nodes on this map view of Bristol via [aprs.fi](https://aprs.fi/#!mt=roadmap&z=11&lat=51.4829&lng=-2.6549&timerange=3600) or via the below embedded map:
 
