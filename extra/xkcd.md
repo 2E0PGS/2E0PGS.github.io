@@ -38,6 +38,10 @@ How do I know it's really you?
 
 Blood alcohol level vs programming skill.
 
+[Exploits of a Mom](https://www.xkcd.com/327/)
+
+Little bobby drop tables. Input sanitization.
+
 [THIS IS WHY YOU SHOULDN'T INTERRUPT A PROGRAMMER](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/)
 
 Not an XKCD hosted comic but worth a mention; don't interrupt a programmer.
