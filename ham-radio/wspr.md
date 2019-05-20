@@ -14,6 +14,8 @@ WSPR stands for "Weak Signal Propagation Reporter". More info about WSPR can be 
 
 WSPR is a great tool for checking band conditions, atmospheric conditions and for testing how well certain antennas performs.
 
+I use [WSJT-X](http://physics.princeton.edu/pulsar/K1JT/wsjtx.html) software for WSPR because it's more up to date and it's cross platform. I run it on Linux personally.
+
 I run WSPR mostly on 20m and 40m bands. Below is a repository with a log of my WSPR contacts extracted from [wsprnet.org/archive](http://wsprnet.org/archive/) via a script I wrote to parse the files and grep for my call sign:
 
 * [WSPR Logs](https://bitbucket.org/2E0PGS/ham-radio-logbook-wspr)
