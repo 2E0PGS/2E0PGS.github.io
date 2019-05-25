@@ -17,6 +17,15 @@ I first got into playing cards when I was learning magic. I then became more int
 * Purple Reversed Back - Air-Cushion Finish
 * Shadow Masters Rider Back - UV500 Air-Flow Finish
 * Cyclist - Air-Cusion Finish
+* Autobike No.1 - Air-Cusion Finish
+* Aurora - Air-Cusion Finish
+* Hidden - Air-Cusion Finish
+* Mermaid Sirène - Air-Cusion Finish (Thanks para)
+
+## Maverick
+
+* Blue Standard Face
+* Red Standard Face
 
 ## Tally-Ho
 

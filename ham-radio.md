@@ -51,6 +51,25 @@ nav: true
 * Yaesu HRI-200
 * RCA AR-88 (HF)
 
+## Antenna systems I own and use
+
+* Ailunce AY01 UHF yagi antenna
+* G5RV half wave diapole
+* CP-6 HF vertical
+* X-50 2M and 70CM collinear
+* Diamond? Tri-band 6M, 2M and 70CM base collinear
+* Various handheld antennas
+
+## Antenna systems I have used before
+
+* 6 element yagi for HF?
+* Various end fed long wires
+* Trapped diapoles
+* Butternut HF6V 6 band vertical
+* Hussler 5-BTV 5 band vertical
+* MFJ-1786 magnetic loop
+* 
+
 ## Contactable via
 
 * GB3BS, GB3ZB, GB3WR, Zello, REF079 B and REF001 C
