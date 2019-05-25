@@ -80,3 +80,11 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [pi-star](https://www.pistar.uk/)
 * [MMDVM](https://github.com/g4klx/MMDVM)
 * [dsd](https://github.com/szechyjs/dsd)
+* OpenWebRX
+* SDR#
+* GQRX
+* GNU Radio
+* rtl-sdr
+* rtl-tcp
+* PI Aware
+* SDR angel
