@@ -12,13 +12,13 @@ I am a massive tea advocate. Don't add sugar as this ruins the purity.
 
 ## Tea bags
 
-#### Lipton
+### Lipton
 
 [Lipton Yellow Label Tea Bags](https://www.amazon.co.uk/Lipton-Yellow-Label-Bags-100ct/dp/B00U9WRZX4)
 
 If you want black tea in America this will suffice.
 
-#### Clipper
+### Clipper
 
 Nettle
 
@@ -26,7 +26,11 @@ Mango Green Tea
 
 Dandelion & Burdock
 
-#### Twinings
+[Fair Trade](https://www.amazon.co.uk/Clipper-Fairtrade-Everyday-Bags-1100/dp/B0053PLUVA/)
+
+[Organic](https://www.amazon.co.uk/Clipper-Organic-Everyday-Teabags-Total/dp/B006662NIE/)
+
+### Twinings
 
 Green Tea
 
@@ -50,13 +54,13 @@ Camomile & Honey
 
 Assam
 
-#### Yorkshire
+### Yorkshire
 
 Gold
 
 Original
 
-#### PG Tips
+### PG Tips
 
 Original
 
@@ -64,7 +68,7 @@ Decafe
 
 Extra Strong?
 
-#### Pukka
+### Pukka
 
 Pretty much all their teas I have tried have licorice in them. If you like licorice then happy days.
 
@@ -76,73 +80,73 @@ Lemon, Ginger & Manuka Honey
 
 Night Time
 
-#### Brooke Bond
+### Brooke Bond
 
 Red Label
 
-#### Cornish tea
+### Cornish tea
 
 Smugglers Brew
 
-#### Asda
+### Asda
 
 Everyday
 
-#### Sainsburys
+### Sainsburys
 
 Matcha Green Tea Bags
 
 Terrible fake flavour.
 
-#### Cafédirect
+### Cafédirect
 
 Everyday
 
-#### Waitrose
+### Waitrose
 
-#### Tetly
+### Tetly
 
-#### Teapigs
+### Teapigs
 
-#### Typhoo
+### Typhoo
 
 Peppermint
 
-#### Basilur
+### Basilur
 
 Ceylon
 
-#### Dorset tea
+### Dorset tea
 
 Original
 
-#### Tesco
+### Tesco
 
 Forest Fruits
 
-#### Marks & Spencer
+### Marks & Spencer
 
-#### Co-Op
+### Co-Op
 
 Lapsang
 
-#### Miles
+### Miles
 
 West Country Original Blend
 
-#### Dr Stuart's?
+### Dr Stuart's?
 
-#### Zesta
+### Zesta
 
 [Ceylon](https://www.ebay.co.uk/i/112546695590?chn=ps&var=412941104839)
 
-#### Lucky boy?
+### Lucky boy?
 
 Green Tea Leaves Tieh Kuan Yin
 
-### Loose tea
+## Loose tea
 
-#### Sainsburys
+### Sainsburys
 
 Red Label
 
@@ -150,33 +154,33 @@ Not as good as the Gold Label. A bit more powdery.
 
 Gold Label
 
-#### Waitrose
+### Waitrose
 
 Gold
 
 Loads of flavour in this tea.
 
-#### Marks & Spencer
+### Marks & Spencer
 
 Gold
 
 Very excellent flavour loose tea. Tastes much like Waitrose Gold.
 
-#### Yorkshire
+### Yorkshire
 
 Original
 
-#### Asda
+### Asda
 
 Loose Leaf
 
-#### Lipton
+### Lipton
 
 Yellow Label Tea
 
 Darjeeling Tea
 
-#### The Tea Makers of London
+### The Tea Makers of London
 
 [Yunnan Pu Erh](https://www.amazon.co.uk/gp/product/B00981ZNPY/)
 
@@ -184,11 +188,11 @@ Darjeeling Tea
 
 [Tarry Lapsang Souchong ](https://www.amazon.co.uk/gp/product/B009G6OH6C/)
 
-#### Vahdam
+### Vahdam
 
 [High Mountain Oolong Tea Leaves from the Himalayas](https://www.amazon.co.uk/gp/product/B01K78VZE4/)
 
-### Tea equipment
+## Tea equipment
 
 [Porcelain tea pot]()
 
@@ -213,3 +217,7 @@ Another option is to poor the tea slowly out the pot. Racking off the tea.
 [Milk](https://www.sainsburys.co.uk/shop/gb/groceries/sainsburys-british-whole-milk-227l-%284-pint%29)
 
 I suggest blue top milk aka whole milk. Semi-skimmed will suffice.
+
+Tea spoon
+
+Used to measure out loose tea. One tea spoon per a person and one for the pot.
