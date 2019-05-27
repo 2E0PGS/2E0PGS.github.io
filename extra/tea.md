@@ -12,8 +12,6 @@ I am a massive tea advocate. Don't add sugar as this ruins the purity.
 
 ## Tea bags
 
-### Black tea
-
 #### Lipton
 
 [Lipton Yellow Label Tea Bags](https://www.amazon.co.uk/Lipton-Yellow-Label-Bags-100ct/dp/B00U9WRZX4)
@@ -22,27 +20,83 @@ If you want black tea in America this will suffice.
 
 #### Clipper
 
+Nettle
+
+Mango Green Tea
+
+Dandelion & Burdock
+
 #### Twinings
+
+Green Tea
+
+Jasmine Green Tea
+
+Cranberry & Blood Orange
+
+English Breakfast
+
+Strong English Breakfast
+
+Earl Grey
+
+Smoky Lapsang
+
+Not that good. Your better going for loose Lapsang for a real flavour.
+
+Camomile
+
+Camomile & Honey
+
+Assam
 
 #### Yorkshire
 
+Gold
+
+Original
+
 #### PG Tips
 
-#### The Tea Makers of London
+Original
+
+Decafe
+
+Extra Strong?
 
 #### Pukka
 
-#### Vahdam
+Pretty much all their teas I have tried have licorice in them. If you like licorice then happy days.
+
+After Dinner
+
+Three Fennel
+
+Lemon, Ginger & Manuka Honey
+
+Night Time
 
 #### Brooke Bond
 
-#### Devon tea?
+Red Label
 
-#### Cornish tea?
+#### Cornish tea
+
+Smugglers Brew
 
 #### Asda
 
+Everyday
+
 #### Sainsburys
+
+Matcha Green Tea Bags
+
+Terrible fake flavour.
+
+#### Cafédirect
+
+Everyday
 
 #### Waitrose
 
@@ -52,10 +106,110 @@ If you want black tea in America this will suffice.
 
 #### Typhoo
 
+Peppermint
+
 #### Basilur
+
+Ceylon
 
 #### Dorset tea
 
+Original
+
 #### Tesco
 
+Forest Fruits
+
 #### Marks & Spencer
+
+#### Co-Op
+
+Lapsang
+
+#### Miles
+
+West Country Original Blend
+
+#### Dr Stuart's?
+
+#### Zesta
+
+[Ceylon](https://www.ebay.co.uk/i/112546695590?chn=ps&var=412941104839)
+
+#### Lucky boy?
+
+Green Tea Leaves Tieh Kuan Yin
+
+### Loose tea
+
+#### Sainsburys
+
+Red Label
+
+Not as good as the Gold Label. A bit more powdery.
+
+Gold Label
+
+#### Waitrose
+
+Gold
+
+Loads of flavour in this tea.
+
+#### Marks & Spencer
+
+Gold
+
+Very excellent flavour loose tea. Tastes much like Waitrose Gold.
+
+#### Yorkshire
+
+Original
+
+#### Asda
+
+Loose Leaf
+
+#### Lipton
+
+Yellow Label Tea
+
+Darjeeling Tea
+
+#### The Tea Makers of London
+
+[Yunnan Pu Erh](https://www.amazon.co.uk/gp/product/B00981ZNPY/)
+
+[First Flush Darjeeling](https://www.amazon.co.uk/gp/product/B005NK9LI4/)
+
+[Tarry Lapsang Souchong ](https://www.amazon.co.uk/gp/product/B009G6OH6C/)
+
+#### Vahdam
+
+[High Mountain Oolong Tea Leaves from the Himalayas](https://www.amazon.co.uk/gp/product/B01K78VZE4/)
+
+### Tea equipment
+
+[Porcelain tea pot]()
+
+The traditional English tea pot. Decent insulation and can be coupled with a tea cosy if required. Very fragile however.
+
+[Steel tea pot]()
+
+Best all around option.
+
+[Glass tea pot]()
+
+Looks impressive however not very practical. Also requires cleaning to keep it's appearance. More for herbal or green tea use.
+
+[Argon Cast Iron Tea Pot](https://www.amazon.co.uk/gp/product/B01CUCXCW8/)
+
+Rusted so therefore poor design. Also tea coolers quicker. Very heavy. Lid gets extremely hot and therefore is tricky to remove.
+
+[Strainer](https://www.sainsburys.co.uk/shop/gb/groceries/sainsburys-tea-strainer)
+
+Another option is to poor the tea slowly out the pot. Racking off the tea.
+
+[Milk](https://www.sainsburys.co.uk/shop/gb/groceries/sainsburys-british-whole-milk-227l-%284-pint%29)
+
+I suggest blue top milk aka whole milk. Semi-skimmed will suffice.
