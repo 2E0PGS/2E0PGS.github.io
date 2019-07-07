@@ -36,6 +36,18 @@ Using sounds and/or pop-up balloon aka toast notifications.
 
 Core is a dynamic website which sits on my sub domain core.m3pgs.co.uk it uses ASP .NET MVC Core 2 and is hosted on Linux for a working proof of concept of cross platform .NET. It will primarily be hosting useful tools and clients for cool APIs such as Overham.
 
+### GrayLog Client
+
+[Repo](https://bitbucket.org/2E0PGS/graylog-client)
+
+A .NET framework client for Gralog server HTTP GELF input. This library supports basic auth and HTTPS. Ideal for use with a nginx reverse proxy. The library is designed to log and forget. If the logging server is down it wont crash or slow your program.
+
+### Program Trak
+
+[Repo](https://bitbucket.org/2E0PGS/program-trak)
+
+A open-source cross-platform dotnet core based program usage tracker. Simply logs into sqlite DB.
+
 ## Arduino
 
 ### Open Fusion LED Controller
