@@ -80,6 +80,10 @@ I prefer Dave's Gourmet - Naga Jolokia Ghost Pepper instead as it has better fla
 
 This stuff is instant needles and instant heat. Add this to any dip for a real heat kick. It's brutal stuff.
 
+[Dave's Insanity Limited Edition Private Reserve 2014]() (8/10 heat level)
+
+This stuff smells and tastes like play dough unfortunately. This is probably because it's mostly extract. Although my other extracts normally just have a metallic taste. Wouldn't recommend buying this.
+
 ### Ginger Beards Preserves
 
 [Ginger Beards Preserves - Fermented Scotch Sriracha](https://www.gingerbeardspreserves.co.uk/product/fermented-scotch-sriracha/) (7/10 heat level)
@@ -164,6 +168,22 @@ Carolina Reaper Chilli Sauce 50ml - Just Devon Chillies, No additives (8/10 heat
 
 This is really pure hot lava. Warning add this to the top of some pizza and then cook it for a insanely hot pizza.
 
+### Tropical Sun
+
+[Jamaican Scotch Bonnet Pepper Sauce](https://groceries.asda.com/product/sauces-seasonings/tropical-sun-jamaican-scotch-bonnet-pepper-sauce/1000049687462) (6/10 heat level)
+
+Sweet and fruity hot sauce. You can taste a nice mango fruit with a decent kick of heat. Goes well with chips and makes an awesome dipping sauce when mixed with ketchup.
+
+### Eaton's
+
+[Jamaican Scotch Bonnet Pepper Sauce](https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/eatons-jamaican-scotch-bonnet-pepper-sauce-148ml) (6/10 heat level)
+
+I prefer this over Tropical Sun's version. It has less ingredients and tastes a little more natural. Very sweet, tangy and has slightly more heat. Recommended for flavour alone!
+
+### Heartbreaking Dawn's
+
+[Fervor Carolina Reaper Chile Hot Sauce]
+
 ### Unknown
 
 [The Hottest Fuckin' Sauce](https://www.hotsauceemporium.co.uk/shop/hot-chilli-sauces/39/the-hottest-fuckin-sauce/) (6/10 heat level)
@@ -172,7 +192,9 @@ It's not that hot and I am quite disappointed in the marketing leading me to thi
 
 ## Extracts
 
-[Mad Dog - 44 Magnum 4 Million Scovilles](https://www.amazon.co.uk/Mad-Dog-Million-Scovilles-Extract/dp/B00170SKRC) (9/10 heat level)
+### Mad Dog
+
+[44 Magnum 4 Million Scovilles](https://www.amazon.co.uk/Mad-Dog-Million-Scovilles-Extract/dp/B00170SKRC) (9/10 heat level)
 
 You don't need any more concentrated extract that this! A few drops into a chip dip or chilli-con-carne helps heat it right up. However I believe I have built up a tolerance to extracts over the years as before just two drops in chilli-con-carne could cause me to nearly puke. Now I can use 4-6 and not really notice it.
 
@@ -180,33 +202,55 @@ You don't need any more concentrated extract that this! A few drops into a chip 
 
 ### Fresh
 
-[Tesco Carolina Reaper](https://www.tescoplc.com/news/news-releases/2016/carolina-reaper-chilli-pepper/) (10/10 heat level)
+#### Tesco
+
+[Carolina Reaper](https://www.tescoplc.com/news/news-releases/2016/carolina-reaper-chilli-pepper/) (10/10 heat level)
 
 This gave me some shooting ear pain when eating half of one raw. No other chilli product has done that to me yet! Seriously hot and not to be messed with. However I can add two into a chilli-con-carne or noodles and be fine eating it. It does sit in your gut though. This is also an extremely floral chilli, tastes a bit like eating perfume.
 
-[Tesco Komodo Dragon](https://www.tescoplc.com/news/news-releases/2015/komodo-dragon-chilli-pepper-to-be-unleashed-across-britain/) (9/10 heat level)
+[Komodo Dragon](https://www.tescoplc.com/news/news-releases/2015/komodo-dragon-chilli-pepper-to-be-unleashed-across-britain/) (9/10 heat level)
 
 This one is more edible raw than a Carolina Reaper. I eat most of one before but it does really heat up slowly after the fact. Whole mouth will be on fire. Lovely floral notes and not too overpowering.
 
 ### Dried
 
-[Chilli Wizards Carolina Reaper Dried Pods](https://www.amazon.co.uk/Chilli-Wizards-Carolina-Reaper-Dried/dp/B01KFR712M) (9/10 heat level)
+#### Chilli Wizards
+
+[Carolina Reaper Dried Pods](https://www.amazon.co.uk/Chilli-Wizards-Carolina-Reaper-Dried/dp/B01KFR712M) (9/10 heat level)
 
 Still very hot when dried but easier for me on the mouth and ears. However it will still be a real gut burner so go steady.
 
 ## Powders
 
-[East End Chilli Powder Extra Hot](https://www.amazon.co.uk/East-End-Chilli-Powder-Extra/dp/B00DJ6COO2/) (6/10 heat level)
+### East End
+
+[Chilli Powder Extra Hot](https://www.amazon.co.uk/East-End-Chilli-Powder-Extra/dp/B00DJ6COO2/) (6/10 heat level)
 
 Great for adding some back end burning spice to any chilli dish or curry. Pretty hot for what you can find in a supermarket.
 
 ## Oils
 
-[Lee Kum Kee Chiu Chow Chilli Oil](https://www.amazon.co.uk/Lee-Kum-Kee-Chiu-Chilli/dp/B00TZT65BK) (4/10 heat level)
+### Lee Kum Kee
+
+[Chiu Chow Chilli Oil](https://www.amazon.co.uk/Lee-Kum-Kee-Chiu-Chilli/dp/B00TZT65BK) (4/10 heat level)
 
 Has a bit of a dry chilli taste. Goes best with Cantonese dim sum. Haven’t used it on much else. I think I have had better chilli oils in Cantonese restaurants.
 
+### Morrisons
+
+[Chilli Infused Olive Oil](https://groceries.morrisons.com/webshop/product/Morrisons-The-Best-Infused-Chilli-Oil/344319011) (3/10 heat level)
+
+I haven't found many uses for this yet.
+
+### English Provender
+
+[Very Lazy Red Chillies](https://www.tesco.com/groceries/en-GB/products/253637562) (5/10 heat level)
+
+Useful for making a chilli or curry. It is a little on the vinegary side however. Will probably advise you stick with Lee Kum Kee.
+
 ## Snacks
+
+### Chilli Wizards
 
 [Carolina Reaper Chilli Bombay Mix](https://www.amazon.co.uk/Carolina-Reaper-Chilli-Bombay-Mix/dp/B01MR49A1F) (7/10 heat level)
 

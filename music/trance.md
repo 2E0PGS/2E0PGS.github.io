@@ -21,11 +21,20 @@ Anyway I recommend listening via a decent HI-FI system or using headphones with 
 
 ## List of my favourite albums, singles or performances
 
-* Sasha - Xpander (Original)
+### Progressive
+
+* Guy Ornadel - (2005.04.09) Live @ Passion (Vinyl Set),Coalville,UK
+* Guy Ornadel ‎– Guy Ornadel's Progressive Session
+* Sasha - Xpander EP
+* Cass & Slide - Perception (Original Mix)
+* Spooky - Little Bullet
+* [Daniel Bruns - Eye-Trance](https://www.discogs.com/Daniel-B-Eye-Trance/release/65571)
+
+### Unsorted
+
 * Bedrock - Heaven Scent (Original Mix)
 * PPK - Resurrection (Space Club Mix)
 * ​Luminary - Amsterdam (Smith & Pledger Remix)
-* Cass & Slide - Perception (Original Mix)
 * Solar Factor - No Return (Original Mix)
 * ​Silver Sanctuary - Time Is The Hammer 2009
 * DJ Garry - Dream Universe
@@ -51,7 +60,6 @@ Anyway I recommend listening via a decent HI-FI system or using headphones with 
 * Not Over Yet 99 - Planet Perfecto (Breeder's It Is Now Mix)
 * Airwave - People Just Don't Care (Original Mix)
 * Deepsky- Stargazer
-* Sasha - Belfunk
 * Sasha & Darren Emerson - Scorchio
 * ​Planet Perfecto - Bullet In The Gun
 * ​Sensation - The Anthem 2003 (Original Mix)
