@@ -20,7 +20,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery) (dark theme)
 * [GnuCash](https://play.google.com/store/apps/details?id=org.gnucash.android)
 * [NewPipe](https://play.google.com/store/apps/details?id=org.schabi.newpipe) (dark theme)
-* [Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
+* [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
 * [OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
 * [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) (dark theme)
 * [Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual) (dark theme)
@@ -33,6 +33,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [List My Apps](https://github.com/onyxbits/listmyaps)
 * [OctoDroid](https://github.com/slapperwan/gh4a) (dark theme)
 * [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) (dark theme)
+* [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) (dark theme)
 
 ## Web apps
 
@@ -86,5 +87,6 @@ There are various other "awesome" curated lists available on Github: [github.com
 * GNU Radio
 * rtl-sdr
 * rtl-tcp
+* rtl-433
 * PI Aware
 * SDR angel

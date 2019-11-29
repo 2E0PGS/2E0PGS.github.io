@@ -10,7 +10,7 @@ nav: true
 
 * On [Ham radio](/ham-radio.html).
 * On [Zello](/ham-radio/zello.html).
-* Via my PGP key: [pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x085248F9DA7395E4)
+* Via my PGP key: [keybase.io](https://keybase.io/2e0pgs)
 * Via the below contact form powered by a FOSS project called [formspree.io](https://formspree.io/)
 
 # IRC
