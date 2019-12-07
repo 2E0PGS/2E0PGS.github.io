@@ -90,4 +90,4 @@ I use the MZ-E62 more since it has the remote control and great bass boost. Take
 
 ## MP3 player
 
-[Sony Walkman...]
+[Sony Walkman NWZ-A729]
