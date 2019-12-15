@@ -10,6 +10,7 @@ nav: true
 
 ## Sub pages
 
+* [Weather](/extra/weather.html)
 * [Keyboards](/extra/keyboards.html)
 * [Trains](/extra/trains.html)
 * [Chilli](/extra/chilli.html)

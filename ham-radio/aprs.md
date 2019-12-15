@@ -9,11 +9,11 @@ description: Amateur Radio Packet Reporting System
 
 Automatic Packet Reporting System (APRS) is an amateur radio based system for real time data communication of location reporting and messaging.
 
-More info a﻿t:
+More info at:
 
 * [APRS.FI](APRS.FI)
 * [APRS.ORG](APRS.ORG)
-* ﻿﻿﻿﻿﻿﻿﻿﻿﻿[APRSDROID.ORG](APRSDROID.ORG)
+* [APRSDROID.ORG](APRSDROID.ORG)
 
 I use APRSDroid on my Android phone which is a great tool for reporting my location, speed and altitude to [ARPS.FI](ARPS.FI) I normally use APRS when mobile in the car, on the bike or walking.
 

@@ -74,19 +74,36 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 ### Ham radio
 
+#### Radio programming
+
 * [Chrip](https://chirp.danplanet.com/projects/chirp/wiki/Home)
+
+#### Data modes
+
 * [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
 * [Direwolf](https://github.com/wb2osz/direwolf)
 * [MultimonNG](https://github.com/EliasOenal/multimon-ng/)
 * [pi-star](https://www.pistar.uk/)
 * [MMDVM](https://github.com/g4klx/MMDVM)
 * [dsd](https://github.com/szechyjs/dsd)
+
+#### SDR
+
 * OpenWebRX
 * SDR#
 * GQRX
-* GNU Radio
 * rtl-sdr
 * rtl-tcp
 * rtl-433
-* PI Aware
 * SDR angel
+* pymultimonaprs
+
+##### Mobile apps
+
+* QuestaSDR
+* Rtl-sdr driver
+
+#### Other
+
+* GNU Radio
+* PI Aware

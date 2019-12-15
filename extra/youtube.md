@@ -17,3 +17,4 @@ My YouTube channel hosts various videos I create on ranging topics. Those mostly
 * Live music.
 * Pipe tobacco reviews.
 * Ham radio.
+* Survival and EDC.
