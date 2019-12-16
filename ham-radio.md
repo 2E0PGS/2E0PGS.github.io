@@ -31,6 +31,7 @@ nav: true
 ## Radio gear I own and use
 
 * Icom IC-7100 (HF/VHF/UHF)
+* Icom ID-51A Plus 2 (VHF/UHF)
 * Icom IC-E208 (VHF/UHF)
 * Yaesu FT-840 (HF)
 * Yaesu FT-60 (VHF/UHF)
@@ -41,6 +42,7 @@ nav: true
 * RIGblaster plus
 * RTL-SDR x3 (HF/VHF/UHF)
 * Ettus Research USPR1 (2x RX daughter boards) x2 (UHF)
+* HackRF One with external TCXO clock (1MHz - 6GHz)
 
 ## Radio gear I have used before
 
@@ -68,7 +70,6 @@ nav: true
 * Butternut HF6V 6 band vertical
 * Hussler 5-BTV 5 band vertical
 * MFJ-1786 magnetic loop
-*
 
 ## Contactable via
 
