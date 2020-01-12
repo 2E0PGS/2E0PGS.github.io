@@ -1,5 +1,5 @@
 ---
-title: Playing Cards
+title: Playing cards
 description: My playing card collection.
 nav: false
 ---

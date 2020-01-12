@@ -10,17 +10,18 @@ nav: true
 
 ## Personal
 
-* [My QRZ Page M3PGS](https://www.qrz.com/db/M3PGS)
-* [My QRZ Page 2E0PGS](https://www.qrz.com/db/2E0PGS)
-* [My Github Repo](https://github.com/2E0PGS/)
+* [My QRZ page M3PGS](https://www.qrz.com/db/M3PGS)
+* [My QRZ page 2E0PGS](https://www.qrz.com/db/2E0PGS)
+* [My Github repo](https://github.com/2E0PGS/)
 * [My Github Gists](https://gist.github.com/2E0PGS)
-* [My Bitbucket Repo](https://bitbucket.org/2E0PGS/)
-* [My Gitlab Repo](https://gitlab.com/2E0PGS)
+* [My Bitbucket repo](https://bitbucket.org/2E0PGS/)
+* [My Gitlab repo](https://gitlab.com/2E0PGS)
 * [My Twitter](https://twitter.com/M3PGS)
 * [My Facebook](https://www.facebook.com/2e0pgs)
-* [My YouTube Channel](https://www.youtube.com/channel/UC4IVhv2NEz8Piceh4ot91og)
+* [My YouTube channel](https://www.youtube.com/channel/UC4IVhv2NEz8Piceh4ot91og)
 * [My Minds.com profile](https://www.minds.com/2E0PGS)
 * [My blog](https://2e0pgs.github.io/blog/)
+* [My devRant](https://devrant.com/users/2E0PGS)
 
 ## Associates
 
@@ -36,6 +37,7 @@ nav: true
 * [M6KVM/2E0EOL](http://www.daybologic.co.uk)
 * [G7NSY](http://g7nsy.uk/wordpress/)
 * [Stuxnode (Electricguy)](http://stuxnode.com/about)
+* [2E0RPT](https://www.youtube.com/channel/UCJPTGQ8xYZvo1CpHwMzc9_g)
 
 ## Shoutouts
 
