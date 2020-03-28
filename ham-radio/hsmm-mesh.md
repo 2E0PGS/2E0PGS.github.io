@@ -69,10 +69,10 @@ I highly suggest visiting the [broadband-hamnet website](http://www.broadband-ha
 
 ### MX0NBC-BULLET
 
-* Status: ONLINE (Fridays 7pm-11pm)
+* Status: ONLINE (24-7)
 * Device: Ubiquiti Bullet M2
 * Firmware: Arden
-* Antenna: Beam vertical polarization pointing to G7NSY-BULLET
+* Antenna: Beam vertical polarization pointing to 2E0PGS-BULLET
 * Services:
 	* IP Cam1: OFFLINE
 	* IP Cam2: OFFLINE

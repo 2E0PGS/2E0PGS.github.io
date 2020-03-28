@@ -35,7 +35,7 @@ Here is a list of stuff I have done with SDR.
 
 ### Video 
 
-* DVB-T (Digital Video Brodcast - Terrestrial)
+* DVB-T (Digital Video Broadcast - Terrestrial)
 * ATV (Amateur Television)
 
 ## Data modes to decode
@@ -44,7 +44,7 @@ Here is a list of stuff I have done with SDR.
 
 ## Other uses
 
-* Spectrum analysys
+* Spectrum analysis
 * Reverse engineering protocols
 * PAN adapters
 * RF interference tracking

@@ -13,7 +13,7 @@ I am currently experimenting with Jumbospots and DV mini using Pi-Star for D-Sta
 
 Below are the spectrum analyser results. Not bad I am impressed, this is all without any external filtering.
 
-I have achived a mile range with a less than ideal mobile dual band antenna setup, attached to the hotspot on the first floor (British English).
+I have achieved a mile range with a less than ideal mobile dual band antenna setup, attached to the hotspot on the first floor (British English).
 
 Overall the best hotspot I have tested so far.
 
@@ -41,7 +41,7 @@ Slightly deaf and not as much output power when compared to the Jumbospot. Proba
 
 ## DV mini USB dongle
 
-Tied to specific software in my testing. That software I found hard to aquire due to missing mirrors.
+Tied to specific software in my testing. That software I found hard to acquire due to missing mirrors.
 
 ![dv-mini-01](/assets/images/ham-radio/dvap/dv-mini-01.jpg)
 

@@ -20,7 +20,7 @@ Decent speakers with a strong bass. Surprising quality when I have compared them
 
 [NAD Stero Amplifier 3020i](https://en.wikipedia.org/wiki/NAD_3020) (1978 ish)
 
-Clear audio amp with lots of punch for its size. It's probably one of my favorite amps I ever used. Simple interface without lots of useless features.
+Clear audio amp with lots of punch for its size. It's probably one of my favourite amps I ever used. Simple interface without lots of useless features.
 
 ## CD player
 
@@ -48,7 +48,11 @@ This is the DAC in my main personal desktop and it's fantastic for a motherboard
 
 [FiiO E10K](https://www.headfonia.com/fiio-e10k-classic-reborn/)
 
-I mainly use this DAC on the PC at work and it fixes all the PC PSU line noise problems I was having before. The lower end bass on this is a bit better than the Realtek ALC887 I reckon as it manages to shake my headphones just that bit extra. I don't however use the bass-boost mode but I do use the high-gain switch.
+I mainly use this DAC on the PC at home and it fixes all the PC PSU line noise problems I was having before. The lower end bass on this is a bit better than the Realtek ALC887 I reckon as it manages to shake my headphones just that bit extra. I don't however use the bass-boost mode but I do use the high-gain switch.
+
+[Aimpire AD10](https://www.amazon.co.uk/gp/product/B015J0QAN6/)
+
+This is the DAC I use at work. I love the PCM readout. Anyway it's a great sounding DAC. You can hear the difference in the bass and highs.
 
 ## Ear-Canal headphones
 
@@ -77,6 +81,8 @@ Great bass for such a small device. Long battery life that lasts roughly a solid
 ## Headphones
 
 [Beyerdynamic DT 990 PRO Studio Headphones](https://www.amazon.co.uk/gp/product/B0011UB9CQ)
+
+Excellent headphones. It's perfect for many types of music. The bass and highs are great. No issues like others suggest with too much high end.
 
 ## MiniDisk player
 

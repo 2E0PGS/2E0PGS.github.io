@@ -150,7 +150,7 @@ This is a very nice buffalo sauce. Creamy and has a salad cream smell. It's most
 
 [Reavers - Trinidad Scorpion Chipotle Sauce](https://www.amazon.co.uk/dp/B01J4H3MEK/) (7/10 heat level)
 
-Also a great chip dip but it's way hotter than the buffalo sauce they make. Has a lovely smokey taste perhaps roasted garlic. Great with smoked ham or chicken.
+Also a great chip dip but it's way hotter than the buffalo sauce they make. Has a lovely smoky taste perhaps roasted garlic. Great with smoked ham or chicken.
 
 ### Skansk Chili
 

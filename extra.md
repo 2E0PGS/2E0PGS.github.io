@@ -16,14 +16,13 @@ nav: true
 * [Keyboards](/extra/keyboards.html)
 * [Awesome FOSS](/extra/awesome-foss.html)
 * [Folding @ Home](/extra/folding-at-home.html)
-* TODO: [Computers]() (Sun ULTRA SPARC)
 
 ### Science/Engineering
 
 * [Weather](/extra/weather.html)
-* TODO: [Lighting]() (HPS, LPS, Metal Halide, LED, Fluro, Incandecent, diode lasers, gas lasers)
+* [Lighting](/extra/lighting.html)
 * TODO: [Fire alarms]() (gent, ctec, apollo, roshnie, banshe)
-* TODO: [Mesurement devices](/extra/measurement-devices.md)
+* [Measurement devices](/extra/measurement-devices.md)
 * [Trains](/extra/trains.html)
 
 ### Other

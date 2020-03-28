@@ -39,3 +39,4 @@ Producers for computer game OST's have just as much influence as full fledged mu
 * Utopia Cristobal Tapia De Veer (full album)
 * Humans Soundtrack - Cristobal Tapia de Veer
 * Ghost in The Shell Soundtrack • Playstation
+* The Black Mages - Those Who Fight Further FFVII
