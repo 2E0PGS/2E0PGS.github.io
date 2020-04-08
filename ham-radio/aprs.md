@@ -15,11 +15,15 @@ More info at:
 * [APRS.ORG](APRS.ORG)
 * [APRSDROID.ORG](APRSDROID.ORG)
 
-I use APRSDroid on my Android phone which is a great tool for reporting my location, speed and altitude to [ARPS.FI](ARPS.FI) I normally use APRS when mobile in the car, on the bike or walking.
+~~I use APRSDroid on my Android phone which is a great tool for reporting my location, speed and altitude to [ARPS.FI](ARPS.FI) I normally use APRS when mobile in the car, on the bike or walking.~~
 
-I also operate a APRS I-Gate which runs on a Raspberry PI B+ with a SDR dongle. This allows for a compact 24/7 local or portable setup.
+I use [aprs-cli](https://bitbucket.org/2E0PGS/aprs-cli) written by me on my Android phone almost 24/7.
 
-I used to have my WX (Weather) Station on APRS but currently my Weather Station is broken.
+~~I also operate a APRS I-Gate which runs on a Raspberry PI B+ with a SDR dongle. This allows for a compact 24/7 local or portable setup.~~
+
+I operate a 24/7 local APRS I-Gate on a VMWare virtual machine with usb pass-through of a RTL SDR dongle.
+
+I used to have my WX (Weather Station) on APRS see: [Weather](../extra/weather.html)
 
 ## SSIDs
 
