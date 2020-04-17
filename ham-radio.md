@@ -17,6 +17,7 @@ nav: true
 * [IC-7100](/ham-radio/ic-7100.html)
 * [DVAP](/ham-radio/dvap.html)
 * [SDR](/ham-radio/sdr.html)
+* [Data modes](/ham-radio/data-modes.html)
 * [Zello](/ham-radio/zello.html)
 
 ## General info
@@ -55,21 +56,25 @@ nav: true
 
 ## Antenna systems I own and use
 
-* Ailunce AY01 UHF yagi antenna
-* G5RV half wave diapole
+* Ailunce AY01 UHF Yagi antenna
+* G5RV half wave dipole
 * CP-6 HF vertical
 * X-50 2M and 70CM collinear
 * Diamond? Tri-band 6M, 2M and 70CM base collinear
 * Various handheld antennas
+* 19dBi 2.4GHz square grid/dish antenna
+* 2.4GHz Yagi antenna
+* Opticum 10.7 GHz to 12.75 GHz LNB
 
 ## Antenna systems I have used before
 
-* 6 element yagi for HF?
+* 6 element Yagi for HF?
 * Various end fed long wires
-* Trapped diapoles
+* Trapped dipole
 * Butternut HF6V 6 band vertical
 * Hussler 5-BTV 5 band vertical
 * MFJ-1786 magnetic loop
+* [G8YMM/Severnside group 1.3GHz Yagi antenna](https://www.qsl.net/g8ymm/aerials.htm)
 
 ## Contactable via
 

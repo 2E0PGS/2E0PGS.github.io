@@ -9,48 +9,20 @@ description: SDR is awesome
 
 Here is a list of stuff I have done with SDR.
 
-## Data modes decoded
-
-### Text
-
-* POCSAG (Pager data)
-* APRS (Amateur Radio Packet Reporting System)
-* ADS-B (Automatic Dependent Surveillance - Broadcast)
-* DTMF (Dial Tone Multiple Frequency)
-* Morse code
-
-#### rtl-433
-
-* Weather stations
-* Car tyre pressure sensors
-* Garage door openers
-* Pool temperature sensors
-
-### Voice
-
-* D-Star
-* Yaesu system fusion
-* DAB (Digital Audio Broadcast)
-* DMR (Digital Mobile Radio)
-
-### Video 
-
-* DVB-T (Digital Video Broadcast - Terrestrial)
-* ATV (Amateur Television)
-
-## Data modes to decode
-
-* AIS boat
-
-## Other uses
-
 * Spectrum analysis
-* Reverse engineering protocols
-* PAN adapters
+* Reverse engineering protocols and data modes
+* PAN adapters using the IF output of a radio
 * RF interference tracking
 * APRS I-Gate using pymultimonaprs
-* TV server with rtl dongle and tvheadend or vlc
-* Weewx website with rtl-433 input
+* Terrestrial TV reception with rtl dongle
+* IDS (Intrusion Detection System)
+* Decoded various data modes using SDR drivers with UDP streams, TCP streams or audio pipes in Linux. See: [Data modes](../data-modes.html)
+
+## Future projects
+
+* Run a DVB-T tvheadend server from a RTL dongle
+* Run a Weewx website with rtl-433 input
+* OpenWebRX server
 
 ## SDR tools
 
@@ -58,6 +30,6 @@ Here is a list of stuff I have done with SDR.
 
 ## Mobile SDR
 
-* Raspberry PI with powerbank.
-* Android using Rtl-sdr driver app for rtl-tcp like server.
+* Raspberry PI with power bank.
+* Android using rtl-sdr driver app for rtl-tcp like server.
 * Termux and rtl-433 see: [Portable Android signal recorder #892](https://github.com/merbanan/rtl_433/issues/892)

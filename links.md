@@ -32,7 +32,7 @@ nav: true
 
 ## Friends
 
-* [G8YMM](http://www.g8ymm.org.uk)
+* [G8YMM](https://www.qsl.net/g8ymm/)
 * [M6JBR/2E0JCC](http://www.2e0jcc.weebly.com)
 * [M6KVM/2E0EOL](http://www.daybologic.co.uk)
 * [G7NSY](http://g7nsy.uk/wordpress/)
