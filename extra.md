@@ -21,7 +21,6 @@ nav: true
 
 * [Weather](/extra/weather.html)
 * [Lighting](/extra/lighting.html)
-* TODO: [Fire alarms]() (gent, ctec, apollo, roshnie, banshe)
 * [Measurement devices](/extra/measurement-devices.md)
 * [Trains](/extra/trains.html)
 

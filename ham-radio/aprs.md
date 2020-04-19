@@ -34,10 +34,10 @@ I try to follow the recommended [guidelines](http://www.aprs.org/aprs11/SSIDs.tx
 | SSID      | Static? | TX type | Message capability? | Description                    |
 |-----------|---------|---------|---------------------|--------------------------------|
 | 2E0PGS    | Yes     | DPRS    | Unknown             | Main home base station radio   |
-| 2E0PGS-5  | No      | TCPIP   | Send and recieve    | Mobile with my backup phone    |
+| 2E0PGS-5  | No      | TCPIP   | Send and receive    | Mobile with my backup phone    |
 | 2E0PGS-7  | No      | DPRS    | Unknown             | Mobile with a hand held        |
 | 2E0PGS-8  | No      | FM      | None                | Mobile with AVRT5              |
-| 2E0PGS-9  | No      | TCPIP   | Send and recieve    | Mobile with my main phone      |
+| 2E0PGS-9  | No      | TCPIP   | Send and receive    | Mobile with my main phone      |
 | 2E0PGS-10 | Yes     | TCPIP   | Passthrough         | APRS I-Gate                    |
 | 2E0PGS-B  | Yes     | TCPIP   | Passthrough         | D-Star hotspot and DPRS I-Gate |
 | 2E0PGS-WX | Yes     | TCPIP   | None                | Home weather station           |

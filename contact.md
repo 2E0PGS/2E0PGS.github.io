@@ -15,12 +15,14 @@ nav: true
 
 # IRC
 
-* I am always on IRC and I can be found in [#NBARC](http://nbarc.weebly.com/irc.html) IRC channel on Freenode which I manage.
-* _2E0PGS (registered) (main home IRC client)
-* _2E0PGS-W (registered) (work IRC client)
-* _2E0PGS-M (registered) (mobile IRC client. Often my phone)
-* _2E0PGS-B (registered) (bouncer IRC client. IRSSI on a server over SSH)
-* _2E0PGS-V (registered) (Vector aka Matrix aka RIOT.IM IRC bridge) (not used currently)
-* M2E0PGS[m] (un-registered) (Vector aka Matrix aka RIOT.IM IRC bridge)
+I am always on IRC and I can be found in [#NBARC](http://nbarc.weebly.com/irc.html) IRC channel on Freenode which I manage.
+
+| Nick       | Registered? | Description                                    |
+|------------|-------------|------------------------------------------------|
+| _2E0PGS    | Yes         | Main home IRC client                           |
+| _2E0PGS-W  | Yes         | Work IRC client                                |
+| _2E0PGS-M  | Yes         | Mobile IRC client. Often my phone              |
+| _2E0PGS-B  | Yes         | Bouncer IRC client. IRSSI on a server over SSH |
+| M2E0PGS[m] | No          | Vector aka Matrix aka RIOT.IM IRC bridge       |
 
 {% include contact-form.html %}
