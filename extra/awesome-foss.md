@@ -89,21 +89,24 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 #### SDR
 
-* OpenWebRX
-* SDR#
-* GQRX
-* rtl-sdr
-* rtl-tcp
-* rtl-433
-* SDR angel
-* pymultimonaprs
+* [OpenWebRX](https://github.com/ha7ilm/openwebrx)
+* [SDR#](https://github.com/cgommel/sdrsharp)
+* [GQRX](https://github.com/csete/gqrx)
+* [rtl-sdr](https://github.com/osmocom/rtl-sdr)
+* [rtl-tcp](https://github.com/osmocom/rtl-sdr)
+* [rtl-433](https://github.com/merbanan/rtl_433)
+* [SDR angel](https://github.com/f4exb/sdrangel)
+* [pymultimonaprs](https://github.com/asdil12/pymultimonaprs)
+* [welle.io](https://github.com/AlbrechtL/welle.io)
 
-##### Mobile apps
+##### Android apps
 
-* QuestaSDR
-* Rtl-sdr driver
+* [Rtl-sdr driver](https://github.com/martinmarinov/rtl_tcp_andro-)
+* [RF Analyzer](https://github.com/demantz/RFAnalyzer)
+* [welle.io](https://github.com/AlbrechtL/welle.io)
 
 #### Other
 
-* GNU Radio
-* PI Aware
+* [GNU Radio](https://github.com/gnuradio/gnuradio)
+* [PiAware](https://github.com/flightaware/piaware)
+* [Hamlib](https://github.com/Hamlib/Hamlib)
