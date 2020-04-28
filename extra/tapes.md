@@ -8,7 +8,7 @@ nav: false
 
 # Tapes
 
-## Duct Tapes
+## Duct tapes
 
 [Duck Tape Original]()
 
@@ -32,4 +32,12 @@ Very strong adhesion however it doesn't work well if you're trying to stick two 
 
 This tape I have however used to prevent a leak in a cracked bathtub and it's still holding up 3 weeks later just fine. So it would appear this tape is pretty water proof.
 
-## Other Tapes
+## Electrical tape
+
+[3M Temflex]()
+
+Cheaper version of the super 33+. Works well for general use.
+
+[3M super 33+]()
+
+The best electrical tape I have found. Very elastic.

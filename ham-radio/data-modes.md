@@ -37,6 +37,7 @@ Various digital modes I have used and/or operated over the years.
 ## Video 
 
 * DVB-T (Digital Video Broadcast - Terrestrial)
+* DVB-T2 (Digital Video Broadcast - Second Generation Terrestrial)
 * SSTV (Slow-Scan Television)
 * FSTV (Fast-Scan Television)
 
@@ -48,6 +49,7 @@ Various digital modes I have used and/or operated over the years.
 
 * AIS boat
 * DVB-S (Digital Video Broadcast - Satellite)
-* DVB-S2 (Digital Video Broadcast - Satellite)
+* DVB-S2 (Digital Video Broadcast - Second Generation Satellite)
+* DVB-C (Digital Video Broadcasting - Cable)
 
 Useful link to audio samples so you can identify the data modes: [sigidwiki](https://www.sigidwiki.com/wiki/Category:Amateur_Radio)
