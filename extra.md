@@ -30,8 +30,6 @@ nav: true
 
 ### Reviews
 
-* TODO: [Whisky](/extra/whisky.html)
-* TODO: [Wine](/extra/wine.html)
 * [Chilli](/extra/chilli.html)
 * [Noodles](/extra/noodles.html)
 * [Tapes](/extra/tapes.html)
