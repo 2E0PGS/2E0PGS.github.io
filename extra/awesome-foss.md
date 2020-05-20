@@ -14,7 +14,6 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 ## Android apps
 
-* [APRSdroid](https://aprsdroid.org/) (dark theme)
 * [Calendar](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar) (dark theme)
 * [F-Droid](https://play.google.com/store/apps/details?id=org.fdroid.fdroid) (dark theme)
 * [Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery) (dark theme)
@@ -34,6 +33,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [OctoDroid](https://github.com/slapperwan/gh4a) (dark theme)
 * [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) (dark theme)
 * [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) (dark theme)
+* [FairEmail](https://github.com/M66B/FairEmail) (dark theme)
 
 ## Web apps
 
@@ -71,6 +71,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [vim](https://www.vim.org/)
 * [thunderbird](https://www.thunderbird.net/en-US/)
 * [Syncthing](https://syncthing.net/)
+* [sigrok](https://github.com/sigrokproject/libsigrok)
 
 ### Ham radio
 
@@ -93,7 +94,6 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [SDR#](https://github.com/cgommel/sdrsharp)
 * [GQRX](https://github.com/csete/gqrx)
 * [rtl-sdr](https://github.com/osmocom/rtl-sdr)
-* [rtl-tcp](https://github.com/osmocom/rtl-sdr)
 * [rtl-433](https://github.com/merbanan/rtl_433)
 * [SDR angel](https://github.com/f4exb/sdrangel)
 * [pymultimonaprs](https://github.com/asdil12/pymultimonaprs)
@@ -101,6 +101,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 ##### Android apps
 
+* [APRSdroid](https://aprsdroid.org/) (dark theme)
 * [Rtl-sdr driver](https://github.com/martinmarinov/rtl_tcp_andro-)
 * [RF Analyzer](https://github.com/demantz/RFAnalyzer)
 * [welle.io](https://github.com/AlbrechtL/welle.io)
