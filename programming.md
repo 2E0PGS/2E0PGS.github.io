@@ -38,9 +38,9 @@ Core is a dynamic website which sits on my sub domain core.m3pgs.co.uk it uses A
 
 ### GrayLog Client
 
-[Repo](https://bitbucket.org/2E0PGS/graylog-client)
+[Repo](https://bitbucket.org/2E0PGS/graylog-client-standard)
 
-A .NET framework client for Gralog server HTTP GELF input. This library supports basic auth and HTTPS. Ideal for use with a nginx reverse proxy. The library is designed to log and forget. If the logging server is down it wont crash or slow your program.
+A .NET standard 2.0 client for Gralog server HTTP GELF input. This library supports basic auth and HTTPS. Ideal for use with a nginx reverse proxy. The library is designed to log and forget. If the logging server is down it wont crash or slow your program.
 
 ### Program Trak
 
@@ -54,7 +54,7 @@ A open-source cross-platform dotnet core based program usage tracker. Simply log
 
 [Repo](https://bitbucket.org/2E0PGS/open-fusion-led-controller-main) - [Download](https://bitbucket.org/2E0PGS/open-fusion-led-controller-arduino)
 
-Open Source universal LED Strip light controller based on Arduino.
+Open Source universal LED strip light controller based on Arduino.
 
 ## NodeJS
 

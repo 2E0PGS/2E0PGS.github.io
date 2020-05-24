@@ -14,7 +14,7 @@ nav: false
 | LPS                |
 | LED                |
 | Metal halide       |
-| LED                |
+| Halogen            |
 | Fluorescent lamp   |
 | Incandescent       |
 | Red laser diode    |
