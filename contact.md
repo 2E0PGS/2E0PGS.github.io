@@ -20,9 +20,9 @@ I am always on IRC and I can be found in [#NBARC](http://nbarc.weebly.com/irc.ht
 | Nick       | Registered? | Description                                    |
 |------------|-------------|------------------------------------------------|
 | _2E0PGS    | Yes         | Main home IRC client                           |
-| _2E0PGS-W  | Yes         | Work IRC client                                |
-| _2E0PGS-M  | Yes         | Mobile IRC client. Often my phone              |
-| _2E0PGS-B  | Yes         | Bouncer IRC client. IRSSI on a server over SSH |
+| _2E0PGS-W  | No          | Work IRC client                                |
+| _2E0PGS-M  | No          | Mobile IRC client. Often Termux and IRSSI      |
+| _2E0PGS-B  | No          | Bouncer IRC client. IRSSI on a server over SSH |
 | M2E0PGS[m] | No          | Vector aka Matrix aka RIOT.IM IRC bridge       |
 
 {% include contact-form.html %}
