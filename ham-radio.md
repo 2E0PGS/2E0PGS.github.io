@@ -44,6 +44,7 @@ nav: true
 * RTL-SDR x3 (HF/VHF/UHF)
 * Ettus Research USPR1 (2x RX daughter boards) x2 (UHF)
 * HackRF One with external TCXO clock (1MHz - 6GHz)
+* AVRT5 APRS GPS Tracker (VHF)
 
 ## Radio gear I have used before
 
