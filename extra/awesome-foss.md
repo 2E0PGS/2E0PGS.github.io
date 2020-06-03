@@ -97,14 +97,13 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [rtl-433](https://github.com/merbanan/rtl_433)
 * [SDR angel](https://github.com/f4exb/sdrangel)
 * [pymultimonaprs](https://github.com/asdil12/pymultimonaprs)
-* [welle.io](https://github.com/AlbrechtL/welle.io)
+* [welle.io](https://github.com/AlbrechtL/welle.io) (also on Android)
 
 ##### Android apps
 
 * [APRSdroid](https://aprsdroid.org/) (dark theme)
 * [Rtl-sdr driver](https://github.com/martinmarinov/rtl_tcp_andro-)
 * [RF Analyzer](https://github.com/demantz/RFAnalyzer)
-* [welle.io](https://github.com/AlbrechtL/welle.io)
 
 #### Other
 
