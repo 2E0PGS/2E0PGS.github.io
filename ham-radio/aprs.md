@@ -19,9 +19,9 @@ More info at:
 
 I use [aprs-cli](https://bitbucket.org/2E0PGS/aprs-cli) written by me on my Android phone almost 24/7.
 
-~~I also operate a APRS I-Gate which runs on a Raspberry PI B+ with a SDR dongle. This allows for a compact 24/7 local or portable setup.~~
+~~I also operate a APRS iGate which runs on a Raspberry PI B+ with a SDR dongle. This allows for a compact 24/7 local or portable setup.~~
 
-I operate a 24/7 local APRS I-Gate on a VMWare virtual machine with usb pass-through of a RTL SDR dongle.
+I operate a 24/7 local APRS iGate on a VMWare virtual machine with usb pass-through of a RTL SDR dongle. See: [2020/06/13/pymultimonaprs-sdr](https://2e0pgs.github.io/blog/hamradio/2020/06/13/pymultimonaprs-sdr/)
 
 I used to have my WX (Weather Station) on APRS see: [Weather](../extra/weather.html)
 
@@ -35,18 +35,19 @@ I try to follow the recommended [guidelines](http://www.aprs.org/aprs11/SSIDs.tx
 |-----------------------------------------------|---------|---------|---------|---------------------|-----------------------------------------------------------------|
 | [2E0PGS](https://aprs.fi/info/a/2E0PGS)       | Yes     | Unknown | DPRS    | Unknown             | IC-7100                                                         |
 | [2E0PGS-1](https://aprs.fi/info/a/2E0PGS-1)   | No      | None    | TCPIP   | None                | [aprs-cli](https://bitbucket.org/2E0PGS/aprs-cli) on main phone |
+| [2E0PGS-6](http://www.ariss.net/)             | Yes     | FM      | FM      | Unknown             | Satellite DX                                                    |
 | [2E0PGS-7](https://aprs.fi/info/a/2E0PGS-7)   | No      | Unknown | DPRS    | Unknown             | ID-51A Plus 2                                                   |
 | [2E0PGS-8](https://aprs.fi/info/a/2E0PGS-8)   | No      | None    | FM      | None                | AVRT5                                                           |
 | [2E0PGS-9](https://aprs.fi/info/a/2E0PGS-9)   | No      | TCPIP   | TCPIP   | Send and receive    | [APRSdroid](https://aprsdroid.org/) on second phone             |
-| [2E0PGS-10](https://aprs.fi/info/a/2E0PGS-10) | Yes     | FM      | TCPIP   | Passthrough         | APRS I-Gate                                                     |
-| [2E0PGS-B](https://aprs.fi/info/a/2E0PGS-B)   | Yes     | DPRS    | TCPIP   | Passthrough         | D-Star hotspot and DPRS I-Gate                                  |
+| [2E0PGS-10](https://aprs.fi/info/a/2E0PGS-10) | Yes     | FM      | TCPIP   | Passthrough         | APRS iGate                                                      |
+| [2E0PGS-B](https://aprs.fi/info/a/2E0PGS-B)   | Yes     | DPRS    | TCPIP   | Passthrough         | D-Star hotspot and DPRS iGate                                   |
 | [2E0PGS-WX](https://aprs.fi/info/a/2E0PGS-WX) | Yes     | None    | TCPIP   | None                | Home weather station                                            |
 
 ### Secondary callsign
 
 | SSID     | Static? | TX type | Message capability? | Description            |
 |----------|---------|---------|---------------------|------------------------|
-| M3PGS-10 | Yes     | TCPIP   | Passthrough         | APRS I-Gate            |
+| M3PGS-10 | Yes     | TCPIP   | Passthrough         | APRS iGate             |
 | M3PGS-WX | Yes     | TCPIP   | None                | Second weather station |
 
 ### Other
