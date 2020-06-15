@@ -53,6 +53,10 @@ Tied to specific software in my testing. That software I found hard to acquire d
 
 ![dv-mini-05](/assets/images/ham-radio/dvap/dv-mini-05.jpg)
 
+## MMDVM_pog hat
+
+See: [2020/06/04/mmdvm-modem](https://2e0pgs.github.io/blog/hamradio/2020/06/04/mmdvm-modem/)
+
 TODO:
 * http://www.dv4mini.de/edv4mini.html
 * https://www.radioworld.co.uk/jumbospot-dmr-ysf-p25-d-star-multi-mode-ip-gateway
