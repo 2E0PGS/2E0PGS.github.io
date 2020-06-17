@@ -36,15 +36,16 @@ nav: true
 * Icom IC-E208 (VHF/UHF)
 * Yaesu FT-840 (HF)
 * Yaesu FT-60 (VHF/UHF)
-* Yaesu VX-7R (VHF/UHF/6M)
+* Yaesu VX-7R (VHF/UHF/6 m)
 * ​Motorola DP 3600 (UHF)
 * Puxing PX-2R (VHF/UHF)
 * Baofeng UV-5R x2 (VHF/UHF)
 * RIGblaster plus
 * RTL-SDR x3 (HF/VHF/UHF)
 * Ettus Research USPR1 (2x RX daughter boards) x2 (UHF)
-* HackRF One with external TCXO clock (1MHz - 6GHz)
+* HackRF One with external TCXO clock (1 MHz - 6 GHz)
 * AVRT5 APRS GPS Tracker (VHF)
+* TECSUN PL-310ET world radio
 
 ## Radio gear I have used before
 
@@ -60,12 +61,13 @@ nav: true
 * Ailunce AY01 UHF Yagi antenna
 * G5RV half wave dipole
 * CP-6 HF vertical
-* X-50 2M and 70CM collinear
-* Diamond? Tri-band 6M, 2M and 70CM base collinear
+* X-50 2 m and 70CM collinear
+* Diamond? Tri-band 6 m, 2 m and 70 cm base collinear
 * Various handheld antennas
-* 19dBi 2.4GHz square grid/dish antenna
-* 2.4GHz Yagi antenna
+* 19 dBi 2.4 GHz square grid/dish antenna
+* 2.4 GHz Yagi antenna
 * Opticum 10.7 GHz to 12.75 GHz LNB
+* [G8YMM/Severnside group 1.3 GHz Yagi antenna](https://www.qsl.net/g8ymm/aerials.htm)
 
 ## Antenna systems I have used before
 
@@ -75,7 +77,6 @@ nav: true
 * Butternut HF6V 6 band vertical
 * Hussler 5-BTV 5 band vertical
 * MFJ-1786 magnetic loop
-* [G8YMM/Severnside group 1.3GHz Yagi antenna](https://www.qsl.net/g8ymm/aerials.htm)
 
 ## Contactable via
 
