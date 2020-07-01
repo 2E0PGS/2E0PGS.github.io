@@ -19,7 +19,7 @@ I use [aprs-cli](https://bitbucket.org/2E0PGS/aprs-cli) written by me on my Andr
 
 I operate a 24/7 local APRS iGate on a VMWare virtual machine with usb pass-through of a RTL SDR dongle. See: [2020/06/13/pymultimonaprs-sdr](https://2e0pgs.github.io/blog/hamradio/2020/06/13/pymultimonaprs-sdr/)
 
-I used to have my WX (Weather Station) on APRS see: [Weather](../extra/weather.html)
+I used to have my WX (Weather Station) on APRS see: [Weather](/extra/weather.html)
 
 ## SSIDs
 

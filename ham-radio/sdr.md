@@ -16,7 +16,7 @@ Here is a list of stuff I have done with SDR.
 * APRS I-Gate using pymultimonaprs
 * Terrestrial TV reception with rtl dongle
 * IDS (Intrusion Detection System)
-* Decoded various data modes using SDR drivers with UDP streams, TCP streams or audio pipes in Linux. See: [Data modes](../data-modes.html)
+* Decoded various data modes using SDR drivers with UDP streams, TCP streams or audio pipes in Linux. See: [Data modes](/ham-radio/data-modes.html)
 * Run a DVB-T tvheadend server from a RTL dongle
 
 ## Future projects
@@ -26,7 +26,7 @@ Here is a list of stuff I have done with SDR.
 
 ## Open Source SDR tools and apps
 
-* See ham radio section: [Awesome FOSS](../../extra/awesome-foss.html)
+* See ham radio section: [Awesome FOSS](/extra/awesome-foss.html)
 
 ## Mobile SDR
 

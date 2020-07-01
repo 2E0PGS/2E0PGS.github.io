@@ -90,6 +90,8 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 #### SDR
 
+Also see this extremely comprehensive list: [rtl-sdr.com/big-list-rtl-sdr-supported-software](https://www.rtl-sdr.com/big-list-rtl-sdr-supported-software/)
+
 * [OpenWebRX](https://github.com/ha7ilm/openwebrx)
 * [SDR#](https://github.com/cgommel/sdrsharp)
 * [GQRX](https://github.com/csete/gqrx)
