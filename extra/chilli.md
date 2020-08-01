@@ -226,6 +226,59 @@ Quite loose and runny. Smoky BBQ.
 
 Not that hot compared to their other sauces. Nice tropical mango flavour. Good staple sauce.
 
+### HIGH RIVER
+
+[TEARS OF THE SUN HOT SAUCE](https://www.hot-headz.com/tears-of-the-sun-hot-sauce) (2/10)
+
+Another garlic heavy sauce but sweet peaches. Great as a cheese dipping sauce.
+
+[ROGUE MORUGA BLOOD ORANGE SCORPION HOT SAUCE](https://www.hot-headz.com/high-river-sauces-rogue-moruga-blood-orange-scorpion-hot-sauce)
+
+[FOO FOO MAMA CHOO SMOKIN' ED'S CAROLINA REAPER SAUCE](https://www.hot-headz.com/high-river-sauces-foo-foo-mama-choo-smokin-eds--sauce)
+
+### EL YUCATECO
+
+[RED HABANERO PEPPER SAUCE](https://www.hot-headz.com/el-yuceteco-hot-sauce/el-yucateco-red-habanero-pepper-sauce)
+
+### IGUANA
+
+[GOLD ISLAND PEPPER SAUCE](https://www.hot-headz.com/Iguana-Gold-Island-Pepper-Sauce)
+
+Garlic and carrot are most prevalent.
+
+### CAJOHN'S
+
+[MONGOOSE HOT SAUCE](https://www.hot-headz.com/cajohns-mongoose-hot-sauce?) (9/10)
+
+[EL CHUPACABRA HOT SAUCE](https://www.hot-headz.com/cajohns-el-chupacabra-hot-sauce) (5/10)
+
+[THE REAPER SLINGBLADE HOT SAUCE](https://www.hot-headz.com/the-reaper-slingblade-hot-sauce) (7/10)
+
+[TRINIDAD SCORPION HOT SAUCE](https://www.hot-headz.com/cajohns-trinidad-scorpion-hot-sauce-5oz) (8/10)
+
+### Burns & McCoy
+
+[Exhorresco 7 Pot Primo Hot Sauce](https://www.hot-headz.com/Burns-and-McCoy-Exhorresco-7Pot-Primo-Hot-Sauce?)
+
+### Char Man
+
+[Caribbean Hot Sauce](https://www.hot-headz.com/charman-Char-Man-Caribbean-Hot-Sauce)
+
+### Torchbearer
+
+[The Rapture Trinidad Scorpion Hot Sauce](https://www.hot-headz.com/Torchbearer-The-Rapture-Trinidad-Scorpion-Hot-Sauce)
+
+### Hot-Headz!
+
+[Satan's Revenge! Naga Chilli Sauce](https://www.hot-headz.com/satans-revenge-)
+
+[Who Dares Burns! Naga Mustard Sauce](https://www.hot-headz.com/who-dares-burns-naga-mustard-sauce)
+
+
+### Marie Sharp's
+
+[Garlic Habanero Hot Sauce](https://www.hot-headz.com/Marie-Sharp's-Original-Garlic-Habanero-Hot-Sauce)
+
 ### Unknown/one off brand
 
 [The Hottest Fuckin' Sauce](https://www.hotsauceemporium.co.uk/shop/hot-chilli-sauces/39/the-hottest-fuckin-sauce/) (6/10 heat level)
@@ -239,6 +292,24 @@ Very flavourful spices with garlic but not too spicy. Worth it for the flavour e
 [TAPATIO HOT SAUCE](https://www.hot-headz.com/tapatio-hot-sauce-large-296ml) (2/10)
 
 Nice mexican style hot sauce for dipping chips.
+
+[ACID RAIN HOT SAUCE PIQUANTE](https://www.hot-headz.com/acid-rain-hot-sauce-piquante) (7/10)
+
+Properly hot and complex flavour mix. Probably does contain acetic acids given the ingredients and slight acetic flavour.
+
+[Valentina Salsa Picante Extra Hot Sauce](https://www.hot-headz.com/valentina-salsa-picante-extra-hot-sauce-370ml)
+
+## Puree
+
+### CAJOHN'S
+
+[TRINIDAD MORUGA SCORPION PUREE 2OZ](https://www.hot-headz.com/ukccacajohns-trinidad-moruga-scorpion-puree-2oz) (9/10)
+
+### Chilli Mash Company
+
+[Carolina Reaper Puree](https://www.amazon.co.uk/Carolina-Reaper-Chilli-Puree-Ingredients/dp/B077BWYX45) (9/10)
+
+Doesn't last me long enough as it's only 41 ml. Otherwise nice addition to chilli when cooking.
 
 ## Extracts
 
@@ -305,3 +376,7 @@ Useful for making a chilli or curry. It is a little on the vinegary side however
 [Carolina Reaper Chilli Bombay Mix](https://www.amazon.co.uk/Carolina-Reaper-Chilli-Bombay-Mix/dp/B01MR49A1F) (7/10 heat level)
 
 It's your standard Bombay Mix but coated in Carolina Reaper dust. Great novelty snack for friends or if you really like Bombay Mix and chilli. Certainly builds heat the more you eat. Just watch your fingers as they end up being covered in reaper dust which can be inconvenient.
+
+### Cajohn's
+
+[Caboom Championship Chilli Fixin's](https://www.hot-headz.com/Cajohn's-Caboom-Championship-Chilli-Fixin's)
