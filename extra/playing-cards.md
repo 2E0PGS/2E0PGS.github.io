@@ -53,7 +53,3 @@ I first got into playing cards when I was learning magic. I then became more int
 ## Royale
 
 * The Quality Playing Card - Linen Finish
-
-## Images
-
-![playing-cards](/assets/images/extra/playing-cards/playing-cards.jpg)
