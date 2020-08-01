@@ -196,23 +196,23 @@ Very hot and very flavourful. Goes great to spice up some mac n cheese or on a b
 
 ### Karma Sauces
 
-[BURN AFTER EATING HOT SAUCE](https://www.hot-headz.com/Burn-After-Eating-Hot-Sauce) (10/10)
+[Burn After Eating Hot Sauce](https://www.hot-headz.com/Burn-After-Eating-Hot-Sauce) (10/10)
 
 A serious hot sauce. Very impressed with how how this is. There is some unusual spices in this which must kick it up a notch. Interesting unique flavour.
 
-### GRIM REAPER'S
+### Grim Reaper's
 
-[MAVERICK HABANERO GARLIC HOT SAUCE](https://www.hot-headz.com/grim-reaper-foods/grim-reapers-maverick-habanero-garlic-hot-sauce) (5/10)
+[Maverick Habanero Garlic Hot Sauce](https://www.hot-headz.com/grim-reaper-foods/grim-reapers-maverick-habanero-garlic-hot-sauce) (5/10)
 
 Pretty great sauce with garlic and spice! Very enjoyable and easily used up.
 
-[THE EVIL ONE!](https://www.hot-headz.com/the-evil-one) (5/10)
+[The Evil One!](https://www.hot-headz.com/the-evil-one) (5/10)
 
-Sharp lime citrus?
+Sharp lime citrus? Didn't enjoy that much as overly sour lime.
 
-### HELLFIRE
+### Hellfire
 
-[FIREARRHEA HOT SAUCE](https://www.hot-headz.com/Firearrhea-Hot-Sauce)
+[Firearrhea Hot Sauce](https://www.hot-headz.com/Firearrhea-Hot-Sauce)
 
 [Fear This!](https://www.amazon.co.uk/gp/product/B00YG5ARB2) (6/10)
 
@@ -226,35 +226,35 @@ Quite loose and runny. Smoky BBQ.
 
 Not that hot compared to their other sauces. Nice tropical mango flavour. Good staple sauce.
 
-### HIGH RIVER
+### High River
 
-[TEARS OF THE SUN HOT SAUCE](https://www.hot-headz.com/tears-of-the-sun-hot-sauce) (2/10)
+[Tears Of The Sun Hot Sauce](https://www.hot-headz.com/tears-of-the-sun-hot-sauce) (2/10)
 
 Another garlic heavy sauce but sweet peaches. Great as a cheese dipping sauce.
 
-[ROGUE MORUGA BLOOD ORANGE SCORPION HOT SAUCE](https://www.hot-headz.com/high-river-sauces-rogue-moruga-blood-orange-scorpion-hot-sauce)
+[Rogue Moruga Blood Orange Scorpion Hot Sau](https://www.hot-headz.com/high-river-sauces-rogue-moruga-blood-orange-scorpion-hot-sauce)
 
-[FOO FOO MAMA CHOO SMOKIN' ED'S CAROLINA REAPER SAUCE](https://www.hot-headz.com/high-river-sauces-foo-foo-mama-choo-smokin-eds--sauce)
+[Foo Foo Mama Choo Smokin' Ed's Carolina Reaper Sauce](https://www.hot-headz.com/high-river-sauces-foo-foo-mama-choo-smokin-eds--sauce)
 
-### EL YUCATECO
+### El Yucateco
 
-[RED HABANERO PEPPER SAUCE](https://www.hot-headz.com/el-yuceteco-hot-sauce/el-yucateco-red-habanero-pepper-sauce)
+[Red Habanero Pepper Sauce](https://www.hot-headz.com/el-yuceteco-hot-sauce/el-yucateco-red-habanero-pepper-sauce)
 
-### IGUANA
+### Iguana
 
-[GOLD ISLAND PEPPER SAUCE](https://www.hot-headz.com/Iguana-Gold-Island-Pepper-Sauce)
+[Gold Island Pepper Sauce](https://www.hot-headz.com/Iguana-Gold-Island-Pepper-Sauce)
 
 Garlic and carrot are most prevalent.
 
-### CAJOHN'S
+### Cajohn's
 
-[MONGOOSE HOT SAUCE](https://www.hot-headz.com/cajohns-mongoose-hot-sauce?) (9/10)
+[Mongoose Hot Sauce](https://www.hot-headz.com/cajohns-mongoose-hot-sauce?) (9/10)
 
-[EL CHUPACABRA HOT SAUCE](https://www.hot-headz.com/cajohns-el-chupacabra-hot-sauce) (5/10)
+[El Chupacabra Hot Sauce](https://www.hot-headz.com/cajohns-el-chupacabra-hot-sauce) (5/10)
 
-[THE REAPER SLINGBLADE HOT SAUCE](https://www.hot-headz.com/the-reaper-slingblade-hot-sauce) (7/10)
+[The Reaper Slingblade Hot Sauce](https://www.hot-headz.com/the-reaper-slingblade-hot-sauce) (7/10)
 
-[TRINIDAD SCORPION HOT SAUCE](https://www.hot-headz.com/cajohns-trinidad-scorpion-hot-sauce-5oz) (8/10)
+[Trinidad Scorpion Hot Sauce](https://www.hot-headz.com/cajohns-trinidad-scorpion-hot-sauce-5oz) (8/10)
 
 ### Burns & McCoy
 
@@ -285,15 +285,15 @@ Garlic and carrot are most prevalent.
 
 It's not that hot and I am quite disappointed in the marketing leading me to think otherwise. It seems to taste like it has extract in there too.
 
-[BROTHER BRU-BRU'S AFRICAN HOT SAUCE](https://www.hot-headz.com/Brother-Bru-Bru's-African-Hot-Sauce) (3/10)
+[Brother Bru-Bru's African Hot Sauce](https://www.hot-headz.com/Brother-Bru-Bru's-African-Hot-Sauce) (3/10)
 
 Very flavourful spices with garlic but not too spicy. Worth it for the flavour experience.
 
-[TAPATIO HOT SAUCE](https://www.hot-headz.com/tapatio-hot-sauce-large-296ml) (2/10)
+[Tapatio Hot Sauce](https://www.hot-headz.com/tapatio-hot-sauce-large-296ml) (2/10)
 
 Nice mexican style hot sauce for dipping chips.
 
-[ACID RAIN HOT SAUCE PIQUANTE](https://www.hot-headz.com/acid-rain-hot-sauce-piquante) (7/10)
+[Acid Rain Hot Sauce Piquante](https://www.hot-headz.com/acid-rain-hot-sauce-piquante) (7/10)
 
 Properly hot and complex flavour mix. Probably does contain acetic acids given the ingredients and slight acetic flavour.
 
@@ -301,9 +301,9 @@ Properly hot and complex flavour mix. Probably does contain acetic acids given t
 
 ## Puree
 
-### CAJOHN'S
+### Cajohn's
 
-[TRINIDAD MORUGA SCORPION PUREE 2OZ](https://www.hot-headz.com/ukccacajohns-trinidad-moruga-scorpion-puree-2oz) (9/10)
+[Cajohn's Trinidad Moruga Scorpion Puree](https://www.hot-headz.com/ukccacajohns-trinidad-moruga-scorpion-puree-2oz) (9/10)
 
 ### Chilli Mash Company
 
