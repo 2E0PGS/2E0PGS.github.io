@@ -182,7 +182,7 @@ I prefer this over Tropical Sun's version. It has less ingredients and tastes a 
 
 ### Heartbreaking Dawn's
 
-[Fervor Carolina Reaper Chile Hot Sauce](https://www.hot-headz.com/heartbreaking-dawns-fervor-reaper-chile-hot-sauce) (7/10)
+[Fervor Carolina Reaper Chile Hot Sauce](https://www.hot-headz.com/heartbreaking-dawns-fervor-reaper-chile-hot-sauce) (7/10 heat level)
 
 Very hot and very flavourful. Goes great to spice up some mac n cheese or on a burger.
 
@@ -196,17 +196,17 @@ Very hot and very flavourful. Goes great to spice up some mac n cheese or on a b
 
 ### Karma Sauces
 
-[Burn After Eating Hot Sauce](https://www.hot-headz.com/Burn-After-Eating-Hot-Sauce) (10/10)
+[Burn After Eating Hot Sauce](https://www.hot-headz.com/Burn-After-Eating-Hot-Sauce) (10/10 heat level)
 
 A serious hot sauce. Very impressed with how how this is. There is some unusual spices in this which must kick it up a notch. Interesting unique flavour.
 
 ### Grim Reaper's
 
-[Maverick Habanero Garlic Hot Sauce](https://www.hot-headz.com/grim-reaper-foods/grim-reapers-maverick-habanero-garlic-hot-sauce) (5/10)
+[Maverick Habanero Garlic Hot Sauce](https://www.hot-headz.com/grim-reaper-foods/grim-reapers-maverick-habanero-garlic-hot-sauce) (5/10 heat level)
 
 Pretty great sauce with garlic and spice! Very enjoyable and easily used up.
 
-[The Evil One!](https://www.hot-headz.com/the-evil-one) (5/10)
+[The Evil One!](https://www.hot-headz.com/the-evil-one) (5/10 heat level)
 
 Sharp lime citrus? Didn't enjoy that much as overly sour lime.
 
@@ -214,21 +214,21 @@ Sharp lime citrus? Didn't enjoy that much as overly sour lime.
 
 [Firearrhea Hot Sauce](https://www.hot-headz.com/Firearrhea-Hot-Sauce)
 
-[Fear This!](https://www.amazon.co.uk/gp/product/B00YG5ARB2) (6/10)
+[Fear This!](https://www.amazon.co.uk/gp/product/B00YG5ARB2) (6/10 heat level)
 
 Thick and chunky. Very strong indian curry spice flavour.
 
-[Evil Bastard](https://www.amazon.co.uk/gp/product/B06WW7NBG9) (8/10)
+[Evil Bastard](https://www.amazon.co.uk/gp/product/B06WW7NBG9) (8/10 heat level)
 
 Quite loose and runny. Smoky BBQ.
 
-[Fiery Fool](https://www.amazon.co.uk/gp/product/B07B6SJ82F) (5/10)
+[Fiery Fool](https://www.amazon.co.uk/gp/product/B07B6SJ82F) (5/10 heat level)
 
 Not that hot compared to their other sauces. Nice tropical mango flavour. Good staple sauce.
 
 ### High River
 
-[Tears Of The Sun Hot Sauce](https://www.hot-headz.com/tears-of-the-sun-hot-sauce) (2/10)
+[Tears Of The Sun Hot Sauce](https://www.hot-headz.com/tears-of-the-sun-hot-sauce) (2/10 heat level)
 
 Another garlic heavy sauce but sweet peaches. Great as a cheese dipping sauce.
 
@@ -248,13 +248,13 @@ Garlic and carrot are most prevalent.
 
 ### Cajohn's
 
-[Mongoose Hot Sauce](https://www.hot-headz.com/cajohns-mongoose-hot-sauce?) (9/10)
+[Mongoose Hot Sauce](https://www.hot-headz.com/cajohns-mongoose-hot-sauce?) (9/10 heat level)
 
-[El Chupacabra Hot Sauce](https://www.hot-headz.com/cajohns-el-chupacabra-hot-sauce) (5/10)
+[El Chupacabra Hot Sauce](https://www.hot-headz.com/cajohns-el-chupacabra-hot-sauce) (5/10 heat level)
 
-[The Reaper Slingblade Hot Sauce](https://www.hot-headz.com/the-reaper-slingblade-hot-sauce) (7/10)
+[The Reaper Slingblade Hot Sauce](https://www.hot-headz.com/the-reaper-slingblade-hot-sauce) (7/10 heat level)
 
-[Trinidad Scorpion Hot Sauce](https://www.hot-headz.com/cajohns-trinidad-scorpion-hot-sauce-5oz) (8/10)
+[Trinidad Scorpion Hot Sauce](https://www.hot-headz.com/cajohns-trinidad-scorpion-hot-sauce-5oz) (8/10 heat level)
 
 ### Burns & McCoy
 
@@ -285,15 +285,15 @@ Garlic and carrot are most prevalent.
 
 It's not that hot and I am quite disappointed in the marketing leading me to think otherwise. It seems to taste like it has extract in there too.
 
-[Brother Bru-Bru's African Hot Sauce](https://www.hot-headz.com/Brother-Bru-Bru's-African-Hot-Sauce) (3/10)
+[Brother Bru-Bru's African Hot Sauce](https://www.hot-headz.com/Brother-Bru-Bru's-African-Hot-Sauce) (3/10 heat level)
 
 Very flavourful spices with garlic but not too spicy. Worth it for the flavour experience.
 
-[Tapatio Hot Sauce](https://www.hot-headz.com/tapatio-hot-sauce-large-296ml) (2/10)
+[Tapatio Hot Sauce](https://www.hot-headz.com/tapatio-hot-sauce-large-296ml) (2/10 heat level)
 
 Nice mexican style hot sauce for dipping chips.
 
-[Acid Rain Hot Sauce Piquante](https://www.hot-headz.com/acid-rain-hot-sauce-piquante) (7/10)
+[Acid Rain Hot Sauce Piquante](https://www.hot-headz.com/acid-rain-hot-sauce-piquante) (7/10 heat level)
 
 Properly hot and complex flavour mix. Probably does contain acetic acids given the ingredients and slight acetic flavour.
 
@@ -303,11 +303,11 @@ Properly hot and complex flavour mix. Probably does contain acetic acids given t
 
 ### Cajohn's
 
-[Cajohn's Trinidad Moruga Scorpion Puree](https://www.hot-headz.com/ukccacajohns-trinidad-moruga-scorpion-puree-2oz) (9/10)
+[Cajohn's Trinidad Moruga Scorpion Puree](https://www.hot-headz.com/ukccacajohns-trinidad-moruga-scorpion-puree-2oz) (9/10 heat level)
 
 ### Chilli Mash Company
 
-[Carolina Reaper Puree](https://www.amazon.co.uk/Carolina-Reaper-Chilli-Puree-Ingredients/dp/B077BWYX45) (9/10)
+[Carolina Reaper Puree](https://www.amazon.co.uk/Carolina-Reaper-Chilli-Puree-Ingredients/dp/B077BWYX45) (9/10 heat level)
 
 Doesn't last me long enough as it's only 41 ml. Otherwise nice addition to chilli when cooking.
 
