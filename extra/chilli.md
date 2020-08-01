@@ -80,7 +80,7 @@ I prefer Dave's Gourmet - Naga Jolokia Ghost Pepper instead as it has better fla
 
 This stuff is instant needles and instant heat. Add this to any dip for a real heat kick. It's brutal stuff.
 
-[Dave's Insanity Limited Edition Private Reserve 2014]() (8/10 heat level)
+[Dave's Insanity Limited Edition Private Reserve 2014](https://www.hot-headz.com/daves-insanity-limited-edition-private-reserve-2013) (8/10 heat level)
 
 This stuff smells and tastes like play dough unfortunately. This is probably because it's mostly extract. Although my other extracts normally just have a metallic taste. Wouldn't recommend buying this.
 
@@ -182,13 +182,63 @@ I prefer this over Tropical Sun's version. It has less ingredients and tastes a 
 
 ### Heartbreaking Dawn's
 
-[Fervor Carolina Reaper Chile Hot Sauce]
+[Fervor Carolina Reaper Chile Hot Sauce](https://www.hot-headz.com/heartbreaking-dawns-fervor-reaper-chile-hot-sauce) (7/10)
 
-### Unknown
+Very hot and very flavourful. Goes great to spice up some mac n cheese or on a burger.
+
+[Cauterizer Trinidad Socrpion](https://www.hot-headz.com/heartbreaking-dawns-1498-cauterizer-trinidad-socrpion)
+
+[Southwestern Chocolate Habanero Hot Sauce](https://www.hot-headz.com/heartbreaking-dawns-southwestern-chocolate-habanero-hot-sauce)
+
+[1841 Pear & Apple Ghost Pepper Hot Sauce](https://www.hot-headz.com/heartbreaking-dawns-1841-pear-apple-ghost-pepper-hot-sauce?)
+
+[Reapercussion 7 Pod Primo Facef#@$er Hot Sauce!](https://www.hot-headz.com/Heartbreaking-dawns-reapercussion-carolina-reaper-hot-sauce)
+
+### Karma Sauces
+
+[BURN AFTER EATING HOT SAUCE](https://www.hot-headz.com/Burn-After-Eating-Hot-Sauce) (10/10)
+
+A serious hot sauce. Very impressed with how how this is. There is some unusual spices in this which must kick it up a notch. Interesting unique flavour.
+
+### GRIM REAPER'S
+
+[MAVERICK HABANERO GARLIC HOT SAUCE](https://www.hot-headz.com/grim-reaper-foods/grim-reapers-maverick-habanero-garlic-hot-sauce) (5/10)
+
+Pretty great sauce with garlic and spice! Very enjoyable and easily used up.
+
+[THE EVIL ONE!](https://www.hot-headz.com/the-evil-one) (5/10)
+
+Sharp lime citrus?
+
+### HELLFIRE
+
+[FIREARRHEA HOT SAUCE](https://www.hot-headz.com/Firearrhea-Hot-Sauce)
+
+[Fear This!](https://www.amazon.co.uk/gp/product/B00YG5ARB2) (6/10)
+
+Thick and chunky. Very strong indian curry spice flavour.
+
+[Evil Bastard](https://www.amazon.co.uk/gp/product/B06WW7NBG9) (8/10)
+
+Quite loose and runny. Smoky BBQ.
+
+[Fiery Fool](https://www.amazon.co.uk/gp/product/B07B6SJ82F) (5/10)
+
+Not that hot compared to their other sauces. Nice tropical mango flavour. Good staple sauce.
+
+### Unknown/one off brand
 
 [The Hottest Fuckin' Sauce](https://www.hotsauceemporium.co.uk/shop/hot-chilli-sauces/39/the-hottest-fuckin-sauce/) (6/10 heat level)
 
 It's not that hot and I am quite disappointed in the marketing leading me to think otherwise. It seems to taste like it has extract in there too.
+
+[BROTHER BRU-BRU'S AFRICAN HOT SAUCE](https://www.hot-headz.com/Brother-Bru-Bru's-African-Hot-Sauce) (3/10)
+
+Very flavourful spices with garlic but not too spicy. Worth it for the flavour experience.
+
+[TAPATIO HOT SAUCE](https://www.hot-headz.com/tapatio-hot-sauce-large-296ml) (2/10)
+
+Nice mexican style hot sauce for dipping chips.
 
 ## Extracts
 
