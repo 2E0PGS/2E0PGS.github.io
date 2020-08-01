@@ -28,8 +28,4 @@ nav: false
 
 [The Bristolian]() (Avon Valley Railway)
 
-I have a video of this train on my YouTube channel, to view [click here](https://www.youtube.com/watch?v=0OiUmt53uHo).
-
 [Flying Scotsman](https://en.wikipedia.org/wiki/LNER_Class_A3_4472_Flying_Scotsman)
-
-I have a video of this train on my YouTube channel, to view [click here](https://www.youtube.com/watch?v=K5Dp4hS7iD8).
