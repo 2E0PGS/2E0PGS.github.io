@@ -22,7 +22,7 @@ I wouldn't buy it again. It has a cheap nasty outer coating that looks like bin 
 
 Brilliant stuff. My go to duct tape for tough repairs. Durable outer coating and super sticky adhesive. Cross weaved fabric reinforcement.
 
-3M Duct Tape
+[3M Duct Tape]()
 
 Cheap and nasty. Tears really easily and is super thin. Seems very sticky at first but it comes off easy when pulled latterly and leaves behind lots of residue.
 
@@ -38,7 +38,7 @@ This tape I have however used to prevent a leak in a cracked bathtub and it's st
 
 Cheaper version of the super 33+. Works well for general use. Get the wider 19 mm instead of 15 mm. Can be bought cheap in bulk on eBay.
 
-3M super 33+
+[3M super 33+]()
 
 The best electrical tape I have found. Very elastic.
 
