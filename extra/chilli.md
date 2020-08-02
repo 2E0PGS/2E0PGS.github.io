@@ -132,7 +132,7 @@ Very good value for money sauce. Sure it's not 80% reaper but it's surprisingly 
 
 [Chilli Wizards - Phantom](https://www.amazon.co.uk/gp/product/B078SW875Z) (7/10 heat level)
 
-Again they have another great value sauces here.
+Again they have another great value sauce here.
 
 ### Daddy Cool
 
@@ -160,19 +160,25 @@ Not very good value for money. Super small bottle.
 
 ### South Devon Chilli Farm
 
-[Scorpion Chilli Sauce 50ml - Just Devon Chillies, No additives](https://www.amazon.co.uk/Scorpion-Chilli-Sauce-50ml-additives/dp/B01N8YKRJD) (7/10 heat level)
+[Scorpion Chilli Sauce](https://www.amazon.co.uk/Scorpion-Chilli-Sauce-50ml-additives/dp/B01N8YKRJD) (7/10 heat level)
 
 Super punchy sauce and so pure. Literally just chilli, vinegar and salt. This gives the sauce a real natural and raw flavour which is refreshing to see when so many sauces now just add extracts for heat.
 
-Carolina Reaper Chilli Sauce 50ml - Just Devon Chillies, No additives (8/10 heat level)
+[Carolina Reaper Chilli Sauce](https://www.southdevonchillifarm.co.uk/online-shop/extreme-heat-products/reaper-chilli-sauce-50ml/) (8/10 heat level)
 
 This is really pure hot lava. Warning add this to the top of some pizza and then cook it for a insanely hot pizza.
+
+### Wiltshire Chilli Farm
+
+[Trinidad Scorpion](https://www.justchillies.co.uk/product/trinidad-scorpion/?v=fa868488740a) (7/10 heat level)
+
+Very raw sauce, minimal ingredients, great stuff. Similar to South Devon Chilli farm.
 
 ### Tropical Sun
 
 [Jamaican Scotch Bonnet Pepper Sauce](https://groceries.asda.com/product/sauces-seasonings/tropical-sun-jamaican-scotch-bonnet-pepper-sauce/1000049687462) (6/10 heat level)
 
-Sweet and fruity hot sauce. You can taste a nice mango fruit with a decent kick of heat. Goes well with chips and makes an awesome dipping sauce when mixed with ketchup.
+Sweet and fruity hot sauce. You can taste a nice mango fruit with a decent kick of heat. Goes well with chips and makes an awesome dipping sauce when mixed with ketchup. Cheddar cheese dipping.
 
 ### Eaton's
 
@@ -274,10 +280,11 @@ Garlic and carrot are most prevalent.
 
 [Who Dares Burns! Naga Mustard Sauce](https://www.hot-headz.com/who-dares-burns-naga-mustard-sauce)
 
-
 ### Marie Sharp's
 
 [Garlic Habanero Hot Sauce](https://www.hot-headz.com/Marie-Sharp's-Original-Garlic-Habanero-Hot-Sauce)
+
+[Beware Hot Sauce](https://www.amazon.co.uk/Marie-Sharps-Beware-Hot-Sauce/dp/B000KM7DVC/)
 
 ### Unknown/one off brand
 
@@ -297,7 +304,65 @@ Nice mexican style hot sauce for dipping chips.
 
 Properly hot and complex flavour mix. Probably does contain acetic acids given the ingredients and slight acetic flavour.
 
-[Valentina Salsa Picante Extra Hot Sauce](https://www.hot-headz.com/valentina-salsa-picante-extra-hot-sauce-370ml)
+[Original Louisiana Hot Sauce](https://www.amazon.co.uk/Original-Louisiana-Hot-Sauce-175ml/dp/B071HWX1V6/)
+
+[Crystal Louisiana Hot Sauce ](https://www.amazon.co.uk/Crystal-Louisiana-Hot-Sauce-355ml/dp/B00Q8VN8KE/) (2/10 heat level)
+
+Very pure like Tabasco. Vinegar and chilli fermented. Nice.
+
+[Texas Pete Hot Sauce](https://www.amazon.co.uk/Texas-Pete-Hot-Sauce-170/dp/B0004JR2TO) (2/10 heat level)
+
+My favourite sauce in this category (classic diner hot sauce). Great for covering fried chips with.
+
+[Valentina Salsa Picante Extra Hot Sauce](https://www.hot-headz.com/valentina-salsa-picante-extra-hot-sauce-370ml) (2/10 heat level)
+
+### Hot Face Sauces
+
+[Scorpion Scorcher Hot Chilli Sauce](https://www.amazon.co.uk/gp/product/B00OTHHOOK/) (7/10 heat level)
+
+Slightly chunky and very pure fresh scorpion flavour. Goes well with ketchup as dipping sauce for meats. Recommended as a great introduction to real non extract hot sauce.
+
+[Reaper Extreme Chilli Sauce]()
+
+Unfortunately this sauce used extract and it was rather noticeable. Get the Scorpion version instead.
+
+### Sauce Crafters Inc
+
+[Professor Phardtpounder's Colon Cleaner!](https://www.amazon.co.uk/Sauce-Crafters-Inc-Professor-Phardtpounders/dp/B003S2SVAI/)
+
+Not my cup of tea. Chunky onions.
+
+### Bee Sting
+
+[Rainforest Honey Mustard Hot Sauce]()
+
+Honey mustard really. Don't recall any spice.
+
+### Tabasco
+
+[TABASCO Pepper Sauce](https://www.amazon.co.uk/TABASCO-Pepper-Sauce-Pack-350/dp/B004JUA5FW) (2/10 heat level)
+
+It's expensive for the amount. It's simple fermented sauce, I guess buy in bulk if you frequent it. Chip dipping sauce or tangy burger sauce. Entry level heat.
+
+### Sauce Shop
+
+[Buffalo Hot Sauce](https://www.amazon.co.uk/Sauce-Shop-Buffalo-Perfect-Chicken/dp/B01M4RX985) (1/10 heat level)
+
+Watery unfortunately.
+
+[Amarillo Hot Sauce](https://www.amazon.co.uk/Sauce-Shop-Amarillo-Perfect-150ml/dp/B01M6CQ8QU) (1/10 heat level)
+
+Watery unfortunately.
+
+### Bravado Spice
+
+[Black Garlic Carolina Reaper Hot Sauce](https://www.amazon.co.uk/Bravado-Black-Garlic-Carolina-Reaper/dp/B07H7KPV3L)
+
+[Serrano and Basil Hot Sauce](https://www.amazon.co.uk/Serrano-Basil-Sauce-Bravado-Spice/dp/B077W89V5F/)
+
+### Longbottom & Co
+
+[Longbottom & Co Hot Sauce](https://www.amazon.co.uk/Longbottom-Co-Hot-Sauce-250ml/dp/B07M8YH731/)
 
 ## Puree
 
