@@ -14,19 +14,23 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 ## Android apps
 
+* [Audio Recorder](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder) 
 * [Calendar](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar) (dark theme)
 * [F-Droid](https://play.google.com/store/apps/details?id=org.fdroid.fdroid) (dark theme)
 * [Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery) (dark theme)
-* [GnuCash](https://play.google.com/store/apps/details?id=org.gnucash.android)
+* [HttpCanary](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary) 
 * [NewPipe](https://play.google.com/store/apps/details?id=org.schabi.newpipe) (dark theme)
+* [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps) 
 * [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
 * [OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+* [Pdf Viewer Plus](https://play.google.com/store/apps/details?id=com.gsnathan.pdfviewer) 
 * [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) (dark theme)
 * [Survival Manual](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual) (dark theme)
 * [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) (dark theme)
 * [Music-Player](https://github.com/MaxFour/Music-Player) (dark theme)
 * [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
 * [Termux](https://github.com/termux/termux-app) (dark theme)
+* [Termux:API](https://play.google.com/store/apps/details?id=com.termux.api) 
 * [Yaaic](https://github.com/pocmo/Yaaic) (dark theme)
 * [Slide](https://github.com/ccrama/Slide) (dark theme)
 * [List My Apps](https://github.com/onyxbits/listmyaps)
@@ -34,6 +38,10 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) (dark theme)
 * [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) (dark theme)
 * [FairEmail](https://github.com/M66B/FairEmail) (dark theme)
+* [WiFiAnalyzer](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer)
+* [Port Authority](https://play.google.com/store/apps/details?id=com.aaronjwood.portauthority.free)
+* [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
+* [Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
 
 ## Web apps
 
@@ -50,7 +58,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 
 ## Software
 
-* [Atom](https://atom.io/)
+* [Visual Studio Code](https://github.com/microsoft/vscode)
 * [Audacity](http://www.audacityteam.org/)
 * [Etcher](https://etcher.io/)
 * [OBS (Open Broadcaster Software)](https://obsproject.com/)
@@ -63,15 +71,16 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Polychromatic](https://github.com/polychromatic/polychromatic)
 * [hexchat](https://hexchat.github.io/)
 * [IRSSI](https://github.com/irssi/irssi)
-* [transmission](https://transmissionbt.com/)
+* [Transmission](https://transmissionbt.com/)
 * [mpv](https://mpv.io/)
 * [VirtualBox](https://www.virtualbox.org/)
-* [pcsx2](https://pcsx2.net/)
+* [PCSX2](https://pcsx2.net/)
 * [tmux](https://github.com/tmux/tmux/wiki)
 * [vim](https://www.vim.org/)
-* [thunderbird](https://www.thunderbird.net/en-US/)
+* [Thunderbird](https://www.thunderbird.net/en-US/)
 * [Syncthing](https://syncthing.net/)
 * [sigrok](https://github.com/sigrokproject/libsigrok)
+* [FileZilla](https://filezilla-project.org/)
 
 ### Ham radio
 
