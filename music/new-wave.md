@@ -32,3 +32,4 @@ nav: false
 * Talk Talk - Life's What You Make It
 * Duran Duran - Greatest
 * The Thompson Twins - Love On Your Side
+* Squeeze - Cool For Cats

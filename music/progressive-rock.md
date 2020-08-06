@@ -23,7 +23,6 @@ nav: false
 * Brand X - Morrocan Roll
 * Alt-J - An Awesome Wave
 * Alt-J - This Is All Yours
-* Squeeze - Cool For Cats
 * Pink Floyd - The Dark Side of the Moon
 * Steve Hillage - Green
 * Shobaleader One performing “Squarepusher Theme”
@@ -49,3 +48,6 @@ nav: false
 * Steven Wilson - The Sound Of Muzak (Live)
 * Steven Wilson - Luminol
 * Steven Wilton - The Holy Drinker (Live in Frankfurt) 
+* Shpongle - Museum of Consciousness
+* Shpongle - Live in London (2013)
+* Shpongle - Live at Red Rocks (2014)
