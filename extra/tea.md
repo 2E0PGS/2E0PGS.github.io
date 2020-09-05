@@ -44,7 +44,7 @@ Strong English Breakfast
 
 Earl Grey
 
-Smoky Lapsang
+[Smoky Lapsang]()
 
 Not that good. Your better going for loose Lapsang for a real flavour.
 
@@ -53,6 +53,10 @@ Camomile
 Camomile & Honey
 
 Assam
+
+[Spicy Chai](https://www.twinings.co.uk/tea/chai/spicy-chai-50-tea-bags)
+
+Tastes good although you need to combine it with a second English black tea bag or it's far too weak.
 
 ### Yorkshire
 
@@ -173,6 +177,10 @@ Original
 ### Asda
 
 Loose Leaf
+
+[Extra Special Chai](https://groceries.asda.com/product/herbal-tea/asda-extra-special-chai-tea-50-bags/1000138208755)
+
+Tastes good although you need to combine it with a second English black tea bag or it's far too weak.
 
 ### Lipton
 
