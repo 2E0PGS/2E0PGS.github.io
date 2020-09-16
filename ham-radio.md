@@ -24,7 +24,9 @@ nav: true
 
 * Call sign: 2E0PGS/M3PGS
 * QTH: Bristol, UK
-* DMR-ID: 2351480, 2351481
+* [DMR ID](https://database.radioid.net/database/search#!): 2351480, 2351481 
+* [DStar](http://digitalhamireland.com/index.php/features/d-star-reg-check)
+* [Wires-x](https://www.yaesu.com/jp/en/wires-x/id/id_eu.php)
 * Member of NBARC (North Bristol Amateur Radio Club)
 * Member of RSGB (Radio Society Of Great Britain)
 * Licensed since March 2010
