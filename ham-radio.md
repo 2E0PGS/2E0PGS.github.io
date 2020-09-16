@@ -11,7 +11,7 @@ nav: true
 ## Sub pages
 
 * [HSMM-MESH](/ham-radio/hsmm-mesh.html)
-* [HSMM-MESH Help](/ham-radio/hsmm-mesh-help.html)
+* [HSMM-MESH help page](/ham-radio/hsmm-mesh-help.html)
 * [WSPR](/ham-radio/wspr.html)
 * [APRS](/ham-radio/aprs.html)
 * [IC-7100](/ham-radio/ic-7100.html)
