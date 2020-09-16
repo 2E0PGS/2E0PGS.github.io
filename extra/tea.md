@@ -229,3 +229,21 @@ I suggest blue top milk aka whole milk. Semi-skimmed will suffice.
 Tea spoon
 
 Used to measure out loose tea. One tea spoon per a person and one for the pot.
+
+## Iced tea
+
+### Tetley 
+
+[Tetley Cold Infusions - Mint, Lemon & Cucumber](https://www.tesco.com/groceries/en-GB/products/301210274)
+
+Probably one of the best iced tea bags I have found. Sometimes it can even be too strong an infusion.
+
+### Lipton
+
+[Lipton Real Iced Black Tea, Peach & Apricot](https://www.tesco.com/groceries/en-GB/products/303718811)
+
+I don't like it at all. Sweet and doesn't infuse too well.
+
+[Lipton Lemon Iced Tea Mix](https://www.lipton.com/us/en/our-teas/lemon-iced-tea-mix.html)
+
+Sweet sugary stuff. Fine if that's what you're after. American style iced tea.

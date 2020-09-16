@@ -22,9 +22,13 @@ I wouldn't buy it again. It has a cheap nasty outer coating that looks like bin 
 
 Brilliant stuff. My go to duct tape for tough repairs. Durable outer coating and super sticky adhesive. Cross weaved fabric reinforcement.
 
-[3M Duct Tape]()
+[3M Duct Tape](https://www.lidl.com/products/326846_B)
 
 Cheap and nasty. Tears really easily and is super thin. Seems very sticky at first but it comes off easy when pulled latterly and leaves behind lots of residue.
+
+[Workzone Duct Tape](https://www.aldi.co.uk/duct-tape-50m/p/093072007548400)
+
+Cheap and nasty. Tears really easily and is super thin.
 
 [T Rex Tape](https://www.amazon.co.uk/gp/product/B012APXT96/)
 
@@ -53,3 +57,19 @@ Works well and a decent price.
 [ScotchBlue Multi-Surface](https://www.amazon.co.uk/gp/product/B084B8PBHG/)
 
 Lasts long, sticky. I mostly use it for temporary holds in engineering instead of painting.
+
+## Packaging tape
+
+[Scotch 4501B6648 66 m x 48 mm Strong Packaging Tape - Brown](https://www.amazon.co.uk/Scotch-4501B6648-Strong-Packaging-Tape/dp/B00P8TVFIO/)
+
+TBA
+
+[Duck Tape HD Clear](https://www.amazon.co.uk/Duck-Heavy-Duty-Packaging-Tape/dp/B00CDNK6RE)
+
+TBA
+
+## Gaffa tape
+
+[Pro Gaff](https://www.amazon.co.uk/Pro-Gaff-RS127GN24X25-Fluorescent-Matt-Cloth/dp/B00XTV8VMQ/)
+
+TBA

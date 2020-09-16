@@ -14,13 +14,17 @@ Flavour rating under 5 means I probably wont be repurchasing.
 
 ### Indomie
 
-[Indomie Mi Goreng Instant Noodles Pedas]() (7/10 flavour)
+[Indomie Mi Goreng Instant Noodles Pedas](https://www.amazon.co.uk/gp/product/B005PTQDZC/) (7/10 flavour)
 
 Decent but not as much flavour as Ibumie Penang.
 
+[Indomie Mi Goreng Fried Instant Noodles](https://www.amazon.co.uk/gp/product/B00ZIVMLGW) (2/10 flavour)
+
+Tastes old and too oily.
+
 ### Ibumie
 
-[Ibumie Penang White Curry Mee]() (9/10 flavour)
+[Ibumie Penang White Curry Mee](https://www.amazon.co.uk/gp/product/B06XXJ2BZZ/) (9/10 flavour)
 
 Great creamy curry taste. Maybe a little on the fishy side.
 
@@ -56,21 +60,37 @@ Decent for cheap noodles from Tesco. A little on the slimy side however.
 
 [Nissin Chicken Flavour Instant Noodles](https://www.amazon.co.uk/Nissin-Chicken-Flavour-Instant-Noodles/dp/B004SGTUMQ)
 
-Better of getting the spicy version.
+Better off getting the spicy version.
 
 [Nissin Beef Flavour Noodles](https://www.amazon.co.uk/Nissin-Beef-Flavour-Noodles-Packets/dp/B004SH0KRY)
 
-Better of getting the spicy version.
+Better off getting the spicy version.
 
 [Nissin Sesame Oil Flavour Instant Noodles](https://www.amazon.co.uk/Nissin-Sesame-Flavour-Instant-Noodles/dp/B007FCXRHY/)
 
-Better of getting the spicy version.
+Better off getting the spicy version.
 
 ### Samyang
 
 [Samyang Hot Chicken Flavour Ramen (2xSpicy) Limited Edition](https://www.amazon.co.uk/Samyang-Chicken-Flavour-2xSpicy-Limited/dp/B07119KZZJ/)
 
 Surprisingly hot. But not the best flavour. May need to revisit as only had the one packet.
+
+[Samyang Dried Noodle Buldak Bag Noodles](https://www.amazon.co.uk/gp/product/B00GE1XKHY/)
+
+Really spicy stuff. However a little on the sweet side.
+
+### Paldo
+
+[Paldo Volcano Chicken Noodle (Artificial Beef & Chicken Flavour)](https://www.amazon.co.uk/gp/product/B075ZRJDK4/)
+
+Almost as spicy as Samyang. Bit thinner noodles. Probably better flavour however.
+
+### VIFON
+
+[VIFON Chilli Chicken Instant Noodles](https://www.amazon.co.uk/gp/product/B07MB4B9XF)
+
+These noodles require no active cooking. Just pour boiling water over them and let them sit. Spicy and great for a instant snack noodle.
 
 ### Batchelors
 
@@ -81,6 +101,16 @@ Their best flavour. However their flavouring seems to cause a body odour as stra
 [Batchelors Super Noodles Chicken Flavour](https://www.amazon.co.uk/Batchelors-Super-Noodles-Chicken-Flavour/dp/B01EX15TIE)
 
 Goes very soft/sticky if you like soft noodles.
+
+### MyKuali
+
+[MyKuali Penang Red Tom Yum Goong Noodle](https://www.amazon.co.uk/gp/product/B01AYGDYHU)
+
+TBA
+
+[MyKuali Penang Hokkien Prawn Noodle](https://www.amazon.co.uk/gp/product/B0199APM22/)
+
+Extremely fishy. The most fishy noodles I have ever had, it's like the ocean. However it has a nice flavour if you enjoy sea food! Not really spicy.
 
 ## Bowl/Cup (self contained)
 
@@ -111,6 +141,8 @@ The best pot noodle version perhaps.
 The most common pot noodle variant.
 
 [Pot Noodle Sticky Rib Noodles](https://www.amazon.co.uk/Pot-Noodle-Sticky-Rib-Noodles/dp/B06XP9Y2K7/)
+
+TBA
 
 [Pot Noodle King Original Curry Flavour](https://www.amazon.co.uk/Pot-Noodle-Original-Curry-Flavour/dp/B007XR2IM6/)
 

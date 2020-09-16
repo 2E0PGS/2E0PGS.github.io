@@ -30,6 +30,8 @@ nav: true
 
 ### Reviews
 
+Mostly consumables since they're easier to backlog, non consumables maybe on YouTube as video reviews.
+
 * [Chilli](/extra/chilli.html)
 * [Noodles](/extra/noodles.html)
 * [Tapes](/extra/tapes.html)
