@@ -22,7 +22,7 @@ nav: true
 
 ## General info
 
-* Call sign: 2E0PGS/M3PGS
+* Call sign: M3PGS/2E0PGS
 * QTH: Bristol, UK
 * [DMR ID](https://database.radioid.net/database/search#!): 2351480, 2351481 
 * [DStar](http://digitalhamireland.com/index.php/features/d-star-reg-check)
