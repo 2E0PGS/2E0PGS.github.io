@@ -106,11 +106,11 @@ Goes very soft/sticky if you like soft noodles.
 
 [MyKuali Penang Red Tom Yum Goong Noodle](https://www.amazon.co.uk/gp/product/B01AYGDYHU)
 
-TBA
+Acidic like white vinegar? Quite spicy actually. Almost as good as the Ibumie Penang White Curry Mee.
 
 [MyKuali Penang Hokkien Prawn Noodle](https://www.amazon.co.uk/gp/product/B0199APM22/)
 
-Extremely fishy. The most fishy noodles I have ever had, it's like the ocean. However it has a nice flavour if you enjoy sea food! Not really spicy.
+Extremely fishy. The most fishy noodles I have ever had, it's like the ocean. However it has a nice flavour if you enjoy sea food! Not really spicy though.
 
 ## Bowl/Cup (self contained)
 

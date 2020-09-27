@@ -17,6 +17,8 @@ I have achieved a mile range with a less than ideal mobile dual band antenna set
 
 Overall the best hotspot I have tested so far.
 
+![jumbospot](/assets/images/ham-radio/dvap/jumbospot.jpeg)
+
 ![jumbospot-01](/assets/images/ham-radio/dvap/jumbospot-01.jpeg)
 
 ![jumbospot-02](/assets/images/ham-radio/dvap/jumbospot-02.jpeg)
@@ -28,6 +30,8 @@ Overall the best hotspot I have tested so far.
 ## MMDVM dual duplex
 
 Slightly deaf and not as much output power when compared to the Jumbospot. Probably due to the close proximity of the antenna.
+
+![mmdvm-dual](/assets/images/ham-radio/dvap/mmdvm-dual.jpeg)
 
 ![mmdvm-dual-01](/assets/images/ham-radio/dvap/mmdvm-dual-01.jpg)
 

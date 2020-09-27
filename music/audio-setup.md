@@ -78,6 +78,10 @@ Unfortunately these come with cheap nasty tips. I put my Sennheiser tips on them
 
 Great bass for such a small device. Long battery life that lasts roughly a solid day of playback. Stereo speakers, micro USB support and AUX input. Cost me £30 from Tesco UK and I would purchase a Kitsound bluetooth speaker again if I ever loose this one. Compares to more expensive Bose and MiniRig portable speakers.
 
+[Soundcore Motion+](https://www.amazon.co.uk/gp/product/B07P39MLKH/)
+
+Rare to see a bluetooth speaker within this price range with stereo speakers, tweeters and passive radiators. Huge bass and USB-C. Probably the best bluetooth speaker reviewer on YouTube [oluv's gadgets](https://www.youtube.com/c/oluvsgadgets) put me onto it and I agree.
+
 ## Headphones
 
 [Beyerdynamic DT 990 PRO Studio Headphones](https://www.amazon.co.uk/gp/product/B0011UB9CQ)
