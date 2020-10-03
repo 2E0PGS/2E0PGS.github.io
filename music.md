@@ -19,6 +19,7 @@ nav: true
 * [New Wave](/music/new-wave.html)
 * [OST](/music/ost.html)
 * [Progressive Rock](/music/progressive-rock.html)
+* [Metal](/music/metal.html)
 * [Psy Trance](/music/psy-trance.html)
 * [Synth Pop](/music/synth-pop.html)
 * [Synth](/music/synth.html) (Mostly live performances found on YouTube)
