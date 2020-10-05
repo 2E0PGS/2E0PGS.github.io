@@ -62,7 +62,7 @@ Lasts long, sticky. I mostly use it for temporary holds in engineering instead o
 
 [Scotch 4501B6648 66 m x 48 mm Strong Packaging Tape - Brown](https://www.amazon.co.uk/Scotch-4501B6648-Strong-Packaging-Tape/dp/B00P8TVFIO/)
 
-TBA
+Leaves brow residue bits like pretty much all brown packaging tape.
 
 [Duck Tape HD Clear](https://www.amazon.co.uk/Duck-Heavy-Duty-Packaging-Tape/dp/B00CDNK6RE)
 

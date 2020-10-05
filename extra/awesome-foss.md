@@ -55,6 +55,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Go Back with Backspace](https://chrome.google.com/webstore/detail/go-back-with-backspace/eekailopagacbcdloonjhbiecobagjci)
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 * [Darkreader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+* [Tab auto reloader](https://github.com/denilsonsa/crx-reload-tab/)
 
 ## Software
 
@@ -115,6 +116,7 @@ Also see this extremely comprehensive list: [rtl-sdr.com/big-list-rtl-sdr-suppor
 * [APRSdroid](https://aprsdroid.org/) (dark theme)
 * [Rtl-sdr driver](https://github.com/martinmarinov/rtl_tcp_andro-)
 * [RF Analyzer](https://github.com/demantz/RFAnalyzer)
+* [SSTV Encoder](https://github.com/olgamiller/SSTVEncoder2)
 
 #### Other
 
