@@ -30,17 +30,29 @@ A .NET Standard 2.0 client for Graylog server HTTP GELF input. This library supp
 
 A .NET Core 2.1 console app cross-platform program usage tracker. Simply logs into sqlite DB.
 
-### Salsa
+### User Trak
 
-[Repo](https://bitbucket.org/2E0PGS/salsa/)
+[Repo](https://bitbucket.org/2E0PGS/user-trak) - [Download](https://bitbucket.org/2E0PGS/user-trak/downloads)
 
-A .NET Core 2.1 console app for automating the warning sign creation process for chilli dips. This program is at least one million Scovilles!
+A .NET Framework 4.6.1 Windows Forms application for tracking users working hours and overtime.
+
+### Always Watching Bot
+
+[Repo](https://bitbucket.org/2E0PGS/always-watching-bot)
+
+A .NET Core 2.1 console app cross-platform Discord Bot. Logs messages into SQLite DB via Dapper ORM.
 
 ### Open Fusion LED Controller Win Remote
 
 [Repo](https://bitbucket.org/2E0PGS/open-fusion-led-controller-win-remote)
 
 A .NET Framework 4.6.1 Windows Forms application for the Open Fusion LED Controller project.
+
+### Salsa
+
+[Repo](https://bitbucket.org/2E0PGS/salsa) - [Download](https://bitbucket.org/2E0PGS/salsa/downloads)
+
+A .NET Core 2.1 console app for automating the warning sign creation process for chilli dips. This program is at least one million Scovilles!
 
 ### Power Failure Logger Program
 
@@ -194,4 +206,4 @@ An extensive collection of CSS userstyle sheets I have produced to re-theme the 
 
 [Repo](https://bitbucket.org/2E0PGS/nagios-plugins)
 
-A collection of nagios compatible plugins I wrote for monitoring services. I use these with LibreNMS mostly.
+A collection of Nagios compatible plugins I wrote for monitoring services. I use these with LibreNMS mostly.
