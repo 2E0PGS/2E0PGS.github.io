@@ -84,9 +84,8 @@ Open Source universal LED strip light controller based on Arduino.
 
 [Repo](https://bitbucket.org/2E0PGS/marine-vu-meter)
 
-See the video explanation: [Marine Dual VU Meter Test Ardunio](https://www.youtube.com/watch?v=vY6zGdpB4O8)
-
-See the video demonstration: [Marine Analog VU Meter rack update](https://www.youtube.com/watch?v=eBCqBxwLZio)
+* See the video explanation: [Marine Dual VU Meter Test Ardunio](https://www.youtube.com/watch?v=vY6zGdpB4O8)
+* See the video demonstration: [Marine Analog VU Meter rack update](https://www.youtube.com/watch?v=eBCqBxwLZio)
 
 ### Arduino Logic Gate Demo
 
