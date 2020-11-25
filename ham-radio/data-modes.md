@@ -19,6 +19,7 @@ Various digital modes I have used and/or operated over the years.
 * RTTY (Radio Teletype)
 * PSK31
 * FT8
+* FT4
 
 ## rtl-433
 
@@ -45,10 +46,16 @@ Various digital modes I have used and/or operated over the years.
 ## Other
 
 * WSPR (Weak Signal Propagation Reporter)
+* GSM (Global System for Mobile Communications)
+* LoRa (Long Range)
+* WiFi
+* Bluetooth
+* RFID
+* NFC
 
 ## Data modes to decode
 
-* AIS boat
+* AIS (Automatic Identification system) boats
 * DVB-S2 (Digital Video Broadcast - Second Generation Satellite)
 * DVB-C (Digital Video Broadcasting - Cable)
 
