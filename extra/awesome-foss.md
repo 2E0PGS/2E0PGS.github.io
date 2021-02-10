@@ -20,7 +20,6 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery) (dark theme)
 * [HttpCanary](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary) 
 * [NewPipe](https://play.google.com/store/apps/details?id=org.schabi.newpipe) (dark theme)
-* [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps) 
 * [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
 * [OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
 * [Pdf Viewer Plus](https://play.google.com/store/apps/details?id=com.gsnathan.pdfviewer) 
@@ -82,6 +81,8 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Syncthing](https://syncthing.net/)
 * [sigrok](https://github.com/sigrokproject/libsigrok)
 * [FileZilla](https://filezilla-project.org/)
+* [Mixxx](https://github.com/mixxxdj/mixxx)
+* [Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 ### Ham radio
 
