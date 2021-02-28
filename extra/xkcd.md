@@ -53,3 +53,7 @@ How does git work?
 [The Life Of A Software Engineer](https://pbs.twimg.com/media/BEfEr9ECYAA3ZFs.jpg)
 
 Not an XKCD hosted comic but worth a mention; building software right.
+
+[Standards](https://xkcd.com/927/)
+
+15 competing standards.
