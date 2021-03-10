@@ -238,6 +238,10 @@ Used to measure out loose tea. One tea spoon per a person and one for the pot.
 
 Probably one of the best iced tea bags I have found. Sometimes it can even be too strong an infusion.
 
+[Redbush Pure](https://www.tetley.co.uk/all-drinks/redbush/tetley-redbush-pure)
+
+Very odd strong smell, taste isn't quite as odd. Okay with a little milk for a night time drink.
+
 ### Lipton
 
 [Lipton Real Iced Black Tea, Peach & Apricot](https://www.tesco.com/groceries/en-GB/products/303718811)

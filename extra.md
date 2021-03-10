@@ -36,3 +36,4 @@ Mostly consumables since they're easier to backlog, non consumables maybe on You
 * [Noodles](/extra/noodles.html)
 * [Tapes](/extra/tapes.html)
 * [Tea](/extra/tea.html)
+* [Coffee](/extra/coffee.html)
