@@ -41,6 +41,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Port Authority](https://play.google.com/store/apps/details?id=com.aaronjwood.portauthority.free)
 * [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
 * [Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
+* [Twire](https://github.com/twireapp/Twire) (dark theme)
 
 ## Web apps
 
@@ -82,6 +83,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [sigrok](https://github.com/sigrokproject/libsigrok)
 * [FileZilla](https://filezilla-project.org/)
 * [Mixxx](https://github.com/mixxxdj/mixxx)
+* [LMMS](https://github.com/LMMS/lmms)
 * [Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 ### Ham radio

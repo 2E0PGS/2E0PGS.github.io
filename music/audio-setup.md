@@ -70,7 +70,7 @@ Quite a strong bass. Fits snugly in the ear if using the larger tips to aid bass
 
 [Anker Bluetooth Headphones, SoundBuds Slim](https://www.amazon.co.uk/gp/product/B01N6DC2ZE)
 
-Unfortunately these come with cheap nasty tips. I put my Sennheiser tips on them and now it's a decent bluetooth earphone. Not as much bass as the MDR-EX450AP but decent in general for the price.
+Unfortunately these come with cheap nasty tips. I put my Sennheiser tips on them and now it's a decent bluetooth earphone. Not as much bass as the MDR-EX450AP but decent in general for the price. Update: The battery life degraded significantly.
 
 ## Bluetooth speaker
 
@@ -101,3 +101,13 @@ I use the MZ-E62 more since it has the remote control and great bass boost. Take
 ## MP3 player
 
 [Sony Walkman NWZ-A729]
+
+## VU
+
+[Home made analog needle VU meter](https://www.youtube.com/watch?v=eBCqBxwLZio)
+
+Click the link for more detail in a video.
+
+[Stageline VU 800](https://www.youtube.com/watch?v=G9R3_r3K3ek)
+
+Click the link for more detail in a video.
