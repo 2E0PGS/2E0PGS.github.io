@@ -42,9 +42,9 @@ This is a lovely flavourful sauce. Makes a great pizza dip instead of using hone
 
 This sauce smells just like scorpion peppers right away. You know it's deadly. If you want to make some of the hottest noodles or chilli dishes around this is sure to help facilitate that. Not bad on a spoon but add it to a dish and it soon catches up with you.
 
-[Psycho Juice - 70% Carolina Reaper](https://www.amazon.co.uk/Psycho-Juice-Carolina-Reaper-Chilli/dp/B08MQ8MB9M/) (9/10 heat level)
+[Psycho Pickles - Ghost Pepper](https://www.amazon.co.uk/gp/product/B00ND6PYCW) (7/10 heat level)
 
-Debating putting this at 10/10 heat level. It's one of the hottest sauces you can find without extract. As always Dr. Burnörium puts on a show with this natural, flavourful and powerful sauce. When I first got this I put my usual amount of hot sauce like I would with any scorpion or ghost pepper sauce and I was nearly unable to finish eating my food. I had to take a few breaks. I soon adjusted as sometimes required with new sauces or peppers even if you had the type of pepper before. Even with that said it's still a real gut burner!
+My favourite gherkins/pickles. Lovely heat level just don't eat too many at once or you will pay for it tomorrow. Sweet fresh small gherkins.
 
 ### The Chilli Alchemist
 
@@ -445,9 +445,3 @@ It's your standard Bombay Mix but coated in Carolina Reaper dust. Great novelty 
 ### Cajohn's
 
 [Caboom Championship Chilli Fixin's](https://www.hot-headz.com/Cajohn's-Caboom-Championship-Chilli-Fixin's)
-
-### Psycho Juice
-
-[Psycho Pickles - Ghost Pepper](https://www.amazon.co.uk/gp/product/B00ND6PYCW) (7/10 heat level)
-
-My favourite gherkins/pickles. Lovely heat level just don't eat too many at once or you will pay for it tomorrow. Sweet fresh small gherkins.
