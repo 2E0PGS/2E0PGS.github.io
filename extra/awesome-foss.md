@@ -42,6 +42,7 @@ There are various other "awesome" curated lists available on Github: [github.com
 * [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
 * [Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
 * [Twire](https://github.com/twireapp/Twire) (dark theme)
+* [andOTP](https://github.com/andOTP/andOTP) (dark theme)
 
 ## Web apps
 
