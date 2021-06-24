@@ -56,4 +56,6 @@ Icons from: [APRSDirect](https://www.aprsdirect.com/)
 
 You can see my nodes on this map view of Bristol via [aprs.fi](https://aprs.fi/#!mt=roadmap&z=11&lat=51.4829&lng=-2.6549&timerange=3600) or via the below embedded map:
 
+_Map currently offline due to: [aprs.fi/posts...](https://www.facebook.com/aprs.fi/posts/the-embedded-maps-feature-httpaprsfipageembed-of-aprsfi-is-temporarily-disabled-/10157069130779068/)_
+
 {% include aprs-fi-map.html %}
