@@ -62,7 +62,7 @@ Lasts long, sticky. I mostly use it for temporary holds in engineering instead o
 
 [Scotch 4501B6648 66 m x 48 mm Strong Packaging Tape - Brown](https://www.amazon.co.uk/Scotch-4501B6648-Strong-Packaging-Tape/dp/B00P8TVFIO/)
 
-Leaves brow residue bits like pretty much all brown packaging tape.
+Leaves brow residue bits like pretty much all brown packaging tape. Not a problem if used on cardboard boxes as intended.
 
 [Duck Tape HD Clear](https://www.amazon.co.uk/Duck-Heavy-Duty-Packaging-Tape/dp/B00CDNK6RE)
 
@@ -72,4 +72,4 @@ TBA
 
 [Pro Gaff](https://www.amazon.co.uk/Pro-Gaff-RS127GN24X25-Fluorescent-Matt-Cloth/dp/B00XTV8VMQ/)
 
-TBA
+After enough time left on a surface it does leave residue, making me question if it's worth the cost in the UK. I probably wont buy it again. One upside is the bright colours for marking.
